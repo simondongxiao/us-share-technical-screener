@@ -32,19 +32,44 @@
   function isType(row, type) {
     return String(row.Opportunity_Type || '').toUpperCase() === type;
   }
+  function buildOpportunityArrays(data) {
+    var rows = Array.isArray(data.records) ? data.records.slice() : [];
+    var byTicker = {};
+    rows.forEach(function (row) { byTicker[row.ticker] = row; });
+    var coreLimit = Number(data.counts && data.counts.core) || 0;
+    var core = rows.filter(function (row) { return row.Core_Opportunity === true; })
+      .sort(function (a, b) { return Number(b.Opportunity_Score || 0) - Number(a.Opportunity_Score || 0); })
+      .slice(0, coreLimit);
+    function typed(type) { return rows.filter(function (row) { return isType(row, type); }); }
+    var newTickers = (data.newOpportunities || []).map(function (x) { return x.Ticker || x.ticker; });
+    var changeTickers = (data.changes || []).map(function (x) { return x.Ticker || x.ticker; });
+    var avoidTickers = data.avoidTickers || [];
+    state.opportunityByTicker = byTicker;
+    state.coreOpportunities = core;
+    state.typeA = typed('TYPE A');
+    state.typeB = typed('TYPE B');
+    state.typeC = typed('TYPE C');
+    state.typeD = typed('TYPE D');
+    state.fundamentalWaitingTechnical = rows.filter(function (row) { return row.Fundamental_Data_Status !== 'INSUFFICIENT' && row.Core_Opportunity !== true; });
+    state.technicalStrongFundamentalPending = rows.filter(function (row) { return isType(row, 'FUNDAMENTAL PENDING'); });
+    state.newOpportunities = rows.filter(function (row) { return newTickers.indexOf(row.ticker) >= 0; });
+    state.opportunityChanges = rows.filter(function (row) { return changeTickers.indexOf(row.ticker) >= 0; });
+    state.valueTraps = rows.filter(function (row) { return avoidTickers.indexOf(row.ticker) >= 0; });
+    state.rows = rows;
+  }
   function rowMatches(row) {
     var q = state.query.trim().toLowerCase();
     if (q && !(String(row.ticker || '').toLowerCase().includes(q) || String(row.name || '').toLowerCase().includes(q) || String(row.exchange || '').toLowerCase().includes(q))) return false;
-    if (state.filter === 'core') return row.Core_Opportunity === true;
-    if (state.filter === 'a') return isType(row, 'TYPE A');
-    if (state.filter === 'b') return isType(row, 'TYPE B');
-    if (state.filter === 'c') return isType(row, 'TYPE C');
-    if (state.filter === 'd') return isType(row, 'TYPE D');
-    if (state.filter === 'strong_waiting') return row.Fundamental_Data_Status !== 'INSUFFICIENT' && row.Core_Opportunity !== true;
-    if (state.filter === 'pending') return isType(row, 'FUNDAMENTAL PENDING');
-    if (state.filter === 'new') return state.newTickers.indexOf(row.ticker) >= 0;
-    if (state.filter === 'changes') return state.changeTickers.indexOf(row.ticker) >= 0;
-    if (state.filter === 'avoid') return state.avoidTickers.indexOf(row.ticker) >= 0;
+    if (state.filter === 'core') return state.coreOpportunities.indexOf(row) >= 0;
+    if (state.filter === 'a') return state.typeA.indexOf(row) >= 0;
+    if (state.filter === 'b') return state.typeB.indexOf(row) >= 0;
+    if (state.filter === 'c') return state.typeC.indexOf(row) >= 0;
+    if (state.filter === 'd') return state.typeD.indexOf(row) >= 0;
+    if (state.filter === 'strong_waiting') return state.fundamentalWaitingTechnical.indexOf(row) >= 0;
+    if (state.filter === 'pending') return state.technicalStrongFundamentalPending.indexOf(row) >= 0;
+    if (state.filter === 'new') return state.newOpportunities.indexOf(row) >= 0;
+    if (state.filter === 'changes') return state.opportunityChanges.indexOf(row) >= 0;
+    if (state.filter === 'avoid') return state.valueTraps.indexOf(row) >= 0;
     return true;
   }
   function sortRows(rows) {
@@ -90,7 +115,7 @@
     document.getElementById('oppToolbar').innerHTML = '<span class="oppMuted">' + esc(labels[state.filter]) + ' · ' + rows.length + ' 只</span><span class="oppMuted">覆盖不足的标的保留在 Fundamental Pending，不进入 Core</span>';
     if (!rows.length) { document.getElementById('oppTableWrap').innerHTML = '<div class="oppEmpty">当前暂无符合条件股票</div>'; return; }
     document.getElementById('oppTableWrap').innerHTML = '<table class="oppTable"><thead><tr><th>Ticker</th><th>Company</th><th>Price</th><th>Market Cap</th><th>Opportunity Type</th><th>Fundamental Revision</th><th>Fundamental Score</th><th>Trend State</th><th>Location</th><th>Technical %ile</th><th>RS %ile</th><th>Opportunity Score</th><th>Why Now</th><th>Next Trigger</th><th>Main Risk</th><th>Fundamental Data</th></tr></thead><tbody>' + rows.map(function (r) { return '<tr><td><span class="oppTicker" data-ticker="' + esc(r.ticker) + '">' + esc(r.ticker) + '</span></td><td>' + esc(r.name || 'N/A') + '</td><td>$' + num(r.price, 2) + '</td><td>' + cap(r.Market_Cap) + '</td><td>' + esc(r.Opportunity_Type || 'UNCLASSIFIED') + '</td><td>' + esc(r.Fundamental_Revision_State || 'N/A') + '</td><td>' + num(r.Fundamental_Score) + '</td><td>' + esc(r.trend_state || 'N/A') + '</td><td>' + esc(r.location_state || 'N/A') + '</td><td>' + num(r.Technical_Percentile) + '</td><td>' + num(r.RS_Percentile || r.relative_strength_score) + '</td><td>' + num(r.Opportunity_Score) + '</td><td>' + esc(r.Why_Now || 'N/A') + '</td><td>' + esc(r.Next_Trigger || 'N/A') + '</td><td>' + esc(r.Main_Risk || 'N/A') + '</td><td>' + esc(r.Fundamental_Data_Status || 'N/A') + '</td></tr>'; }).join('') + '</tbody></table>';
-    document.querySelectorAll('.oppTicker').forEach(function (node) { node.onclick = function () { showDetail(state.data.byTicker[node.dataset.ticker]); }; });
+    document.querySelectorAll('.oppTicker').forEach(function (node) { node.onclick = function () { showDetail(state.opportunityByTicker[node.dataset.ticker]); }; });
   }
   function showDetail(row) {
     if (!row) return;
@@ -107,7 +132,7 @@
     var top = document.querySelector('.top');
     var button = document.createElement('button'); button.id = 'opportunityModeBtn'; button.className = 'btn oppMode'; button.style.width = 'auto'; button.style.fontSize = '14px'; button.textContent = '基本面 × 技术面机会'; button.onclick = openOpportunity; top.querySelector('.controls').insertBefore(button, top.querySelector('.controls').firstChild);
     makePanel();
-    fetch('opportunity-data.json', { cache: 'no-store' }).then(function (response) { if (!response.ok) throw new Error('opportunity-data.json ' + response.status); return response.json(); }).then(function (data) { state.data = data; state.rows = data.records || []; data.byTicker = {}; state.newTickers = (data.newOpportunities || []).map(function (x) { return x.Ticker; }); state.changeTickers = (data.changes || []).map(function (x) { return x.Ticker; }); state.avoidTickers = (data.avoidTickers || []); state.rows.forEach(function (row) { data.byTicker[row.ticker] = row; }); if (location.hash === '#opportunity') openOpportunity(); }).catch(function (error) { console.error(error); button.title = 'Opportunity 数据加载失败'; });
+    fetch('opportunity-data.json', { cache: 'no-store' }).then(function (response) { if (!response.ok) throw new Error('opportunity-data.json ' + response.status); return response.json(); }).then(function (data) { state.data = data; buildOpportunityArrays(data); if (location.hash === '#opportunity') openOpportunity(); }).catch(function (error) { console.error(error); button.title = 'Opportunity 数据加载失败'; });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 }());

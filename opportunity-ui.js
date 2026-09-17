@@ -56,7 +56,7 @@
     state.typeB = typed('TYPE B');
     state.typeC = typed('TYPE C');
     state.typeD = typed('TYPE D');
-    state.fundamentalWaitingTechnical = rows.filter(function (row) { return row.Fundamental_Data_Status !== 'INSUFFICIENT' && row.Core_Opportunity !== true; });
+    state.fundamentalWaitingTechnical = rows.filter(function (row) { return ['COMPLETE', 'PARTIAL', 'MINIMUM_COMPLETE'].indexOf(row.Fundamental_Data_Status) >= 0 && row.Core_Opportunity !== true; });
     state.technicalStrongFundamentalPending = rows.filter(function (row) { return isType(row, 'FUNDAMENTAL PENDING'); });
     state.newOpportunities = rows.filter(function (row) { return newTickers.indexOf(row.ticker) >= 0; });
     state.opportunityChanges = rows.filter(function (row) { return changeTickers.indexOf(row.ticker) >= 0; });

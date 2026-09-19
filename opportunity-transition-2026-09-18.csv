@@ -1,0 +1,11 @@
+Ticker,Old_Type,New_Type,Reason
+AMD,TYPE C,TYPE B,Technical 2026-09-18: trend=Uptrend; location=Near High; fundamental=Strong Up/PARTIAL
+DCI,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+DLR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/PENDING
+ESS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Downtrend; location=Pullback; fundamental=Insufficient/PENDING
+FDS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Mixed / Neutral; location=Pullback; fundamental=Insufficient/PENDING
+MOD,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+NTRS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Downtrend; location=Pullback; fundamental=Insufficient/PENDING
+O,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/PENDING
+SMCI,TYPE B,TYPE A,Technical 2026-09-18: trend=Uptrend; location=Pullback; fundamental=Strong Up/PARTIAL
+VICR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-18: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING

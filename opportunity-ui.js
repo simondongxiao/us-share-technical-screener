@@ -2,7 +2,7 @@
   'use strict';
 
   var root = document.documentElement;
-  var state = { rows: [], filter: 'core', query: '', sort: 'opportunity', desc: true };
+  var state = { rows: [], filter: 'core', query: '', sort: 'opportunity', desc: true, performance: null, performanceSelectionDate: null };
   var labels = {
     core: '全部核心机会',
     a: 'TYPE A｜错杀反转 · Fundamental Reversal',
@@ -92,12 +92,13 @@
     var style = document.createElement('style');
     style.id = 'opportunityUiStyle';
     style.textContent = '#opportunityPanel{display:none;position:fixed;inset:0;z-index:20;background:#f6f5f1;color:#18211f;overflow:auto;font:14px/1.45 Arial,"Microsoft YaHei",sans-serif}.oppHead{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:12px 16px;border-bottom:1px solid #dedbd2;background:#ebe7dc}.oppBrand{font-weight:800;font-size:20px;margin-right:8px}.oppBtn,.oppSelect,.oppInput{height:34px;border:1px solid #c9c5b9;background:#fffdfa;border-radius:6px;padding:0 10px}.oppBtn{cursor:pointer}.oppBtn.active{background:#2e6f9e;color:#fff;border-color:#2e6f9e}.oppInput{min-width:220px;flex:1}.oppSummary{display:grid;grid-template-columns:repeat(8,minmax(110px,1fr));gap:8px;padding:12px 16px}.oppStat{background:#fffdfa;border:1px solid #dedbd2;border-radius:6px;padding:8px 10px}.oppStat b{display:block;font-size:18px}.oppSummary span{color:#67716e;font-size:12px}.oppBody{padding:0 16px 24px}.oppToolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:10px}.oppDefinitions{display:grid;grid-template-columns:repeat(4,minmax(180px,1fr));gap:8px;padding:0 16px 12px}.oppDefinition{padding:8px 10px;border-top:2px solid #2e6f9e;background:#fffdfa}.oppDefinition b{display:block;margin-bottom:3px}.oppDefinition span{color:#67716e;font-size:12px}.oppTableWrap{overflow:auto;background:#fffdfa;border:1px solid #dedbd2;border-radius:6px}.oppTable{width:100%;border-collapse:collapse;min-width:1450px}.oppTable th,.oppTable td{padding:8px;border-bottom:1px solid #ece9e1;text-align:left;white-space:nowrap}.oppTable th{position:sticky;top:0;background:#ebe7dc;z-index:1}.oppTable tr:hover{background:#f0eee7}.oppTicker{font:700 13px Consolas,monospace;color:#2e6f9e;cursor:pointer}.oppMuted{color:#67716e}.oppEmpty{text-align:center;padding:36px;color:#67716e}.oppDetail{display:none;position:fixed;right:20px;top:80px;width:min(520px,calc(100vw - 40px));max-height:calc(100vh - 110px);overflow:auto;background:#fffdfa;border:1px solid #c9c5b9;border-radius:8px;box-shadow:0 12px 32px #0002;padding:16px;z-index:22}.oppDetail h3{margin:0 0 10px}.oppDetailGrid{display:grid;grid-template-columns:145px 1fr;gap:7px;border-top:1px solid #ece9e1;padding-top:10px}.oppDetailGrid span{color:#67716e}.oppClose{float:right}.oppMode{margin-left:auto}@media(max-width:900px){.oppSummary{grid-template-columns:repeat(2,1fr)}.oppDefinitions{grid-template-columns:1fr 1fr}.oppBrand{width:100%}.oppMode{margin-left:0}}';
+    style.textContent += '.oppPerformance{border:1px solid #dedbd2;background:#f2f0e9;padding:12px 14px;margin:0 16px 24px}.oppPerformanceHead{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;margin-bottom:10px}.oppPerformanceHead b{display:block;font-size:16px}.oppPerformanceHead span{display:block;color:#67716e;font-size:12px;margin-top:3px}.oppEvidence{border:1px solid #c9c5b9;background:#fffdfa;padding:6px 9px;color:#18211f!important;max-width:440px}.oppPerfTableWrap{overflow:auto;background:#fffdfa;border:1px solid #dedbd2;margin-top:10px}.oppPerfTable{width:100%;border-collapse:collapse;min-width:850px}.oppPerfTable th,.oppPerfTable td{padding:7px 8px;border-bottom:1px solid #ece9e1;text-align:right;white-space:nowrap}.oppPerfTable th:first-child,.oppPerfTable td:first-child,.oppPerfTable th:last-child,.oppPerfTable td:last-child{text-align:left}.oppPerfNote{color:#67716e;font-size:12px;margin-top:8px}.oppPerfPicker{display:flex;align-items:center;gap:8px;margin-top:10px}.oppPerfPicker select{height:30px;border:1px solid #c9c5b9;background:#fffdfa;padding:0 8px}.oppPerfMembers{display:grid;grid-template-columns:1fr;gap:10px;margin-top:10px}.oppPerfGroup{background:#fffdfa;border:1px solid #dedbd2;padding:8px 10px}.oppPerfGroup>b{display:block;margin-bottom:6px}.oppPerfMemberTable{width:100%;border-collapse:collapse;min-width:900px;font:12px Consolas,monospace}.oppPerfMemberTable th,.oppPerfMemberTable td{padding:5px 7px;border-top:1px solid #ece9e1;text-align:right;white-space:nowrap}.oppPerfMemberTable th:nth-child(2),.oppPerfMemberTable td:nth-child(2){text-align:left}.oppPerfPositive{color:#c84435}.oppPerfNegative{color:#11805a}.oppPerfStatus{font-weight:700;color:#174f70}@media(max-width:900px){.oppPerformanceHead{display:block}.oppEvidence{margin-top:8px;max-width:none}}';
     document.head.appendChild(style);
   }
   function makePanel() {
     var panel = document.createElement('section');
     panel.id = 'opportunityPanel';
-    panel.innerHTML = '<div class="oppHead"><div class="oppBrand">基本面 × 技术面机会</div><button id="oppBack" class="oppBtn">返回技术筛选</button><select id="oppFilter" class="oppSelect"></select><input id="oppSearch" class="oppInput" placeholder="搜索代码 / 公司 / 交易所" /><select id="oppSort" class="oppSelect"><option value="opportunity">机会分</option><option value="cap">市值</option><option value="alpha">字母</option></select><button id="oppDir" class="oppBtn" title="切换升序 / 降序">↓</button></div><div id="oppSummary" class="oppSummary"></div><div class="oppDefinitions"><div class="oppDefinition"><b>TYPE A｜错杀反转</b><span>' + typeDefinitions.a + '</span></div><div class="oppDefinition"><b>TYPE B｜趋势恢复</b><span>' + typeDefinitions.b + '</span></div><div class="oppDefinition"><b>TYPE C｜强趋势 / 突破</b><span>' + typeDefinitions.c + '</span></div><div class="oppDefinition"><b>TYPE D｜催化驱动</b><span>' + typeDefinitions.d + '</span></div></div><div class="oppBody"><div id="oppToolbar" class="oppToolbar"></div><div id="oppTableWrap" class="oppTableWrap"></div></div><div id="oppDetail" class="oppDetail"></div></section>';
+    panel.innerHTML = '<div class="oppHead"><div class="oppBrand">基本面 × 技术面机会</div><button id="oppBack" class="oppBtn">返回技术筛选</button><select id="oppFilter" class="oppSelect"></select><input id="oppSearch" class="oppInput" placeholder="搜索代码 / 公司 / 交易所" /><select id="oppSort" class="oppSelect"><option value="opportunity">机会分</option><option value="cap">市值</option><option value="alpha">字母</option></select><button id="oppDir" class="oppBtn" title="切换升序 / 降序">↓</button></div><div id="oppSummary" class="oppSummary"></div><div class="oppDefinitions"><div class="oppDefinition"><b>TYPE A｜错杀反转</b><span>' + typeDefinitions.a + '</span></div><div class="oppDefinition"><b>TYPE B｜趋势恢复</b><span>' + typeDefinitions.b + '</span></div><div class="oppDefinition"><b>TYPE C｜强趋势 / 突破</b><span>' + typeDefinitions.c + '</span></div><div class="oppDefinition"><b>TYPE D｜催化驱动</b><span>' + typeDefinitions.d + '</span></div></div><div class="oppBody"><div id="oppToolbar" class="oppToolbar"></div><div id="oppTableWrap" class="oppTableWrap"></div></div><section id="oppPerformance" class="oppPerformance"></section><div id="oppDetail" class="oppDetail"></div></section>';
     document.querySelector('.app').appendChild(panel);
     Object.keys(labels).forEach(function (key) {
       var option = document.createElement('option'); option.value = key; option.textContent = labels[key]; document.getElementById('oppFilter').appendChild(option);
@@ -114,9 +115,50 @@
     var c = data.counts;
     document.getElementById('oppSummary').innerHTML = [['数据日期', data.dataDate], ['$10B+ Universe', data.universeCount], ['基本面覆盖', data.fundamentalCoveragePct + '%'], ['Core Opportunities', c.core], ['TYPE A', c.typeA], ['TYPE B', c.typeB], ['TYPE C / D', c.typeC + ' / ' + c.typeD], ['Fundamental Pending', c.pending]].map(function (x) { return '<div class="oppStat"><span>' + esc(x[0]) + '</span><b>' + esc(x[1]) + '</b></div>'; }).join('');
   }
+  function pct(value, suffix) {
+    if (value === null || value === undefined || value === '') return '待观察';
+    var n = Number(value);
+    if (!Number.isFinite(n)) return '待观察';
+    return (n > 0 ? '+' : '') + n.toFixed(2) + (suffix || '%');
+  }
+  function renderPerformance() {
+    var host = document.getElementById('oppPerformance');
+    if (!host) return;
+    var data = state.performance;
+    if (!data) {
+      host.innerHTML = '<div class="oppPerformanceHead"><div><b>近5日综合排名收益跟踪</b><span>历史效果数据尚未生成。</span></div></div>';
+      return;
+    }
+    var horizonRows = (data.horizons || []).map(function (item) {
+      return '<tr><td>' + esc(item.horizon) + '个交易日</td><td>' + esc(item.matureCohorts) + ' / ' + esc(item.trackedCohorts) + '</td><td>' + pct(item.top20AverageReturnPct) + '</td><td>' + pct(item.high5AverageReturnPct) + '</td><td>' + pct(item.low5AverageReturnPct) + '</td><td>' + pct(item.highMinusLowPctPoints, '个百分点') + '</td><td>' + esc(item.conclusion) + '</td></tr>';
+    }).join('');
+    var selections = data.recentSelections || [];
+    var selectedDate = state.performanceSelectionDate || (data.latestSelection && data.latestSelection.selectionDate);
+    var latest = selections.find(function (item) { return item.selectionDate === selectedDate; }) || data.latestSelection;
+    var groups = '';
+    if (latest) {
+      groups = ['HIGH_5', 'LOW_5'].map(function (bucket) {
+        var title = bucket === 'HIGH_5' ? '近5日综合排名前5名' : '近5日综合排名后5名';
+        var members = latest.members.filter(function (item) { return item.bucket === bucket; }).map(function (item) {
+          var cls = item.currentReturnPct == null || Number(item.currentReturnPct) === 0 ? '' : Number(item.currentReturnPct) > 0 ? 'oppPerfPositive' : 'oppPerfNegative';
+          return '<tr><td>#' + esc(item.compositeRank) + '</td><td><b>' + esc(item.ticker) + '</b> · ' + esc(item.opportunityType) + '</td><td>' + esc(item.rollingPoints) + '</td><td>' + esc(item.appearances) + ' / 5</td><td>' + num(item.averageRank, 1) + '</td><td>$' + num(item.entryClose, 2) + '</td><td>$' + num(item.currentClose, 2) + '</td><td class="' + cls + '">' + pct(item.currentReturnPct) + '</td><td>' + pct(item.return5Pct) + '</td><td>' + pct(item.return10Pct) + '</td><td>' + pct(item.return20Pct) + '</td></tr>';
+        }).join('');
+        return '<div class="oppPerfGroup"><b>' + title + '</b><div class="oppPerfTableWrap"><table class="oppPerfMemberTable"><thead><tr><th>综合排名</th><th>标的 / Type</th><th>积分</th><th>入榜日</th><th>平均名次</th><th>入选价</th><th>当前价</th><th>当前收益</th><th>5日</th><th>10日</th><th>20日</th></tr></thead><tbody>' + members + '</tbody></table></div></div>';
+      }).join('');
+      groups = '<div class="oppPerfNote">当前查看选择日：' + esc(latest.selectionDate) + ' · 窗口覆盖 <span class="oppPerfStatus">' + esc(latest.windowCoverage) + '</span> · ' + (latest.status === 'VALID' ? '正式名单' : '预备名单，缺少 ' + esc(latest.missingSnapshotDates.join('、'))) + '</div><div class="oppPerfMembers">' + groups + '</div>';
+    }
+    var historyRows = (data.selectionHistory || []).slice().reverse().map(function (item) {
+      return '<tr><td>' + esc(item.selectionDate) + '</td><td>' + esc(item.windowCoverage) + '</td><td>' + (item.status === 'VALID' ? '正式' : '预备') + '</td><td>' + esc(item.sessionsElapsed) + '</td><td>' + pct(item.high5CurrentReturnPct) + '</td><td>' + pct(item.low5CurrentReturnPct) + '</td><td>' + pct(item.highMinusLowCurrentPctPoints, '个百分点') + '</td></tr>';
+    }).join('');
+    var picker = '<div class="oppPerfPicker"><span>查看具体选择日</span><select id="oppPerfSelection">' + selections.slice().reverse().map(function (item) { return '<option value="' + esc(item.selectionDate) + '"' + (latest && item.selectionDate === latest.selectionDate ? ' selected' : '') + '>' + esc(item.selectionDate) + ' · ' + esc(item.windowCoverage) + ' · ' + (item.status === 'VALID' ? '正式' : '预备') + '</option>'; }).join('') + '</select></div>';
+    host.innerHTML = '<div class="oppPerformanceHead"><div><b>近5日综合排名收益跟踪</b><span>以当日 Core Top20 为范围；最近5个交易日每日第1名计20分、第20名计1分、未入榜计0分，累计积分后比较前5与后5。</span></div><span class="oppEvidence">' + esc(data.overallConclusion) + '</span></div><div class="oppPerfTableWrap"><table class="oppPerfTable"><thead><tr><th>选择日</th><th>窗口覆盖</th><th>状态</th><th>已运行交易日</th><th>前5当前收益</th><th>后5当前收益</th><th>前5－后5</th></tr></thead><tbody>' + historyRows + '</tbody></table></div>' + picker + groups + '<div class="oppPerfNote">以下为完整5日窗口批次的正式前瞻统计；不足5日的预备名单不纳入。</div><div class="oppPerfTableWrap"><table class="oppPerfTable"><thead><tr><th>观察期</th><th>成熟批次 / 正式批次</th><th>前20平均</th><th>综合前5</th><th>综合后5</th><th>前5－后5</th><th>判断</th></tr></thead><tbody>' + horizonRows + '</tbody></table></div><div class="oppPerfNote">收盘口径；少于10个成熟批次不判断明显差异。明确差异至少需要20个成熟批次、平均差≥2个百分点且批次自举95%区间不含0。</div>';
+    var selection = document.getElementById('oppPerfSelection');
+    if (selection) selection.onchange = function (event) { state.performanceSelectionDate = event.target.value; renderPerformance(); };
+  }
   function render() {
     if (!state.data) return;
     renderSummary(state.data);
+    renderPerformance();
     var rows = sortRows(state.rows.filter(rowMatches));
     document.getElementById('oppToolbar').innerHTML = '<span class="oppMuted">' + esc(labels[state.filter]) + ' · ' + rows.length + ' 只</span><span class="oppMuted">覆盖不足的标的保留在 Fundamental Pending，不进入 Core</span>';
     if (!rows.length) { document.getElementById('oppTableWrap').innerHTML = '<div class="oppEmpty">当前暂无符合条件股票</div>'; return; }
@@ -139,6 +181,7 @@
     var button = document.createElement('button'); button.id = 'opportunityModeBtn'; button.className = 'btn oppMode'; button.style.width = 'auto'; button.style.fontSize = '14px'; button.textContent = '基本面 × 技术面机会'; button.onclick = openOpportunity; top.querySelector('.controls').insertBefore(button, top.querySelector('.controls').firstChild);
     makePanel();
     fetch('opportunity-data.json', { cache: 'no-store' }).then(function (response) { if (!response.ok) throw new Error('opportunity-data.json ' + response.status); return response.json(); }).then(function (data) { state.data = data; buildOpportunityArrays(data); if (location.hash === '#opportunity') openOpportunity(); }).catch(function (error) { console.error(error); button.title = 'Opportunity 数据加载失败'; });
+    fetch('opportunity-performance.json', { cache: 'no-store' }).then(function (response) { if (!response.ok) throw new Error('opportunity-performance.json ' + response.status); return response.json(); }).then(function (data) { state.performance = data; if (state.data) renderPerformance(); }).catch(function (error) { console.error(error); });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 }());

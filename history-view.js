@@ -93,7 +93,7 @@ function historyWindow() {
   return {all, start, rows: all.slice(start, end)};
 }
 
-moveCandle = function (step) {
+moveChart = function (step) {
   if (!chartMeta?.rows.length) return;
   const target = chartMeta.start + (state.chartIndex ?? chartMeta.rows.length - 1) + step;
   selectHistoryIndex(target);
@@ -109,6 +109,18 @@ function selectHistoryIndex(index) {
   state.chartIndex = index - next.start;
   drawChart();
 }
+
+function selectHistoryCandleByClick(event) {
+  const view = historyWindow();
+  if (!view.rows.length) return;
+  const rect = $('kCanvas').getBoundingClientRect();
+  const usable = Math.max(1, rect.width - 56 - 16);
+  const ratio = Math.max(0, Math.min(1, (event.clientX - rect.left - 56) / usable));
+  const localIndex = Math.round(ratio * Math.max(0, view.rows.length - 1));
+  selectHistoryIndex(view.start + localIndex);
+}
+
+$('kCanvas').addEventListener('click', selectHistoryCandleByClick);
 
 historyDate.addEventListener('change', async () => {
   const stock = currentStock();

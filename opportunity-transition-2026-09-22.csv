@@ -1,0 +1,6 @@
+Ticker,Old_Type,New_Type,Reason
+AG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-22: trend=Mixed / Neutral; location=Pullback; fundamental=Insufficient/PENDING
+ARWR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-22: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/PENDING
+NTNX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-22: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+OC,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-22: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+QCOM,TYPE A,TYPE B,Technical 2026-09-22: trend=Uptrend; location=Breakout; fundamental=Strong Up/PARTIAL

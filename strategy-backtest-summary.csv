@@ -1,0 +1,13 @@
+﻿group,config,label,horizon,matureSessions,averagePct,medianPct,winRatePct,maxDrawdownPct
+long,balanced,均衡,5,680,0.135,-0.1485,49.56,-98.8734
+long,balanced,均衡,10,674,1.2545,-0.8164,47.92,-99.9724
+long,balanced,均衡,20,664,2.4716,-0.6616,47.89,-100.0
+long,trend_follow,趋势跟随,5,680,0.1627,-0.1485,49.56,-98.8223
+long,trend_follow,趋势跟随,10,674,1.1468,-0.8679,47.77,-99.9722
+long,trend_follow,趋势跟随,20,664,2.4325,-0.5723,48.19,-100.0
+long,reversal,反转优先,5,680,0.1563,-0.13,49.71,-98.7601
+long,reversal,反转优先,10,674,1.3115,-0.7832,48.07,-99.9698
+long,reversal,反转优先,20,664,2.5323,-0.5366,48.19,-100.0
+top_risk,top_risk,顶部风险,5,680,1.6712,-0.4083,47.94,-98.6657
+top_risk,top_risk,顶部风险,10,674,2.3731,-0.7956,48.37,-99.9344
+top_risk,top_risk,顶部风险,20,665,3.0192,-2.0286,44.51,-100.0

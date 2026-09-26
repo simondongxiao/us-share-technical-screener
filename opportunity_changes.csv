@@ -1,1 +1,7 @@
 Ticker,Old_Type,New_Type,Reason
+AVTR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+CART,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+DRS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
+MOH,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+NYT,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+TXG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Uptrend; location=Breakout; fundamental=Insufficient/PENDING

@@ -1,7 +1,11 @@
 Ticker,Old_Type,New_Type,Reason
-AVTR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
-CART,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
-DRS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
-MOH,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
-NYT,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
-TXG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-25: trend=Uptrend; location=Breakout; fundamental=Insufficient/PENDING
+BXP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-28: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+CLX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-28: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+EVR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-28: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+GMED,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-28: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/PENDING
+INTC,TYPE B,TYPE A,Technical 2026-09-28: trend=Uptrend; location=Pullback; fundamental=Strong Up/PARTIAL
+META,TYPE B,TYPE A,Technical 2026-09-28: trend=Uptrend; location=Pullback; fundamental=Strong Up/PARTIAL
+QCOM,TYPE B,TYPE A,Technical 2026-09-28: trend=Uptrend; location=Pullback; fundamental=Strong Up/PARTIAL
+SKHY,TYPE B,UNCLASSIFIED,Technical 2026-09-28: trend=Mixed / Neutral; location=Mid Range; fundamental=Strong Up/PARTIAL
+VIAV,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-28: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
+WMS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-09-28: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING

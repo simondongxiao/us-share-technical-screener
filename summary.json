@@ -1,9 +1,9 @@
 {
-  "Universe_10B": 904,
-  "TYPE A": 25,
-  "TYPE B": 6,
+  "Universe_10B": 953,
+  "TYPE A": 0,
+  "TYPE B": 0,
   "TYPE C": 0,
   "TYPE D": 0,
-  "Core": 20,
-  "Fundamental_Coverage": 92.15
+  "Core": 0,
+  "Fundamental_Coverage": 91.29
 }

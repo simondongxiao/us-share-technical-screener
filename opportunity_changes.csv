@@ -1,1 +1,7 @@
 Ticker,Old_Type,New_Type,Reason
+BRK-A,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-26: trend=Uptrend; location=Breakout; fundamental=Insufficient/PENDING
+CPT,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-26: trend=Mixed / Neutral; location=Pullback; fundamental=Insufficient/PENDING
+DLR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-26: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/PENDING
+ESS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-26: trend=Mixed / Neutral; location=Near High; fundamental=Insufficient/PENDING
+NTRS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-26: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
+O,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-26: trend=Mixed / Neutral; location=Pullback; fundamental=Insufficient/PENDING

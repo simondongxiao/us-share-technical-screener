@@ -1,0 +1,5 @@
+/app-data-2026-10-06.json filter=lfs diff=lfs merge=lfs -text
+/app-data-2026-10-12.json filter=lfs diff=lfs merge=lfs -text
+/app-data-2026-10-15.json filter=lfs diff=lfs merge=lfs -text
+/app-data-2026-10-19.json filter=lfs diff=lfs merge=lfs -text
+/app-data-2026-10-21.json filter=lfs diff=lfs merge=lfs -text

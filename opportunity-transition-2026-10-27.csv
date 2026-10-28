@@ -1,0 +1,5 @@
+Ticker,Old_Type,New_Type,Reason
+AMG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-27: trend=Uptrend; location=Near High; fundamental=Insufficient/PENDING
+NTSK,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-27: trend=Uptrend; location=Breakout; fundamental=Insufficient/PENDING
+NVMI,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-27: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+RRX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-10-27: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE

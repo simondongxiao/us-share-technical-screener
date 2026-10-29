@@ -1,92 +1,9 @@
 {
-  "base_date": "2026-10-27",
-  "update_run_date": "2026-10-28",
-  "data_status": "收盘日线；技术筛选 5147 / 5476；市值缺口 320",
-  "scanned_count": 5147,
-  "raw_universe_count": 5476,
-  "chart_ok_count": 5474,
-  "chart_error_count": 2,
-  "price_gap_count": 329,
-  "counts": {
-    "all": 5476,
-    "gain3_top100": 100,
-    "gain5_top100": 100,
-    "consecutive_3d_gain": 575,
-    "consecutive_5d_gain": 86,
-    "new_year_high": 100,
-    "near_year_high_10pct": 1055,
-    "new_3y_high": 65,
-    "near_3y_high_10pct": 766,
-    "new_all_time_high": 64,
-    "break_pullback_ma5": 598,
-    "break_ma5_pullback_ma10": 880,
-    "technical_leaders": 975,
-    "trend_recovery": 0,
-    "bottoming_reversal": 857,
-    "near_high": 258,
-    "breakout": 258,
-    "relative_strength_leaders": 5147,
-    "technical_deterioration": 1674,
-    "neutral_consolidation": 1641
-  },
-  "exchange_counts": {
-    "Nasdaq": 3134,
-    "NYSE": 1787,
-    "NYSE American": 226
-  },
-  "sec_identity_missing_count": 11,
-  "sources": [
-    {
-      "name": "Nasdaq Trader nasdaq",
-      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
-      "retrievedAt": "2026-10-27T08:13:47.780872+08:00",
-      "rows": 5625
-    },
-    {
-      "name": "Nasdaq Trader other",
-      "url": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
-      "retrievedAt": "2026-10-27T08:13:48.341574+08:00",
-      "rows": 7673
-    },
-    {
-      "name": "SEC fund-report cross-check",
-      "checked": 297,
-      "funds_excluded": 82,
-      "unresolved": 0
-    },
-    {
-      "name": "SEC issuer identity",
-      "url": "https://www.sec.gov/files/company_tickers_exchange.json",
-      "retrievedAt": "2026-10-27T07:41:35.912988+08:00"
-    },
-    {
-      "name": "Yahoo Finance yfinance + Stooq fallback",
-      "purpose": "4-year daily OHLCV; direct chart API or Stooq used for stale target-day histories when selected or required",
-      "retrievedAt": "2026-10-28T08:00:22.102696+08:00"
-    },
-    {
-      "name": "Nasdaq screener API / Yahoo Finance info",
-      "purpose": "fresh market cap in USD 100M; provider as-of may be unavailable",
-      "retrievedAt": "2026-10-28T08:00:33.496235+08:00"
-    },
-    {
-      "name": "Gap recovery: local history, Yahoo chart, Nasdaq quote summary, Yahoo info",
-      "retrievedAt": "2026-10-28T08:02:15.209289+08:00",
-      "details": "gap_recovery raw response audit; no synthetic bars"
-    }
-  ],
-  "market_cap_ok_count": 5156,
-  "market_cap_error_count": 320,
-  "displayed_count": 5476,
-  "technical_eligible_count": 5147,
-  "displayed_exchange_counts": {
-    "Nasdaq": 3383,
-    "NYSE": 1852,
-    "NYSE American": 241
-  },
-  "market_cap_estimated_count": 0,
-  "market_cap_source_counts": {
-    "Nasdaq screener API": 5156,
-    "missing": 320
-  }
+  "Universe_10B": 874,
+  "TYPE A": 0,
+  "TYPE B": 0,
+  "TYPE C": 0,
+  "TYPE D": 0,
+  "Core": 0,
+  "Fundamental_Coverage": 90.16
 }

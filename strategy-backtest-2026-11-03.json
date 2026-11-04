@@ -170,21 +170,21 @@
         "outOfSample": {
           "5": {
             "matureSessions": 63,
-            "averagePct": -5.675,
+            "averagePct": -5.6747,
             "medianPct": -4.6689,
             "winRatePct": 26.98,
-            "maxDrawdownPct": -98.3825
+            "maxDrawdownPct": -98.3822
           },
           "10": {
             "matureSessions": 63,
-            "averagePct": -9.0602,
+            "averagePct": -9.0587,
             "medianPct": -8.466,
             "winRatePct": 14.29,
-            "maxDrawdownPct": -99.8682
+            "maxDrawdownPct": -99.868
           },
           "20": {
             "matureSessions": 63,
-            "averagePct": -16.3447,
+            "averagePct": -16.3519,
             "medianPct": -17.2346,
             "winRatePct": 11.11,
             "maxDrawdownPct": -99.9996
@@ -207,9 +207,9 @@
         "selectedConfig": "reversal",
         "selectedConfigLabel": "反转优先",
         "trainAverage2x5Pct": {
-          "balanced": -0.1393,
-          "trend_follow": -0.1405,
-          "reversal": -0.0563
+          "balanced": -0.1392,
+          "trend_follow": -0.1403,
+          "reversal": -0.0562
         },
         "outOfSample": {
           "5": {
@@ -251,9 +251,9 @@
         "selectedConfig": "reversal",
         "selectedConfigLabel": "反转优先",
         "trainAverage2x5Pct": {
-          "balanced": -1.5025,
-          "trend_follow": -1.4027,
-          "reversal": -1.4007
+          "balanced": -1.5024,
+          "trend_follow": -1.4026,
+          "reversal": -1.4006
         },
         "outOfSample": {
           "5": {
@@ -390,24 +390,24 @@
         "outOfSample": {
           "5": {
             "matureSessions": 63,
-            "averagePct": 0.0695,
+            "averagePct": 0.062,
             "medianPct": 1.9027,
             "winRatePct": 52.38,
-            "maxDrawdownPct": -76.831
+            "maxDrawdownPct": -76.6134
           },
           "10": {
             "matureSessions": 63,
-            "averagePct": -0.108,
+            "averagePct": -0.1105,
             "medianPct": 2.1843,
-            "winRatePct": 52.38,
-            "maxDrawdownPct": -88.2059
+            "winRatePct": 50.79,
+            "maxDrawdownPct": -87.9892
           },
           "20": {
             "matureSessions": 63,
-            "averagePct": -2.3176,
+            "averagePct": -2.3093,
             "medianPct": -4.3444,
             "winRatePct": 36.51,
-            "maxDrawdownPct": -98.7816
+            "maxDrawdownPct": -98.7523
           }
         }
       },
@@ -427,31 +427,31 @@
         "selectedConfig": "trend_follow",
         "selectedConfigLabel": "趋势跟随",
         "trainAverage2x5Pct": {
-          "balanced": 1.0726,
-          "trend_follow": 1.0726,
-          "reversal": 1.0726
+          "balanced": 1.0612,
+          "trend_follow": 1.0612,
+          "reversal": 1.0612
         },
         "outOfSample": {
           "5": {
             "matureSessions": 63,
-            "averagePct": -4.5175,
+            "averagePct": -4.5125,
             "medianPct": -5.3282,
             "winRatePct": 25.4,
-            "maxDrawdownPct": -95.507
+            "maxDrawdownPct": -95.4925
           },
           "10": {
             "matureSessions": 63,
-            "averagePct": -7.1814,
+            "averagePct": -7.1743,
             "medianPct": -7.0424,
             "winRatePct": 28.57,
-            "maxDrawdownPct": -99.4032
+            "maxDrawdownPct": -99.4006
           },
           "20": {
             "matureSessions": 63,
-            "averagePct": -9.5454,
+            "averagePct": -9.5321,
             "medianPct": -9.7636,
             "winRatePct": 22.22,
-            "maxDrawdownPct": -99.9044
+            "maxDrawdownPct": -99.9035
           }
         }
       },
@@ -471,9 +471,9 @@
         "selectedConfig": "trend_follow",
         "selectedConfigLabel": "趋势跟随",
         "trainAverage2x5Pct": {
-          "balanced": -1.9554,
-          "trend_follow": -1.9554,
-          "reversal": -1.9554
+          "balanced": -1.9567,
+          "trend_follow": -1.9567,
+          "reversal": -1.9567
         },
         "outOfSample": {
           "5": {
@@ -504,21 +504,21 @@
       "horizons": {
         "5": {
           "matureSessions": 582,
-          "averagePct": 0.6425,
+          "averagePct": 0.6422,
           "medianPct": -0.1147,
           "winRatePct": 49.83,
-          "maxDrawdownPct": -99.3618
+          "maxDrawdownPct": -99.3537
         },
         "10": {
           "matureSessions": 577,
-          "averagePct": 1.556,
+          "averagePct": 1.5566,
           "medianPct": -0.9209,
-          "winRatePct": 46.79,
+          "winRatePct": 46.62,
           "maxDrawdownPct": -99.974
         },
         "20": {
           "matureSessions": 567,
-          "averagePct": 2.3127,
+          "averagePct": 2.3143,
           "medianPct": -1.3264,
           "winRatePct": 47.09,
           "maxDrawdownPct": -100.0
@@ -534,21 +534,21 @@
       "horizons": {
         "5": {
           "matureSessions": 708,
-          "averagePct": 0.2357,
+          "averagePct": 0.2355,
           "medianPct": -0.4597,
           "winRatePct": 48.45,
-          "maxDrawdownPct": -99.3618
+          "maxDrawdownPct": -99.3537
         },
         "10": {
           "matureSessions": 703,
-          "averagePct": 0.971,
-          "medianPct": -1.1447,
-          "winRatePct": 45.95,
-          "maxDrawdownPct": -99.9747
+          "averagePct": 0.9716,
+          "medianPct": -1.1413,
+          "winRatePct": 45.8,
+          "maxDrawdownPct": -99.9746
         },
         "20": {
           "matureSessions": 693,
-          "averagePct": 1.8023,
+          "averagePct": 1.8036,
           "medianPct": -1.3041,
           "winRatePct": 46.61,
           "maxDrawdownPct": -100.0
@@ -557,24 +557,24 @@
       "underlyingHorizons": {
         "5": {
           "matureSessions": 708,
-          "averagePct": 0.2496,
+          "averagePct": 0.2495,
           "medianPct": 0.0413,
           "winRatePct": 50.28,
-          "maxDrawdownPct": -91.1773
+          "maxDrawdownPct": -91.1217
         },
         "10": {
           "matureSessions": 703,
-          "averagePct": 0.527,
+          "averagePct": 0.5273,
           "medianPct": -0.239,
-          "winRatePct": 48.93,
-          "maxDrawdownPct": -98.0799
+          "winRatePct": 48.79,
+          "maxDrawdownPct": -98.0789
         },
         "20": {
           "matureSessions": 693,
-          "averagePct": 0.983,
+          "averagePct": 0.9836,
           "medianPct": 0.1231,
           "winRatePct": 50.65,
-          "maxDrawdownPct": -99.8733
+          "maxDrawdownPct": -99.8737
         }
       },
       "description": "每日按该参数组合排名，取前20等权；收益为收盘到未来完成交易日的 close-to-close。"
@@ -585,21 +585,21 @@
       "horizons": {
         "5": {
           "matureSessions": 708,
-          "averagePct": 0.2648,
+          "averagePct": 0.2646,
           "medianPct": -0.4442,
           "winRatePct": 48.59,
-          "maxDrawdownPct": -99.3618
+          "maxDrawdownPct": -99.3537
         },
         "10": {
           "matureSessions": 703,
-          "averagePct": 0.8628,
-          "medianPct": -1.1645,
-          "winRatePct": 45.8,
+          "averagePct": 0.8633,
+          "medianPct": -1.1447,
+          "winRatePct": 45.66,
           "maxDrawdownPct": -99.974
         },
         "20": {
           "matureSessions": 693,
-          "averagePct": 1.7612,
+          "averagePct": 1.7625,
           "medianPct": -1.2519,
           "winRatePct": 46.75,
           "maxDrawdownPct": -100.0
@@ -608,24 +608,24 @@
       "underlyingHorizons": {
         "5": {
           "matureSessions": 708,
-          "averagePct": 0.2629,
+          "averagePct": 0.2628,
           "medianPct": 0.0608,
           "winRatePct": 50.42,
-          "maxDrawdownPct": -91.1773
+          "maxDrawdownPct": -91.1217
         },
         "10": {
           "matureSessions": 703,
-          "averagePct": 0.5009,
+          "averagePct": 0.5012,
           "medianPct": -0.239,
-          "winRatePct": 48.79,
-          "maxDrawdownPct": -98.0566
+          "winRatePct": 48.65,
+          "maxDrawdownPct": -98.0556
         },
         "20": {
           "matureSessions": 693,
-          "averagePct": 0.9681,
+          "averagePct": 0.9687,
           "medianPct": 0.1735,
           "winRatePct": 50.79,
-          "maxDrawdownPct": -99.8715
+          "maxDrawdownPct": -99.8718
         }
       },
       "description": "每日按该参数组合排名，取前20等权；收益为收盘到未来完成交易日的 close-to-close。"
@@ -636,21 +636,21 @@
       "horizons": {
         "5": {
           "matureSessions": 708,
-          "averagePct": 0.2503,
+          "averagePct": 0.2501,
           "medianPct": -0.4442,
           "winRatePct": 48.59,
-          "maxDrawdownPct": -99.3765
+          "maxDrawdownPct": -99.3686
         },
         "10": {
           "matureSessions": 703,
-          "averagePct": 1.0179,
+          "averagePct": 1.0185,
           "medianPct": -1.1302,
-          "winRatePct": 46.09,
+          "winRatePct": 45.95,
           "maxDrawdownPct": -99.9721
         },
         "20": {
           "matureSessions": 693,
-          "averagePct": 1.8992,
+          "averagePct": 1.9005,
           "medianPct": -1.2355,
           "winRatePct": 47.04,
           "maxDrawdownPct": -100.0
@@ -659,24 +659,24 @@
       "underlyingHorizons": {
         "5": {
           "matureSessions": 708,
-          "averagePct": 0.2575,
+          "averagePct": 0.2574,
           "medianPct": 0.0413,
           "winRatePct": 50.28,
-          "maxDrawdownPct": -91.273
+          "maxDrawdownPct": -91.218
         },
         "10": {
           "matureSessions": 703,
-          "averagePct": 0.5465,
+          "averagePct": 0.5468,
           "medianPct": -0.239,
-          "winRatePct": 48.93,
-          "maxDrawdownPct": -97.97
+          "winRatePct": 48.79,
+          "maxDrawdownPct": -97.9691
         },
         "20": {
           "matureSessions": 693,
-          "averagePct": 1.0155,
+          "averagePct": 1.0162,
           "medianPct": 0.1857,
           "winRatePct": 50.94,
-          "maxDrawdownPct": -99.8807
+          "maxDrawdownPct": -99.881
         }
       },
       "description": "每日按该参数组合排名，取前20等权；收益为收盘到未来完成交易日的 close-to-close。"

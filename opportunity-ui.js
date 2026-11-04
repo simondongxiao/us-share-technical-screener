@@ -114,6 +114,7 @@
   function renderSummary(data) {
     var c = data.counts;
     document.getElementById('oppSummary').innerHTML = [['数据日期', data.dataDate], ['$10B+ Universe', data.universeCount], ['基本面覆盖', data.fundamentalCoveragePct + '%'], ['Core Opportunities', c.core], ['TYPE A', c.typeA], ['TYPE B', c.typeB], ['TYPE C / D', c.typeC + ' / ' + c.typeD], ['Fundamental Pending', c.pending]].map(function (x) { return '<div class="oppStat"><span>' + esc(x[0]) + '</span><b>' + esc(x[1]) + '</b></div>'; }).join('');
+    document.getElementById('oppSummary').innerHTML += '<div class="oppStat"><span>基本面资料时点</span><b>' + esc((data.fundamentalAsOfDates || []).join(' / ') || '待补') + '</b></div><div class="oppStat"><span>资料新鲜度</span><b>' + (data.fundamentalFreshness && data.fundamentalFreshness.CARRIED_FORWARD ? '沿用旧资料，非今日更新' : '见各记录原始日期') + '</b></div>';
   }
   function pct(value, suffix) {
     if (value === null || value === undefined || value === '') return '待观察';
@@ -169,6 +170,7 @@
     if (!row) return;
     var detail = document.getElementById('oppDetail');
     var fields = [['Ticker / Company', (row.ticker || '') + ' · ' + (row.name || '')], ['价格 / 市值', '$' + num(row.price, 2) + ' · ' + cap(row.Market_Cap)], ['Opportunity', row.Opportunity_Type], ['基本面状态', (row.Fundamental_Revision_State || 'N/A') + ' · ' + (row.Fundamental_Data_Status || 'N/A')], ['Revenue / EPS trend', (row.Revenue_Revision || 'N/A') + ' / ' + (row.EPS_Revision || 'N/A')], ['Orders / Backlog / KPI', [row.Orders_Trend, row.Backlog_Trend, row.Core_KPI_Trend].map(function (x) { return x || 'N/A'; }).join(' / ')], ['Margin / FCF', [row.Gross_Margin_Trend, row.Operating_Margin_Trend, row.FCF_Trend].map(function (x) { return x || 'N/A'; }).join(' / ')], ['Trend / Location / Regime', [row.trend_state, row.location_state, row.technical_regime].map(function (x) { return x || 'N/A'; }).join(' / ')], ['Technical / RS percentile', num(row.Technical_Percentile) + ' / ' + num(row.RS_Percentile || row.relative_strength_score)], ['Drawdown / daily change', num(row.drawdown_60d_high) + '% / ' + num(row.daily_return) + '%'], ['Catalyst', (row.Catalyst_Tags || 'N/A') + ' · confidence ' + num(row.Catalyst_Score)], ['Why Now', row.Why_Now], ['Next Trigger', row.Next_Trigger], ['Main Risk / Invalidation', row.Main_Risk + ' / technical deterioration ' + num(row.Technical_Deterioration_Score)]];
+    fields.splice(4, 0, ['基本面资料日期 / 新鲜度', (row.Fundamental_AsOf_Date || '待补') + ' / ' + (row.Fundamental_Freshness_Status || 'N/A') + (row.Fundamental_Data_Age_Days == null ? '' : ' · 距行情日 ' + row.Fundamental_Data_Age_Days + ' 天')]);
     detail.innerHTML = '<button class="oppBtn oppClose">关闭</button><h3>' + esc(row.ticker) + ' · ' + esc(row.name) + '</h3><div class="oppDetailGrid">' + fields.map(function (f) { return '<span>' + esc(f[0]) + '</span><b>' + esc(f[1] || 'N/A') + '</b>'; }).join('') + '</div>';
     detail.style.display = 'block'; detail.querySelector('.oppClose').onclick = function () { detail.style.display = 'none'; };
   }

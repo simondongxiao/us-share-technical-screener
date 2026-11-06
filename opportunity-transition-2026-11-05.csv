@@ -1,0 +1,42 @@
+Ticker,Old_Type,New_Type,Reason
+ALLY,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+AYI,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Pullback; fundamental=Insufficient/PENDING
+BPOP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+BXP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+CUBE,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Insufficient/PENDING
+DOW,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+DUK,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+ETR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+FCX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+FTNT,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+FTV,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+HL,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+HMY,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/PARTIAL
+INSM,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+IONQ,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+IX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+JPM,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+MA,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+MCHP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+MNST,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+MRNA,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+NOK,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/PARTIAL
+NTAP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
+OC,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+PAYP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/INSUFFICIENT
+PCOR,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Insufficient/PENDING
+PCVX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
+REG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+REGN,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+SHEL,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/PARTIAL
+SNAP,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Insufficient/PENDING
+SNOW,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+SNPS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+SOLV,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+TOL,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+TU,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/PARTIAL
+ULTA,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+UMC,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Downtrend; location=Deep Pullback; fundamental=Insufficient/PENDING
+VRSK,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+WFC,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+ZM,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-05: trend=Mixed / Neutral; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE

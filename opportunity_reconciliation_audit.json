@@ -1,9 +1,9 @@
 {
-  "technicalDate": "2026-11-04",
-  "previousOpportunityDate": "2026-11-03",
+  "technicalDate": "2026-11-05",
+  "previousOpportunityDate": "2026-11-04",
   "marketCapThresholdUSD": 10000000000,
-  "expectedOpportunityUniverseCount": 870,
-  "actualOpportunityRecordCount": 870,
+  "expectedOpportunityUniverseCount": 903,
+  "actualOpportunityRecordCount": 903,
   "missingExpectedTickers": [],
   "unexpectedTickers": [],
   "duplicateTickers": [],
@@ -15,15 +15,15 @@
   },
   "coreTop20Count": 0,
   "fundamentalStatusCounts": {
-    "MINIMUM_COMPLETE": 663,
-    "PARTIAL": 117,
-    "PENDING": 88,
-    "INSUFFICIENT": 2
+    "MINIMUM_COMPLETE": 687,
+    "PARTIAL": 121,
+    "PENDING": 92,
+    "INSUFFICIENT": 3
   },
   "fundamentalAsOfDates": [
     "2026-09-11"
   ],
-  "transitionCount": 42,
+  "transitionCount": 41,
   "performanceTrackedCohorts": 1,
   "performancePreliminaryCohorts": 8
 }

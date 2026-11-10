@@ -2,12 +2,9 @@ Ticker,name,Market_Cap,Reason
 AAC,Ares Acquisition Corporation III Class A Ordinary Shares,491716563.00000006,BELOW_10B_THRESHOLD
 AACG,"ATA Creativity Global - American Depositary Shares, each representing two common shares",40051452.0,BELOW_10B_THRESHOLD
 AACI,Armada Acquisition Corp. III - Class A Ordinary Share,,MARKET_CAP_MISSING
-AACO,Abony Acquisition Corp. I - Class A Ordinary Share,,MARKET_CAP_MISSING
-AACP,Apogee Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 AADX,"Applied Aerospace & Defense, Inc. Common Stock",1879951313.9999998,BELOW_10B_THRESHOLD
 AAL,"American Airlines Group, Inc. - Common Stock",9382677025.0,BELOW_10B_THRESHOLD
 AAME,Atlantic American Corporation - Common Stock,23048935.0,BELOW_10B_THRESHOLD
-AAMI,Acadian Asset Management Inc. Common Stock,3389596422.0000005,BELOW_10B_THRESHOLD
 AAOI,"Applied Optoelectronics, Inc. - Common Stock",4729155137.0,BELOW_10B_THRESHOLD
 AAON,"AAON, Inc. - Common Stock",5184419575.0,BELOW_10B_THRESHOLD
 AAP,Advance Auto Parts Inc.,2775984000.0,BELOW_10B_THRESHOLD
@@ -18,6 +15,7 @@ AAUC,Allied Gold Corporation Common Shares,3295427500.0000005,BELOW_10B_THRESHOL
 ABAT,American Battery Technology Company - Common Stock,202460416.0,BELOW_10B_THRESHOLD
 ABCB,Ameris Bancorp Common Stock,5580055016.0,BELOW_10B_THRESHOLD
 ABCL,AbCellera Biologics Inc. - Common Shares,4048819112.9999995,BELOW_10B_THRESHOLD
+ABEO,Abeona Therapeutics Inc. - Common Stock,145152974.0,BELOW_10B_THRESHOLD
 ABG,Asbury Automotive Group Inc Common Stock,3772974180.0,BELOW_10B_THRESHOLD
 ABLV,Able View Global Inc. - Class B Ordinary Shares,131425566.0,BELOW_10B_THRESHOLD
 ABM,ABM Industries Incorporated Common Stock,3149948174.0,BELOW_10B_THRESHOLD
@@ -40,8 +38,6 @@ ACCV,Accelevation Holdings Corp. - Class A ordinary shares,2854816890.0,BELOW_10
 ACDC,ProFrac Holding Corp. - Class A Common Stock,622859846.0,BELOW_10B_THRESHOLD
 ACEL,"Accel Entertainment, Inc. ",1115842155.0,BELOW_10B_THRESHOLD
 ACET,"Adicet Bio, Inc. - Common Stock",27991171.999999996,BELOW_10B_THRESHOLD
-ACFN,"Acorn Energy, Inc. - Common Stock",39174005.0,BELOW_10B_THRESHOLD
-ACGC,ACP Holdings Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ACH,"Accendra Health, Inc. Common Stock",13715609.0,BELOW_10B_THRESHOLD
 ACHC,"Acadia Healthcare Company, Inc. - Common Stock",3589443708.0000005,BELOW_10B_THRESHOLD
 ACHR,Archer Aviation Inc. Class A Common Stock,3743551200.9999995,BELOW_10B_THRESHOLD
@@ -51,11 +47,13 @@ ACIU,AC Immune SA - Common Stock,248327518.0,BELOW_10B_THRESHOLD
 ACIW,"ACI Worldwide, Inc. - Common Stock",6156954237.0,BELOW_10B_THRESHOLD
 ACLS,"Axcelis Technologies, Inc. - Common Stock",3324323083.0,BELOW_10B_THRESHOLD
 ACM,AECOM Common Stock,9038349928.0,BELOW_10B_THRESHOLD
+ACMR,"ACM Research, Inc. - Class A Common Stock",3483055111.0,BELOW_10B_THRESHOLD
 ACNB,ACNB Corporation - Common Stock,677656014.0,BELOW_10B_THRESHOLD
 ACNT,Ascent Industries Co. - Common Stock,122419678.99999999,BELOW_10B_THRESHOLD
 ACOG,Alpha Cognition Inc. - Common Stock,193789526.0,BELOW_10B_THRESHOLD
 ACON,"Aclarion, Inc. - Common Stock",4957676.0,BELOW_10B_THRESHOLD
 ACR,ACRES Commercial Realty Corp. Common Stock,87572790.0,BELOW_10B_THRESHOLD
+ACRE,Ares Commercial Real Estate Corporation Common Stock,205280118.0,BELOW_10B_THRESHOLD
 ACRS,"Aclaris Therapeutics, Inc. - Common Stock",672515512.0,BELOW_10B_THRESHOLD
 ACRV,"Acrivon Therapeutics, Inc. - Common Stock",67708312.0,BELOW_10B_THRESHOLD
 ACT,"Enact Holdings, Inc. - Common Stock",6279776011.0,BELOW_10B_THRESHOLD
@@ -64,21 +62,21 @@ ACTU,"Actuate Therapeutics, Inc. - Common stock",17253336.0,BELOW_10B_THRESHOLD
 ACU,Acme United Corporation. Common Stock,265300551.99999997,BELOW_10B_THRESHOLD
 ACXP,"Acurx Pharmaceuticals, Inc. - Common Stock",5892969.0,BELOW_10B_THRESHOLD
 AD,"Array Digital Infrastructure, Inc. Common Shares",2625275000.0,BELOW_10B_THRESHOLD
-ADAC,American Drive Acquisition Company - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ADAG,"Adagene Inc. - ADS, each representing 1.25 ordinary shares",140029379.0,BELOW_10B_THRESHOLD
 ADAM,"Adamas Trust, Inc. - Common Stock",513834005.0,BELOW_10B_THRESHOLD
 ADBT,"Advasa Holdings, Inc. - Common stock",50474314.0,BELOW_10B_THRESHOLD
 ADC,Agree Realty Corporation Common Stock,9136995407.0,BELOW_10B_THRESHOLD
 ADCT,ADC Therapeutics SA Common Shares,211290035.0,BELOW_10B_THRESHOLD
-ADEA,Adeia Inc.  - Common Stock,1796783893.0,BELOW_10B_THRESHOLD
 ADGM,"Adagio Medical Holdings, Inc - Common Stock",52683510.0,BELOW_10B_THRESHOLD
 ADIG,ADI Global Distribution Inc. Common Stock,1468734265.0,BELOW_10B_THRESHOLD
 ADMA,ADMA Biologics Inc - Common Stock,2837517635.0,BELOW_10B_THRESHOLD
 ADNT,Adient plc Ordinary Shares ,1260920323.0,BELOW_10B_THRESHOLD
+ADPT,Adaptive Biotechnologies Corporation - Common Stock,4898388760.0,BELOW_10B_THRESHOLD
 ADRX,"ADARx Pharmaceuticals, Inc. - Common stock",1473858285.0,BELOW_10B_THRESHOLD
 ADSE,ADS-TEC ENERGY PLC - Ordinary Shares,698706489.0,BELOW_10B_THRESHOLD
 ADT,ADT Inc. Common Stock,7246868631.0,BELOW_10B_THRESHOLD
 ADTN,"ADTRAN Holdings, Inc. - Common Stock",349617089.0,BELOW_10B_THRESHOLD
+ADUR,Aduro Clean Technologies Inc. - Common Stock,386395121.0,BELOW_10B_THRESHOLD
 ADUS,Addus HomeCare Corporation - Common Stock,2281090545.0,BELOW_10B_THRESHOLD
 ADV,Advantage Solutions Inc.  - Class A Common Stock,423168140.0,BELOW_10B_THRESHOLD
 ADVB,Advanced Biomed Inc. - Common Stock,3386873.0,BELOW_10B_THRESHOLD
@@ -98,11 +96,11 @@ AERO,"Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each represen
 AERT,"Aeries Technology, Inc. - Class A Ordinary Share",27629941.000000004,BELOW_10B_THRESHOLD
 AESI,Atlas Energy Solutions Inc. Common Stock,693301929.0,BELOW_10B_THRESHOLD
 AESP,Aeon Acquisition I Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
-AETR,Aetherion Technologies Inc. - Common Shares,35142108.0,BELOW_10B_THRESHOLD
 AEVA,"Aeva Technologies, Inc. - Common Stock",859724170.0,BELOW_10B_THRESHOLD
+AEXA,American Exceptionalism Acquisition Corp. A Class A Ordinary Shares,,MARKET_CAP_MISSING
 AEYE,"AudioEye, Inc. - Common Stock",164392118.0,BELOW_10B_THRESHOLD
 AFCG,Advanced Flower Capital Inc. - Common Stock,76956991.0,BELOW_10B_THRESHOLD
-AFJK,"Aimei Health Technology Co., Ltd - Ordinary Share",,MARKET_CAP_MISSING
+AFJK,"Aimei Health Technology Co., Ltd - Ordinary Share",39262516.800000004,BELOW_10B_THRESHOLD
 AFRI,Forafric Global PLC - Ordinary Shares,345136832.0,BELOW_10B_THRESHOLD
 AFYA,Afya Limited - Class A Common Shares,1000022607.0,BELOW_10B_THRESHOLD
 AG,First Majestic Silver Corp. Ordinary Shares (Canada),7817339650.0,BELOW_10B_THRESHOLD
@@ -116,7 +114,6 @@ AGL,"agilon health, inc. Common Stock",1912282849.0,BELOW_10B_THRESHOLD
 AGLT,"Agility Robotics, Inc. - Ordinary Shares",2358231579.0,BELOW_10B_THRESHOLD
 AGM,Federal Agricultural Mortgage Corporation Common Stock,1967886531.0,BELOW_10B_THRESHOLD
 AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,371822211.0,BELOW_10B_THRESHOLD
-AGMH,AGM Group Holdings Inc. - Class A Ordinary Shares,1962330.0,BELOW_10B_THRESHOLD
 AGNT,"AGNT, Inc. - Common Stock",529555542.00000006,BELOW_10B_THRESHOLD
 AGO,Assured Guaranty Ltd. Common Stock,3243094270.0000005,BELOW_10B_THRESHOLD
 AGPU,Axe Compute Inc. - Common Stock,86933430.0,BELOW_10B_THRESHOLD
@@ -143,8 +140,10 @@ AIIA,AI Infrastructure Acquisition Corp. Class A Ordinary Shares,,MARKET_CAP_MIS
 AIIO,Robo.ai Inc. - Class B Ordinary Shares,70666402.0,BELOW_10B_THRESHOLD
 AIIR,Air Global PLC - Ordinary shares,1212522711.0,BELOW_10B_THRESHOLD
 AIM,AIM ImmunoTech Inc. Common Stock,6454986.0,BELOW_10B_THRESHOLD
+AIMD,"Ainos, Inc. - Common Stock",5126444.0,BELOW_10B_THRESHOLD
 AIN,Albany International Corporation Common Stock,1987574000.0,BELOW_10B_THRESHOLD
 AIOK,AI OKTO CORP. - Common Stock,49463038.0,BELOW_10B_THRESHOLD
+AIOS,AIOS Tech Inc. - Class A Common Shares,69129444.0,BELOW_10B_THRESHOLD
 AIOT,"PowerFleet, Inc. - Common Stock",374490311.0,BELOW_10B_THRESHOLD
 AIP,"Arteris, Inc.  - Common Stock",954913228.9999999,BELOW_10B_THRESHOLD
 AIR,AAR Corp. Common Stock,4691468308.0,BELOW_10B_THRESHOLD
@@ -159,9 +158,7 @@ AISP,"Airship AI Holdings, Inc - Class A Common Stock",59580442.0,BELOW_10B_THRE
 AIV,Apartment Investment and Management Company Common Stock,223664823.0,BELOW_10B_THRESHOLD
 AIXI,XIAO-I Corporation - American Depositary Shares,311686.0,BELOW_10B_THRESHOLD
 AKA,a.k.a. Brands Holding Corp. Common Stock,108062540.99999999,BELOW_10B_THRESHOLD
-AKAN,Akanda Corp. - Common Shares,1933974.0,BELOW_10B_THRESHOLD
 AKBA,"Akebia Therapeutics, Inc. - Common Stock",147939313.0,BELOW_10B_THRESHOLD
-AKO-A,Embotelladora Andina S.A. Common Stock,,MARKET_CAP_MISSING
 AKR,Acadia Realty Trust Common Stock,2759381097.0,BELOW_10B_THRESHOLD
 AKTS,"Aktis Oncology, Inc. - Common stock",910491199.0,BELOW_10B_THRESHOLD
 AKTX,Akari Therapeutics Plc - American Depositary Shares,17024479.0,BELOW_10B_THRESHOLD
@@ -176,12 +173,12 @@ ALGS,"Aligos Therapeutics, Inc. - Common stock",24681488.0,BELOW_10B_THRESHOLD
 ALGT,Allegiant Travel Company - Common Stock,2654557701.0,BELOW_10B_THRESHOLD
 ALH,Alliance Laundry Holdings Inc. Common Stock,4781871704.0,BELOW_10B_THRESHOLD
 ALHC,"Alignment Healthcare, Inc. - Common Stock",1521381224.0,BELOW_10B_THRESHOLD
-ALIS,Calisa Acquisition Corp - Ordinary shares,72012987.5,BELOW_10B_THRESHOLD
+ALIS,Calisa Acquisition Corp - Ordinary shares,71380925.0,BELOW_10B_THRESHOLD
 ALIT,"Alight, Inc. Class A Common Stock",336576530.0,BELOW_10B_THRESHOLD
 ALK,"Alaska Air Group, Inc. Common Stock",4702776047.0,BELOW_10B_THRESHOLD
 ALKS,Alkermes plc - Ordinary Shares,7758570242.0,BELOW_10B_THRESHOLD
+ALKT,"Alkami Technology, Inc. - Common Stock",1522141776.0,BELOW_10B_THRESHOLD
 ALLO,"Allogene Therapeutics, Inc. - Common Stock",367255345.0,BELOW_10B_THRESHOLD
-ALLR,"Allarity Therapeutics, Inc. - Common stock",15005404.0,BELOW_10B_THRESHOLD
 ALLT,Allot Ltd. - Ordinary Shares,437372505.0,BELOW_10B_THRESHOLD
 ALM,Almonty Industries Inc. - Common Shares,2531418581.0,BELOW_10B_THRESHOLD
 ALMR,"Alamar Biosciences, Inc. - Class A common stock",2212295768.0,BELOW_10B_THRESHOLD
@@ -190,7 +187,6 @@ ALMU,"Aeluma, Inc. - Common Stock",144282475.0,BELOW_10B_THRESHOLD
 ALNT,Allient Inc. - Common Stock,1476686932.0,BELOW_10B_THRESHOLD
 ALOV,"Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 ALOY,REalloys Inc. - Common Stock,477216696.0,BELOW_10B_THRESHOLD
-ALP,Alpha Compute Corp  - Ordinary Shares,4742535.0,BELOW_10B_THRESHOLD
 ALPS,ALPS Group Inc - Ordinary Share,52272104.0,BELOW_10B_THRESHOLD
 ALPX,Alpex Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ALRM,"Alarm.com Holdings, Inc. - Common Stock",3207322741.0,BELOW_10B_THRESHOLD
@@ -208,7 +204,6 @@ ALZN,"Alzamend Neuro, Inc. - Common Stock",6924913.000000001,BELOW_10B_THRESHOLD
 AM,Antero Midstream Corporation Common Stock,9232002570.0,BELOW_10B_THRESHOLD
 AMAC,AMR Resources Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 AMAL,Amalgamated Financial Corp. - Common Stock,1500991275.0,BELOW_10B_THRESHOLD
-AMAN,Amanat Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 AMBA,"Ambarella, Inc. - Ordinary Shares",2720849452.0,BELOW_10B_THRESHOLD
 AMBO,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),4233277.0,BELOW_10B_THRESHOLD
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,2868958013.0,BELOW_10B_THRESHOLD
@@ -232,6 +227,7 @@ AMR,"Alpha Metallurgical Resources, Inc. Common Stock",1967808569.0,BELOW_10B_TH
 AMRC,"Ameresco, Inc. Class A Common Stock",1190275113.0,BELOW_10B_THRESHOLD
 AMRN,Amarin Corporation plc - American Depositary Shares,242243982.0,BELOW_10B_THRESHOLD
 AMRO,Amaero Inc. - Common Stock,153009016.0,BELOW_10B_THRESHOLD
+AMRX,"Amneal Pharmaceuticals, Inc. - Class A Common Stock",7411739242.0,BELOW_10B_THRESHOLD
 AMS,American Shared Hospital Services Common Stock,8279250.000000001,BELOW_10B_THRESHOLD
 AMSC,American Superconductor Corporation - Common Stock,1227366594.0,BELOW_10B_THRESHOLD
 AMSF,"AMERISAFE, Inc. - Common Stock",363803163.0,BELOW_10B_THRESHOLD
@@ -246,8 +242,6 @@ AN,"AutoNation, Inc. Common Stock",5951179521.0,BELOW_10B_THRESHOLD
 ANAB,"AnaptysBio, Inc. - Common Stock",1420318834.0,BELOW_10B_THRESHOLD
 ANDE,"The Andersons, Inc. - Common Stock",1857498792.0000002,BELOW_10B_THRESHOLD
 ANDG,Andersen Group Inc. Class A Common Stock,7507176865.0,BELOW_10B_THRESHOLD
-ANF,Abercrombie & Fitch Company Common Stock,6486094524.000001,BELOW_10B_THRESHOLD
-ANGH,Anghami Inc. - Ordinary Shares,30729699.0,BELOW_10B_THRESHOLD
 ANGI,Angi Inc. - Class A Common Stock,274032897.0,BELOW_10B_THRESHOLD
 ANGO,"AngioDynamics, Inc. - Common Stock",509699934.0,BELOW_10B_THRESHOLD
 ANGX,"Angel Studios, Inc. Class A Common Stock",689130817.0,BELOW_10B_THRESHOLD
@@ -264,17 +258,17 @@ ANTX,"AN2 Therapeutics, Inc. - Common Stock",150944948.0,BELOW_10B_THRESHOLD
 ANVS,"Annovis Bio, Inc. Common Stock",57722704.0,BELOW_10B_THRESHOLD
 AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",145990254.0,BELOW_10B_THRESHOLD
 AORT,"Artivion, Inc. Common Stock",1007020894.0,BELOW_10B_THRESHOLD
+AOS,A.O. Smith Corporation Common Stock,8758247931.0,BELOW_10B_THRESHOLD
 AOSL,Alpha and Omega Semiconductor Limited - Common Shares,884271047.9999999,BELOW_10B_THRESHOLD
 AOUT,"American Outdoor Brands, Inc. - Common Stock",231599479.0,BELOW_10B_THRESHOLD
 AP,Ampco-Pittsburgh Corporation Common Stock,122918795.0,BELOW_10B_THRESHOLD
-APAC,StoneBridge Acquisition II Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 APAM,Artisan Partners Asset Management Inc. Class A Common Stock,3226734932.0,BELOW_10B_THRESHOLD
 APC,ARKO Petroleum Corp. - Class A Common Stock,706893514.0,BELOW_10B_THRESHOLD
+APEI,"American Public Education, Inc. - Common Stock",715407316.0,BELOW_10B_THRESHOLD
 API,"Agora, Inc. - ADS",358557000.0,BELOW_10B_THRESHOLD
 APLD,Applied Digital Corporation - Common Stock,5055912981.0,BELOW_10B_THRESHOLD
 APLE,"Apple Hospitality REIT, Inc. Common Shares",4644138535.0,BELOW_10B_THRESHOLD
 APLM,Apollomics Inc. - Class A Ordinary Shares,52852966.99999999,BELOW_10B_THRESHOLD
-APMC,AmperCap Acquisition Company - Ordinary Shares,198986992.75,BELOW_10B_THRESHOLD
 APMD,"Apnimed, Inc. - Common Stock",658182616.0,BELOW_10B_THRESHOLD
 APOG,"Apogee Enterprises, Inc. - Common Stock",1004033532.0,BELOW_10B_THRESHOLD
 APPF,"AppFolio, Inc. - Class A Common Stock",8136746033.999999,BELOW_10B_THRESHOLD
@@ -283,7 +277,6 @@ APPS,"Digital Turbine, Inc. - Common Stock",1375456962.0,BELOW_10B_THRESHOLD
 APRE,"Aprea Therapeutics, Inc. - Common Stock",7109759.0,BELOW_10B_THRESHOLD
 APT,"Alpha Pro Tech, Ltd. Common Stock",57256883.0,BELOW_10B_THRESHOLD
 APTV,Aptiv PLC Ordinary Shares,8078984253.0,BELOW_10B_THRESHOLD
-APUR,Aperture AC - Class A Ordinary Shares,,MARKET_CAP_MISSING
 APUS,"Apimeds Pharmaceuticals US, Inc. Common Stock",4180511.0,BELOW_10B_THRESHOLD
 APVO,Aptevo Therapeutics Inc. - Common Stock,3011668.0,BELOW_10B_THRESHOLD
 APWC,"Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share",46592673.0,BELOW_10B_THRESHOLD
@@ -296,11 +289,9 @@ AQN,Algonquin Power & Utilities Corp. Common Shares,4352923153.0,BELOW_10B_THRES
 AQST,"Aquestive Therapeutics, Inc. - Common Stock",444934476.0,BELOW_10B_THRESHOLD
 ARAI,Arrive AI Inc. - Common Stock,4964778.0,BELOW_10B_THRESHOLD
 ARAY,Accuray Incorporated - Common Stock,11475452.0,BELOW_10B_THRESHOLD
-ARBB,ARB IOT Group Limited - Ordinary Shares,6372574.0,BELOW_10B_THRESHOLD
 ARBE,Arbe Robotics Ltd. - Ordinary Shares,60263853.99999999,BELOW_10B_THRESHOLD
 ARBK,Argo Blockchain plc - American Depositary Shares,18570447.0,BELOW_10B_THRESHOLD
 ARCB,ArcBest Corporation - Common Stock,2923125962.0,BELOW_10B_THRESHOLD
-ARCI,Archimedes Tech SPAC Partners III Co. - Ordinary Share,355440960.0,BELOW_10B_THRESHOLD
 ARCL,ARC Group Acquisition I Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ARCO,Arcos Dorados Holdings Inc. Class A Shares,1488334498.0,BELOW_10B_THRESHOLD
 ARCT,Arcturus Therapeutics Holdings Inc. - Common Stock,273525658.0,BELOW_10B_THRESHOLD
@@ -315,20 +306,18 @@ ARKR,Ark Restaurants Corp. - Common Stock,16444076.0,BELOW_10B_THRESHOLD
 ARL,"American Realty Investors, Inc. Common Stock",355344946.0,BELOW_10B_THRESHOLD
 ARLO,"Arlo Technologies, Inc. Common Stock",1303815739.0,BELOW_10B_THRESHOLD
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock",140176061.0,BELOW_10B_THRESHOLD
-AROC,"Archrock, Inc. Common Stock",5087897471.0,BELOW_10B_THRESHOLD
 AROW,Arrow Financial Corporation - Common Stock,724462807.0,BELOW_10B_THRESHOLD
 ARQ,"Arq, Inc. - Common Stock",126381570.00000001,BELOW_10B_THRESHOLD
-ARQQ,Arqit Quantum Inc. - Ordinary Shares,293404649.0,BELOW_10B_THRESHOLD
 ARQT,"Arcutis Biotherapeutics, Inc. - Common stock",3313121865.0,BELOW_10B_THRESHOLD
 ARR,"ARMOUR Residential REIT, Inc.",1894522836.0000002,BELOW_10B_THRESHOLD
 ARRY,"Array Technologies, Inc. - Common Stock",799299921.0,BELOW_10B_THRESHOLD
-ARTC,Art Technology Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ARTL,"Artelo Biosciences, Inc. - Common Stock",1150325.0,BELOW_10B_THRESHOLD
 ARTNA,Artesian Resources Corporation - Class A Non-Voting Common Stock,348230520.0,BELOW_10B_THRESHOLD
 ARTV,"Artiva Biotherapeutics, Inc. - Common Stock",206316311.0,BELOW_10B_THRESHOLD
 ARTW,"Art's-Way Manufacturing Co., Inc. - Common Stock",14577881.0,BELOW_10B_THRESHOLD
 ARVN,"Arvinas, Inc. - Common Stock",442678641.0,BELOW_10B_THRESHOLD
 ARW,"Arrow Electronics, Inc. Common Stock",9700975019.0,BELOW_10B_THRESHOLD
+ARWR,"Arrowhead Pharmaceuticals, Inc. - Common Stock",6955369955.0,BELOW_10B_THRESHOLD
 ARX,Accelerant Holdings Class A Common Shares,4318794357.0,BELOW_10B_THRESHOLD
 ASAN,"Asana, Inc. Class A Common Stock",2294280572.0,BELOW_10B_THRESHOLD
 ASB,Associated Banc-Corp Common Stock,5736451019.0,BELOW_10B_THRESHOLD
@@ -342,7 +331,6 @@ ASLE,AerSale Corporation - Common Stock,241515099.99999997,BELOW_10B_THRESHOLD
 ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),829906120.0,BELOW_10B_THRESHOLD
 ASMB,"Assembly Biosciences, Inc. - Common Stock",443657387.0,BELOW_10B_THRESHOLD
 ASO,"Academy Sports and Outdoors, Inc. - Common Stock",4383185461.0,BELOW_10B_THRESHOLD
-ASPC,A SPAC III Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ASPI,ASP Isotopes Inc. - Common Stock,328082073.0,BELOW_10B_THRESHOLD
 ASPN,"Aspen Aerogels, Inc. Common Stock",506252187.00000006,BELOW_10B_THRESHOLD
 ASPS,Altisource Portfolio Solutions S.A. - Common Stock,65223564.99999999,BELOW_10B_THRESHOLD
@@ -351,13 +339,13 @@ ASRV,AmeriServ Financial Inc. - Common Stock,80311933.0,BELOW_10B_THRESHOLD
 ASST,"Strive, Inc. - Class A Common Stock",2732525599.0,BELOW_10B_THRESHOLD
 ASTC,Astrotech Corporation - Common Stock,9109044.0,BELOW_10B_THRESHOLD
 ASTE,"Astec Industries, Inc. - Common Stock",867120132.0,BELOW_10B_THRESHOLD
+ASTH,Astrana Health Inc. - Common Stock,1677263404.0,BELOW_10B_THRESHOLD
 ASTI,"Ascent Solar Technologies, Inc - Common Stock",15019139.0,BELOW_10B_THRESHOLD
 ASTL,Algoma Steel Group Inc. - Common Shares,613893129.0,BELOW_10B_THRESHOLD
 ASUR,Asure Software Inc - Common Stock,313161984.0,BELOW_10B_THRESHOLD
 ASYS,"Amtech Systems, Inc. - Common Stock",210447374.0,BELOW_10B_THRESHOLD
 ATAT,Atour Lifestyle Holdings Limited - American Depositary Shares,4860823393.0,BELOW_10B_THRESHOLD
 ATCH,"AtlasClear Holdings, Inc. Common Stock",20088266.0,BELOW_10B_THRESHOLD
-ATCX,Atlas Critical Minerals Corporation - Common Stock,10370005.0,BELOW_10B_THRESHOLD
 ATEC,"Alphatec Holdings, Inc. - Common Stock",1144931901.0,BELOW_10B_THRESHOLD
 ATEN,"A10 Networks, Inc. Common Stock",1949714536.9999998,BELOW_10B_THRESHOLD
 ATER,"Aterian, Inc. - Common Stock",228571466.0,BELOW_10B_THRESHOLD
@@ -365,10 +353,8 @@ ATEX,Anterix Inc. - Common Stock,1584078513.0,BELOW_10B_THRESHOLD
 ATGL,Alpha Technology Group Limited - Class A Ordinary Shares,136721063.0,BELOW_10B_THRESHOLD
 ATHE,Alterity Therapeutics Limited - American Depositary Shares,44246334.0,BELOW_10B_THRESHOLD
 ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",2576373279.0,BELOW_10B_THRESHOLD
-ATHR,"Aether Holdings, Inc. - Common Stock",31451812.0,BELOW_10B_THRESHOLD
 ATLC,Atlanticus Holdings Corporation - Common Stock,1245011346.0,BELOW_10B_THRESHOLD
 ATLO,Ames National Corporation - Common Stock,303182641.0,BELOW_10B_THRESHOLD
-ATLQ,JAB Acquisition Corp I - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ATLX,Atlas Lithium Corporation - Common Stock,52228456.0,BELOW_10B_THRESHOLD
 ATMU,Atmus Filtration Technologies Inc. Common Stock,4466249315.0,BELOW_10B_THRESHOLD
 ATNI,"ATN International, Inc. - Common Stock",442384413.0,BELOW_10B_THRESHOLD
@@ -378,7 +364,6 @@ ATOS,"Atossa Therapeutics, Inc. - Common Stock",21255905.0,BELOW_10B_THRESHOLD
 ATPC,Agape ATP Corporation - Common Stock,1340839.0,BELOW_10B_THRESHOLD
 ATR,"AptarGroup, Inc. Common Stock",9138155357.0,BELOW_10B_THRESHOLD
 ATRA,"Atara Biotherapeutics, Inc. - Common Stock",82108468.0,BELOW_10B_THRESHOLD
-ATRC,"AtriCure, Inc. - Common Stock",2942289512.0,BELOW_10B_THRESHOLD
 ATRO,Astronics Corporation - Common Stock,2537104685.0,BELOW_10B_THRESHOLD
 ATS,ATS Corporation Common Shares,1700042681.0,BELOW_10B_THRESHOLD
 ATTO,"Attovia Therapeutics, Inc. - Common Stock",728594142.0,BELOW_10B_THRESHOLD
@@ -391,6 +376,7 @@ AUC,ATIF Holdings Limited - Ordinary Shares,146489862.0,BELOW_10B_THRESHOLD
 AUDC,AudioCodes Ltd. - Ordinary Shares,209022217.0,BELOW_10B_THRESHOLD
 AUGO,Aura Minerals Inc. - Common Shares,7294532793.000001,BELOW_10B_THRESHOLD
 AUID,authID Inc. - Common Stock,3053134.0,BELOW_10B_THRESHOLD
+AUNA,Auna SA Class A Ordinary Shares,347120806.0,BELOW_10B_THRESHOLD
 AUPH,Aurinia Pharmaceuticals Inc - Common Shares,2227057729.0,BELOW_10B_THRESHOLD
 AUR,"Aurora Innovation, Inc.  - Class A Common Stock",9395082535.0,BELOW_10B_THRESHOLD
 AURA,"Aura Biosciences, Inc. - Common Stock",794378837.0,BELOW_10B_THRESHOLD
@@ -425,6 +411,7 @@ AWRE,"Aware, Inc. - Common Stock",20559433.0,BELOW_10B_THRESHOLD
 AWX,Avalon Holdings Corporation Common Stock,11035390.0,BELOW_10B_THRESHOLD
 AX,"Axos Financial, Inc. Common Stock",5330640896.0,BELOW_10B_THRESHOLD
 AXG,Solowin Holdings - Class A Ordinary Share,4368803.0,BELOW_10B_THRESHOLD
+AXGN,"Axogen, Inc. - Common Stock",3024763408.0,BELOW_10B_THRESHOLD
 AXIL,"AXIL Brands, Inc. Common Stock",36603684.0,BELOW_10B_THRESHOLD
 AXIN,Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares,,MARKET_CAP_MISSING
 AXNX,Axonex AI Group Limited - Class A Ordinary Shares,7183464.000000001,BELOW_10B_THRESHOLD
@@ -438,7 +425,6 @@ AYI,Acuity Inc. Common Stock,9931963954.0,BELOW_10B_THRESHOLD
 AYTU,"Aytu BioPharma, Inc.  - Common Stock",19454092.0,BELOW_10B_THRESHOLD
 AZ,A2Z Cust2Mate Solutions Corp. - Common Shares,291140102.0,BELOW_10B_THRESHOLD
 AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,43817582.0,BELOW_10B_THRESHOLD
-AZIO,"Azio AI Holdings, Inc. - Common stock",10123377.0,BELOW_10B_THRESHOLD
 AZR,"Azora Therapeutics, Inc. - Common Stock",9847088.0,BELOW_10B_THRESHOLD
 AZTA,"Azenta, Inc. - Common Stock",1793953693.0,BELOW_10B_THRESHOLD
 AZTR,Azitra Inc Common Stock,3947727.9999999995,BELOW_10B_THRESHOLD
@@ -450,7 +436,6 @@ BAFN,BayFirst Financial Corp. - Common Stock,186423798.0,BELOW_10B_THRESHOLD
 BAK,Braskem SA ADR,452415446.0,BELOW_10B_THRESHOLD
 BALY,Bally's Corporation Common Stock,603110788.0,BELOW_10B_THRESHOLD
 BANC,"Banc of California, Inc. Common Stock",2863344798.0,BELOW_10B_THRESHOLD
-BAND,Bandwidth Inc. - Class A Common Stock,1355569584.0,BELOW_10B_THRESHOLD
 BANF,BancFirst Corporation - Common Stock,3962001229.0,BELOW_10B_THRESHOLD
 BANL,CBL International Limited - Class B Ordinary Shares,7147020.0,BELOW_10B_THRESHOLD
 BANR,Banner Corporation - Common Stock,2564063482.0,BELOW_10B_THRESHOLD
@@ -495,11 +480,10 @@ BDAI,"Biddance AI Systems, Inc. - Class A Ordinary Share",24164860.0,BELOW_10B_T
 BDC,Belden Inc Common Stock,4184484461.0000005,BELOW_10B_THRESHOLD
 BDCI,BTC Development Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BDL,"Flanigan's Enterprises, Inc. Common Stock",104028473.0,BELOW_10B_THRESHOLD
-BDN,Brandywine Realty Trust Common Stock,554348604.0,BELOW_10B_THRESHOLD
+BDMD,Baird Medical Investment Holdings Ltd - Ordinary Share,4756637.0,BELOW_10B_THRESHOLD
 BDRX,Biodexa Pharmaceuticals plc - American Depositary Shares,1289630.0,BELOW_10B_THRESHOLD
 BDSX,"Biodesix, Inc. - Common Stock",114655204.0,BELOW_10B_THRESHOLD
 BDTX,"Black Diamond Therapeutics, Inc. - Common Stock",106863968.99999999,BELOW_10B_THRESHOLD
-BEAG,Bold Eagle Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BEAM,Beam Therapeutics Inc. - Common Stock,2796452301.0,BELOW_10B_THRESHOLD
 BEAT,"Heartbeam, Inc. - Common Stock",22860859.0,BELOW_10B_THRESHOLD
 BEBE,TGE Value Creative Solutions Corp Class A Ordinary Shares,129729600.0,BELOW_10B_THRESHOLD
@@ -540,7 +524,6 @@ BHR,Braemar Hotels & Resorts Inc. Common Stock,110917099.0,BELOW_10B_THRESHOLD
 BHRB,Burke & Herbert Financial Services Corp. - Common Stock,1427289373.0,BELOW_10B_THRESHOLD
 BHST,BioHarvest Sciences Inc. - Common Stock,39668724.0,BELOW_10B_THRESHOLD
 BHVN,Biohaven Ltd. Common Shares ,2299114647.0,BELOW_10B_THRESHOLD
-BIAF,"bioAffinity Technologies, Inc. - Common Stock",4113213.9999999995,BELOW_10B_THRESHOLD
 BID,Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BIII,Black Spade Acquisition III Co Class A Ordinary Shares,,MARKET_CAP_MISSING
 BILI,Bilibili Inc. - American Depositary Shares,5961884389.0,BELOW_10B_THRESHOLD
@@ -551,21 +534,20 @@ BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,15149893.0,BELOW_10B_THRESH
 BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,4900941384.0,BELOW_10B_THRESHOLD
 BIRD,"Smartbird, Inc. - Class A Common Stock",15942411.0,BELOW_10B_THRESHOLD
 BIRK,Birkenstock Holding plc Ordinary Shares,6392035357.0,BELOW_10B_THRESHOLD
-BIVI,BioVie Inc. - Common stock,13942141.0,BELOW_10B_THRESHOLD
 BIXI,Bitcoin Infrastructure Acquisition Corp Ltd. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BIYA,Baiya International Group Inc.  - Ordinary Shares,8605487.0,BELOW_10B_THRESHOLD
 BJDX,"Bluejay Diagnostics, Inc. - Common Stock",2759022.0,BELOW_10B_THRESHOLD
 BJRI,"BJ's Restaurants, Inc. - Common Stock",1263840863.0,BELOW_10B_THRESHOLD
-BKD,Brookdale Senior Living Inc. Common Stock,2226835882.0,BELOW_10B_THRESHOLD
 BKE,"Buckle, Inc. (The) Common Stock",2259077793.0,BELOW_10B_THRESHOLD
+BKH,Black Hills Corporation Common Stock,6607916824.999999,BELOW_10B_THRESHOLD
 BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BKKT,"Bakkt, Inc. Class A Common Stock",210474368.99999997,BELOW_10B_THRESHOLD
 BKSY,BlackSky Technology Inc. Class A Common Stock,988187160.0,BELOW_10B_THRESHOLD
 BKTI,BK Technologies Corporation Common Stock,260050147.00000003,BELOW_10B_THRESHOLD
 BKU,"BankUnited, Inc. Common Stock",3067889139.0,BELOW_10B_THRESHOLD
+BKV,BKV Corporation Common Stock,1988667229.0,BELOW_10B_THRESHOLD
 BKYI,"BIO-key International, Inc. - Common Stock",4864006.0,BELOW_10B_THRESHOLD
 BL,"BlackLine, Inc. - Common Stock",1540226871.0,BELOW_10B_THRESHOLD
-BLBD,Blue Bird Corporation - Common Stock,1890854840.0,BELOW_10B_THRESHOLD
 BLCO,Bausch + Lomb Corporation Common Shares,7500294907.0,BELOW_10B_THRESHOLD
 BLDP,"Ballard Power Systems, Inc. - Common Shares",551212408.0,BELOW_10B_THRESHOLD
 BLDR,"Builders FirstSource, Inc. Common Stock",7097712801.0,BELOW_10B_THRESHOLD
@@ -595,10 +577,10 @@ BMI,"Badger Meter, Inc. Common Stock",4546190852.0,BELOW_10B_THRESHOLD
 BMM,Blue Moon Metals Inc. - Common Shares,385772284.0,BELOW_10B_THRESHOLD
 BMMX,Black Mammoth Metals Corporation - Common Shares,153938107.0,BELOW_10B_THRESHOLD
 BMR,Beamr Imaging Ltd. - Ordinary Share,16461645.0,BELOW_10B_THRESHOLD
+BMRA,"Biomerica, Inc. - Common Stock",7128400.0,BELOW_10B_THRESHOLD
 BMRC,Bank of Marin Bancorp - Common Stock,466141316.00000006,BELOW_10B_THRESHOLD
 BNAI,Brand Engagement Network Inc. - Common Stock,33689296.0,BELOW_10B_THRESHOLD
 BNC,BNB Standard Corporation - Common Stock,233135485.0,BELOW_10B_THRESHOLD
-BNED,"Barnes & Noble Education, Inc Common Stock",456537787.0,BELOW_10B_THRESHOLD
 BNGO,"Bionano Genomics, Inc. - Common Stock",16213270.0,BELOW_10B_THRESHOLD
 BNKK,"Bonk, Inc. - Common Stock",8340237.0,BELOW_10B_THRESHOLD
 BNL,"Broadstone Net Lease, Inc. Common Stock",3426916880.9999995,BELOW_10B_THRESHOLD
@@ -607,24 +589,24 @@ BNTC,Benitec Biopharma Inc. - Common Stock,344357519.0,BELOW_10B_THRESHOLD
 BOBS,"Bob's Discount Furniture, Inc. Common Stock",2738374580.0,BELOW_10B_THRESHOLD
 BOC,Boston Omaha Corporation Class A Common Stock,413637751.0,BELOW_10B_THRESHOLD
 BODI,"The Beachbody Company, Inc. - Class A Common Stock",32747029.0,BELOW_10B_THRESHOLD
+BOF,BranchOut Food Inc. - Common Stock,33195081.0,BELOW_10B_THRESHOLD
 BOH,Bank of Hawaii Corporation Common Stock,2770102285.0,BELOW_10B_THRESHOLD
 BOKF,BOK Financial Corporation - Common Stock,7987955886.0,BELOW_10B_THRESHOLD
 BOLD,"Boundless Bio, Inc. - Common Stock",56946380.0,BELOW_10B_THRESHOLD
 BOLT,"Bolt Biotherapeutics, Inc. - Common Stock",12386398.0,BELOW_10B_THRESHOLD
 BON,Bon Natural Life Limited - Class A Ordinary Shares,8941691.0,BELOW_10B_THRESHOLD
 BOOM,DMC Global Inc. - Common Stock,166792506.0,BELOW_10B_THRESHOLD
+BOOT,"Boot Barn Holdings, Inc. Common Stock",4039347905.9999995,BELOW_10B_THRESHOLD
 BORR,Borr Drilling Limited Common Shares,987720451.0,BELOW_10B_THRESHOLD
 BOSC,B.O.S. Better Online Solutions - Ordinary Shares,28592231.0,BELOW_10B_THRESHOLD
 BOTJ,"Bank of the James Financial Group, Inc. - Common Stock",112629348.99999999,BELOW_10B_THRESHOLD
 BOW,Bowhead Specialty Holdings Inc. Common Stock,1127053855.0,BELOW_10B_THRESHOLD
 BOX,"Box, Inc. Class A Common Stock",5715098199.0,BELOW_10B_THRESHOLD
 BOXL,Boxlight Corporation - Class A Common Stock,1604656.0000000002,BELOW_10B_THRESHOLD
-BPAC,Blueport Acquisition Ltd - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BPRN,"Princeton Bancorp, Inc. - Common Stock",303294523.0,BELOW_10B_THRESHOLD
 BQ,Boqii Holding Limited Class A Ordinary Shares,3467030.0,BELOW_10B_THRESHOLD
 BRAG,Bragg Gaming Group Inc. - Common Shares,21949401.0,BELOW_10B_THRESHOLD
 BRAI,Braiin Limited - Common Stock,414237338.00000006,BELOW_10B_THRESHOLD
-BRBI,BRBI BR Partners S.A. - ADSs,476297187.00000006,BELOW_10B_THRESHOLD
 BRBR,"BellRing Brands, Inc. Common Stock ",1119177617.0,BELOW_10B_THRESHOLD
 BRBS,"Blue Ridge Bankshares, Inc. Common Stock",365005948.0,BELOW_10B_THRESHOLD
 BRC,Brady Corporation Common Stock,3749123167.0,BELOW_10B_THRESHOLD
@@ -633,12 +615,12 @@ BRCC,BRC Inc. Class A Common Stock,252686851.0,BELOW_10B_THRESHOLD
 BREZ,Breeze Acquisition Corp. II - Ordinary Shares,199165692.71,BELOW_10B_THRESHOLD
 BRFH,Barfresh Food Group Inc. - Common Stock,8426432.0,BELOW_10B_THRESHOLD
 BRIA,BrilliA Inc Class A Ordinary Shares,42262500.0,BELOW_10B_THRESHOLD
-BRID,Bridgford Foods Corporation - Common Stock,48561051.0,BELOW_10B_THRESHOLD
 BRKH,Burtech Acquisition Corp II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BRLS,Borealis Foods Inc. - Class A Common Shares,22321838.0,BELOW_10B_THRESHOLD
 BRLT,"Brilliant Earth Group, Inc. - Class A Common Stock",138898481.0,BELOW_10B_THRESHOLD
 BRN,"Barnwell Industries, Inc. Common Stock",12400516.0,BELOW_10B_THRESHOLD
 BRNX,BrenX Ltd. - Ordinary Shares,760293.0,BELOW_10B_THRESHOLD
+BROS,Dutch Bros Inc. Class A Common Stock,6292390063.0,BELOW_10B_THRESHOLD
 BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",1848689999.9999998,BELOW_10B_THRESHOLD
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock",420160589.99999994,BELOW_10B_THRESHOLD
 BRT,BRT Apartments Corp. (MD) Common Stock,237479242.0,BELOW_10B_THRESHOLD
@@ -647,7 +629,6 @@ BRTX,"BioRestorative Therapies, Inc. - Common Stock",2195994.0,BELOW_10B_THRESHO
 BRUN,Boost Run Inc. - Class A Common Stock,532565855.0,BELOW_10B_THRESHOLD
 BRVE,"Braveheart Bio, Inc. - Common Stock",1752158336.9999998,BELOW_10B_THRESHOLD
 BRX,Brixmor Property Group Inc. Common Stock,9296696813.0,BELOW_10B_THRESHOLD
-BRZE,"Braze, Inc. - Class A Common Stock",5233970396.0,BELOW_10B_THRESHOLD
 BSAA,BEST SPAC I Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 BSBK,Bogota Financial Corp. - Common Stock,117978339.00000001,BELOW_10B_THRESHOLD
 BSEM,"BioStem Technologies, Inc. - Common Stock",20912780.0,BELOW_10B_THRESHOLD
@@ -657,6 +638,7 @@ BSRR,Sierra Bancorp - Common Stock,543551362.0,BELOW_10B_THRESHOLD
 BSVN,Bank7 Corp. - Common stock,560215591.0,BELOW_10B_THRESHOLD
 BTBD,"BT Brands, Inc. - Common Stock",9771864.0,BELOW_10B_THRESHOLD
 BTBT,"Bit Digital, Inc. - Ordinary Share",284503771.0,BELOW_10B_THRESHOLD
+BTCS,BTCS Inc. - Common Stock,50488502.0,BELOW_10B_THRESHOLD
 BTCT,BTC Digital Ltd. - Ordinary Shares,7676268.999999999,BELOW_10B_THRESHOLD
 BTDR,Bitdeer Technologies Group - Ordinary Shares,1796480639.0,BELOW_10B_THRESHOLD
 BTE,Baytex Energy Corp Common Shares,2804256000.0,BELOW_10B_THRESHOLD
@@ -695,7 +677,6 @@ BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",1854915039.9999998,BELOW_10B
 BY,"Byline Bancorp, Inc. Common Stock",1728126337.0000002,BELOW_10B_THRESHOLD
 BYAH,"Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",8221265.0,BELOW_10B_THRESHOLD
 BYD,Boyd Gaming Corporation Common Stock,5499966924.0,BELOW_10B_THRESHOLD
-BYFC,Broadway Financial Corporation - Class A Common Stock,110785826.99999999,BELOW_10B_THRESHOLD
 BYND,"Beyond Meat, Inc. - Common stock",104883193.0,BELOW_10B_THRESHOLD
 BYRN,"Byrna Technologies, Inc. - Common Stock",91980683.0,BELOW_10B_THRESHOLD
 BYSI,"BeyondSpring, Inc. - Ordinary Shares",25370928.999999996,BELOW_10B_THRESHOLD
@@ -709,12 +690,11 @@ CABA,"Cabaletta Bio, Inc. - Common Stock",323580588.0,BELOW_10B_THRESHOLD
 CABO,"Cable One, Inc. Common Stock",25107544.999999996,BELOW_10B_THRESHOLD
 CABR,"Caring Brands, Inc. - Common Stock",10572908.0,BELOW_10B_THRESHOLD
 CAC,Camden National Corporation - Common Stock,992087363.0000001,BELOW_10B_THRESHOLD
+CACC,Credit Acceptance Corporation - Common Stock,5433377116.0,BELOW_10B_THRESHOLD
 CADL,"Candel Therapeutics, Inc. - Common Stock",726161182.0,BELOW_10B_THRESHOLD
 CAE,CAE Inc - Common Shares,8851133410.0,BELOW_10B_THRESHOLD
-CAES,"Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 CAG,"ConAgra Brands, Inc. Common Stock",7297235037.0,BELOW_10B_THRESHOLD
 CAI,"Caris Life Sciences, Inc. - Common Stock",7333079767.0,BELOW_10B_THRESHOLD
-CAII,Collective Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CAKE,The Cheesecake Factory Incorporated - Common Stock,5531956626.0,BELOW_10B_THRESHOLD
 CAL,"Caleres, Inc. Common Stock",467887488.00000006,BELOW_10B_THRESHOLD
 CALC,"CalciMedica, Inc. - Common Stock",10344862.0,BELOW_10B_THRESHOLD
@@ -726,20 +706,18 @@ CAMT,Camtek Ltd. - Ordinary Shares,4889465679.0,BELOW_10B_THRESHOLD
 CAN,Canaan Inc. - American Depositary Shares,143767706.0,BELOW_10B_THRESHOLD
 CANF,"Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",5062683.0,BELOW_10B_THRESHOLD
 CANG,Cango Inc. Class A Ordinary Shares,44713944.0,BELOW_10B_THRESHOLD
-CAPN,Cayson Acquisition Corp - Ordinary Shares,60601534.32000001,BELOW_10B_THRESHOLD
 CAPR,"Capricor Therapeutics, Inc. - Common Stock",572669042.0,BELOW_10B_THRESHOLD
 CAPS,Capstone Holding Corp. - Common Stock,1930397.0,BELOW_10B_THRESHOLD
-CAQ,Cambridge Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CAR,"Avis Budget Group, Inc. - Common Stock",4510873106.0,BELOW_10B_THRESHOLD
 CARE,"Carter Bankshares, Inc. - Common Stock",645700945.0,BELOW_10B_THRESHOLD
 CARG,"CarGurus, Inc. - Class A Common Stock",3088631247.0,BELOW_10B_THRESHOLD
 CARL,"Carlsmed, Inc. - Common Stock",438209025.0,BELOW_10B_THRESHOLD
 CARS,Cars.com Inc. Common Stock ,702244145.0,BELOW_10B_THRESHOLD
 CASH,"Pathward Financial, Inc. - Common Stock",1590200861.0,BELOW_10B_THRESHOLD
+CASK,"Sempreon, Inc. - Common Stock",397375651.0,BELOW_10B_THRESHOLD
 CASS,"Cass Information Systems, Inc - Common Stock",708808938.0,BELOW_10B_THRESHOLD
 CAST,"FreeCast, Inc. - Class A common stock",64500016.00000001,BELOW_10B_THRESHOLD
 CATL,Catalyst Acquisition Corp. - Class A Ordinary Share,,MARKET_CAP_MISSING
-CATO,Cato Corporation (The) Class A Common Stock,45797483.0,BELOW_10B_THRESHOLD
 CATX,"Perspective Therapeutics, Inc. Common Stock",97919297.0,BELOW_10B_THRESHOLD
 CATY,Cathay General Bancorp - Common Stock,4307900192.0,BELOW_10B_THRESHOLD
 CAVA,"CAVA Group, Inc. Common Stock",7287526973.999999,BELOW_10B_THRESHOLD
@@ -760,7 +738,6 @@ CBU,"Community Financial System, Inc. Common Stock",3447080153.9999995,BELOW_10B
 CBUS,"Cibus, Inc. - Class A Common Stock",87893309.0,BELOW_10B_THRESHOLD
 CC,Chemours Company (The) Common Stock,1998345341.0,BELOW_10B_THRESHOLD
 CCAP,"Crescent Capital BDC, Inc. - Common Stock",340456596.0,BELOW_10B_THRESHOLD
-CCAQ,Collective Acquisition Corp. - Class A ordinary shares,,MARKET_CAP_MISSING
 CCB,Coastal Financial Corporation - Common Stock,667010432.0,BELOW_10B_THRESHOLD
 CCBG,Capital City Bank Group - Common Stock,878889706.0,BELOW_10B_THRESHOLD
 CCC,CCC Intelligent Solutions Holdings Inc. - Common Stock,4545106613.0,BELOW_10B_THRESHOLD
@@ -771,14 +748,12 @@ CCEL,"Cryo-Cell International, Inc. Common Stock",39627925.0,BELOW_10B_THRESHOLD
 CCG,Cheche Group Inc. - Class A Ordinary Shares,23976927.0,BELOW_10B_THRESHOLD
 CCHH,CCH Holdings Ltd - Class A Ordinary Shares,15388847.0,BELOW_10B_THRESHOLD
 CCII,Cohen Circle Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
-CCLD,"CareCloud, Inc. - Common Stock",106797636.0,BELOW_10B_THRESHOLD
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),16281461.0,BELOW_10B_THRESHOLD
 CCNE,CNB Financial Corporation - Common Stock,1073927432.0,BELOW_10B_THRESHOLD
 CCOI,"Cogent Communications Holdings, Inc. - Common Stock",227857279.0,BELOW_10B_THRESHOLD
 CCS,"Century Communities, Inc. Common Stock",1611263369.0,BELOW_10B_THRESHOLD
 CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",763401309.0,BELOW_10B_THRESHOLD
 CCTG,CCSC Technology International Holdings Limited - Class A Ordinary Shares,4535782.0,BELOW_10B_THRESHOLD
-CCU,"Compania Cervecerias Unidas, S.A. Common Stock",1987925451.0,BELOW_10B_THRESHOLD
 CD,Chaince Digital Holdings Inc. - American Ordinary Shares,599520710.0,BELOW_10B_THRESHOLD
 CDIO,Cardio Diagnostics Holdings Inc. - Common stock,5327044.0,BELOW_10B_THRESHOLD
 CDLR,Cadeler plc Ordinary Shares,687014759.0,BELOW_10B_THRESHOLD
@@ -793,7 +768,6 @@ CDTG,CDT Environmental Technology Investment Holdings Limited - ordinary shares,
 CDXS,"Codexis, Inc. - Common Stock",121551399.0,BELOW_10B_THRESHOLD
 CDZI,"Cadiz, Inc. - Common Stock",339374872.0,BELOW_10B_THRESHOLD
 CE,Celanese Corporation Common Stock,5352641715.0,BELOW_10B_THRESHOLD
-CELC,Celcuity Inc. - Common Stock,3457018716.0000005,BELOW_10B_THRESHOLD
 CELH,"Celsius Holdings, Inc. - Common Stock",8315963895.999999,BELOW_10B_THRESHOLD
 CELU,Celularity Inc. - Class A Common Stock,24652781.0,BELOW_10B_THRESHOLD
 CELZ,"Creative Medical Technology Holdings, Inc. - Common Stock",4650465.0,BELOW_10B_THRESHOLD
@@ -803,29 +777,27 @@ CENX,Century Aluminum Company - Common Stock,3625134463.0,BELOW_10B_THRESHOLD
 CEPF,"Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 CEPL,"Capstone Energy Plus, Inc. - Common Stock",96856419.0,BELOW_10B_THRESHOLD
 CEPO,"Cantor Equity Partners I, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
-CEPS,"Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),1543288739.0,BELOW_10B_THRESHOLD
-CEPV,"Cantor Equity Partners V, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 CERS,Cerus Corporation - Common Stock,418045161.00000006,BELOW_10B_THRESHOLD
 CERT,"Certara, Inc. - Common Stock",1864080372.0,BELOW_10B_THRESHOLD
 CETX,Cemtrex Inc. - Common Stock,1120463.0,BELOW_10B_THRESHOLD
 CETY,"Clean Energy Technologies, Inc. - Common Stock",10961662.0,BELOW_10B_THRESHOLD
 CEVA,"CEVA, Inc. - Common Stock",699347148.0,BELOW_10B_THRESHOLD
-CFBK,CF Bankshares Inc. - Common Stock,235141373.0,BELOW_10B_THRESHOLD
 CFFI,C&F Financial Corporation - Common Stock,350000875.0,BELOW_10B_THRESHOLD
 CFFN,"Capitol Federal Financial, Inc. - Common Stock",1081005234.0,BELOW_10B_THRESHOLD
 CFR,"Cullen/Frost Bankers, Inc. Common Stock",9826388366.0,BELOW_10B_THRESHOLD
+CGAU,Centerra Gold Inc. Common Shares,4464135197.0,BELOW_10B_THRESHOLD
 CGC,Canopy Growth Corporation - Common Shares,263664042.0,BELOW_10B_THRESHOLD
 CGCF,Cartesian Growth Corporation IV - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CGEM,"Cullinan Therapeutics, Inc. - Common Stock",754880561.0,BELOW_10B_THRESHOLD
 CGEN,Compugen Ltd. - Ordinary Shares,202411121.0,BELOW_10B_THRESHOLD
 CGNT,Cognyte Software Ltd. - Ordinary Shares,637021284.0,BELOW_10B_THRESHOLD
 CGNX,Cognex Corporation - Common Stock,8476151539.999999,BELOW_10B_THRESHOLD
+CGON,"CG Oncology, Inc. - Common stock",6675695782.0,BELOW_10B_THRESHOLD
 CGTL,Creative Global Technology Holdings Limited - Class A Ordinary Shares,4143405.0,BELOW_10B_THRESHOLD
 CGTX,"Cognition Therapeutics, Inc. - Common Stock",65676628.0,BELOW_10B_THRESHOLD
 CHA,"Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",2397895008.0,BELOW_10B_THRESHOLD
 CHAI,"Core AI Holdings, Inc. - Common Shares",4477551.0,BELOW_10B_THRESHOLD
-CHAR,Charlton Aria Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CHCI,"Comstock Holding Companies, Inc. - Class A Common Stock",173269898.0,BELOW_10B_THRESHOLD
 CHCO,City Holding Company - Common Stock,2014149149.0,BELOW_10B_THRESHOLD
 CHCT,Community Healthcare Trust Incorporated Common Stock,426061352.99999994,BELOW_10B_THRESHOLD
@@ -857,18 +829,20 @@ CIGL,Concorde International Group Ltd - Class A Ordinary Shares,54355524.0,BELOW
 CIIT,"Tianci International, Inc. - Common Stock",2770651.0,BELOW_10B_THRESHOLD
 CIM,Chimera Investment Corporation Common Stock,605241332.0,BELOW_10B_THRESHOLD
 CING,Cingulate Inc. - Common Stock,64711126.0,BELOW_10B_THRESHOLD
-CINT,CI&T Inc Class A Common Shares,408580517.00000006,BELOW_10B_THRESHOLD
+CION,CION Investment Corporation Common Stock,310469062.0,BELOW_10B_THRESHOLD
 CIRC,"Circle8 Group, Inc. - Common Stock",23968895.0,BELOW_10B_THRESHOLD
 CISO,"CISO Global, Inc. - Common Stock",8081110.0,BELOW_10B_THRESHOLD
 CISS,C3is Inc. - Common Stock,7350000.0,BELOW_10B_THRESHOLD
 CITR,CitroTech Inc. Common Stock,64641686.0,BELOW_10B_THRESHOLD
 CIVB,"Civista Bancshares, Inc.  - Common Stock",595884614.0,BELOW_10B_THRESHOLD
 CIX,CompX International Inc. Common Stock,502780456.0,BELOW_10B_THRESHOLD
+CJMB,Callan JMB Inc. - Common Stock,3209357.9999999995,BELOW_10B_THRESHOLD
 CKX,"CKX Lands, Inc. Common Stock",34718411.0,BELOW_10B_THRESHOLD
 CLAR,Clarus Corporation - Common Stock,196418235.0,BELOW_10B_THRESHOLD
 CLB,Core Laboratories Inc. Common Stock,413783523.00000006,BELOW_10B_THRESHOLD
 CLBK,"Columbia Financial, Inc. - Common Stock",3059337282.0,BELOW_10B_THRESHOLD
 CLBR,Colombier Acquisition Corp. III Class A Ordinary Shares,,MARKET_CAP_MISSING
+CLBT,Cellebrite DI Ltd. - Ordinary Shares,3192031462.0,BELOW_10B_THRESHOLD
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock",2714628.0,BELOW_10B_THRESHOLD
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,740016892.0,BELOW_10B_THRESHOLD
 CLDX,"Celldex Therapeutics, Inc. - Common Stock",2453747393.0,BELOW_10B_THRESHOLD
@@ -890,6 +864,7 @@ CLRB,"Cellectar Biosciences, Inc. - Common Stock",12098698.0,BELOW_10B_THRESHOLD
 CLRO,"ClearOne, Inc. - Common Stock",12306895.0,BELOW_10B_THRESHOLD
 CLSK,"CleanSpark, Inc. - Common Stock",1774605974.0,BELOW_10B_THRESHOLD
 CLST,"Catalyst Bancorp, Inc. - common stock",71922494.0,BELOW_10B_THRESHOLD
+CLVT,Clarivate Plc Ordinary Shares,1510174150.0,BELOW_10B_THRESHOLD
 CLW,Clearwater Paper Corporation Common Stock,213393499.00000003,BELOW_10B_THRESHOLD
 CLWT,Euro Tech Holdings Company Limited - Ordinary Shares,8819642.0,BELOW_10B_THRESHOLD
 CLYM,"Climb Bio, Inc. - Common Stock",646707340.0,BELOW_10B_THRESHOLD
@@ -943,7 +918,6 @@ COCO,"The Vita Coco Company, Inc. - Common Stock",3680048396.0,BELOW_10B_THRESHO
 COCP,"Cocrystal Pharma, Inc. - Common Stock",21285836.0,BELOW_10B_THRESHOLD
 CODA,"Coda Octopus Group, Inc. - Common stock",99629782.0,BELOW_10B_THRESHOLD
 CODI,D/B/A Compass Diversified Holdings Shares of Beneficial Interest,892298557.0,BELOW_10B_THRESHOLD
-CODX,"Co-Diagnostics, Inc. - Common Stock",2814425.0,BELOW_10B_THRESHOLD
 COE,"51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",66320758.0,BELOW_10B_THRESHOLD
 COFS,"ChoiceOne Financial Services, Inc. - Common Stock",557691341.0,BELOW_10B_THRESHOLD
 COGT,"Cogent Biosciences, Inc. - Common Stock",5835773920.0,BELOW_10B_THRESHOLD
@@ -954,7 +928,6 @@ COLD,"Americold Realty Trust, Inc. Common Stock",4585644675.0,BELOW_10B_THRESHOL
 COLL,"Collegium Pharmaceutical, Inc. - Common Stock",767873727.0,BELOW_10B_THRESHOLD
 COLM,Columbia Sportswear Company - Common Stock,3649196375.9999995,BELOW_10B_THRESHOLD
 COMP,"Compass, Inc. Class A Common Stock",8270851931.999999,BELOW_10B_THRESHOLD
-CON,"Concentra Group Holdings Parent, Inc. Common Stock",5361189063.0,BELOW_10B_THRESHOLD
 COOK,"Traeger, Inc. Common Stock",203226679.0,BELOW_10B_THRESHOLD
 COOT,Australian Oilseeds Holdings Limited - Ordinary Shares,19998364.0,BELOW_10B_THRESHOLD
 COPL,Copley Acquisition Corp Ordinary Shares,,MARKET_CAP_MISSING
@@ -979,9 +952,9 @@ CPOP,"Pop Culture Group Co., Ltd - Class A Ordinary Shares",5021382.0,BELOW_10B_
 CPRI,Capri Holdings Limited Ordinary Shares,2210133441.0,BELOW_10B_THRESHOLD
 CPS,Cooper-Standard Holdings Inc. Common Stock,332326358.0,BELOW_10B_THRESHOLD
 CPSH,CPS Technologies Corp. - Common Stock,84919186.0,BELOW_10B_THRESHOLD
-CPSS,"Consumer Portfolio Services, Inc. - Common Stock",228338393.99999997,BELOW_10B_THRESHOLD
 CRAC,Crown Reserve Acquisition Corp. I - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CRAI,"CRA International,Inc. - Common Stock",1239165864.0,BELOW_10B_THRESHOLD
+CRAN,Crane Harbor Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CRAQ,Cal Redwood Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. - Common Stock",68081351.0,BELOW_10B_THRESHOLD
 CRBU,"Caribou Biosciences, Inc. - Common Stock",45353819.0,BELOW_10B_THRESHOLD
@@ -991,20 +964,22 @@ CRD-A,Crawford & Company Common Stock,,MARKET_CAP_MISSING
 CRDF,"Cardiff Oncology, Inc. - Common Stock",62290656.0,BELOW_10B_THRESHOLD
 CRDL,Cardiol Therapeutics Inc. - Class A Common Shares,124280258.0,BELOW_10B_THRESHOLD
 CRE,Cre8 Enterprise Limited - Class A Ordinary Shares,5034963.0,BELOW_10B_THRESHOLD
+CRESY,"Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock",656819495.0,BELOW_10B_THRESHOLD
 CREX,"Creative Realities, Inc. - Common Stock",29217253.0,BELOW_10B_THRESHOLD
+CRGO,Freightos Limited - Ordinary shares,36191072.0,BELOW_10B_THRESHOLD
 CRGY,Crescent Energy Company Class A Common Stock,4640686937.0,BELOW_10B_THRESHOLD
 CRI,"Carter's, Inc. Common Stock",1273596675.0,BELOW_10B_THRESHOLD
 CRIS,"Curis, Inc. - Common Stock",4659430.0,BELOW_10B_THRESHOLD
 CRK,"Comstock Resources, Inc. Common Stock",4044528042.9999995,BELOW_10B_THRESHOLD
 CRMD,CorMedix Inc. - Common Stock,426355451.99999994,BELOW_10B_THRESHOLD
-CRMT,"America's Car-Mart, Inc. - Common Stock",9505865.0,BELOW_10B_THRESHOLD
+CRML,Critical Metals Corp. - Ordinary Shares,1175028768.0,BELOW_10B_THRESHOLD
 CRNC,Cerence Inc. - Common Stock,390337118.0,BELOW_10B_THRESHOLD
 CRNT,Ceragon Networks Ltd. - Ordinary Shares,239154941.0,BELOW_10B_THRESHOLD
+CRON,Cronos Group Inc. - Common Share,1297308398.0,BELOW_10B_THRESHOLD
 CROX,"Crocs, Inc. - Common Stock",7326522998.999999,BELOW_10B_THRESHOLD
 CRSP,CRISPR Therapeutics AG - Common Shares,4853920683.0,BELOW_10B_THRESHOLD
 CRSR,"Corsair Gaming, Inc. - Common Stock",1329050033.0,BELOW_10B_THRESHOLD
 CRT,Cross Timbers Royalty Trust Common Stock,75240000.0,BELOW_10B_THRESHOLD
-CRTO,Criteo S.A. - Ordinary Shares,817451832.0000001,BELOW_10B_THRESHOLD
 CRUS,"Cirrus Logic, Inc. - Common Stock",5897683511.0,BELOW_10B_THRESHOLD
 CRVL,CorVel Corp. - Common Stock,4139919675.0,BELOW_10B_THRESHOLD
 CRVO,CervoMed Inc. - Common Stock,21633812.0,BELOW_10B_THRESHOLD
@@ -1012,6 +987,7 @@ CRVS,"Corvus Pharmaceuticals, Inc. - Common Stock",957407980.0,BELOW_10B_THRESHO
 CRWS,"Crown Crafts, Inc. - Common Stock",27438732.0,BELOW_10B_THRESHOLD
 CSAI,"Cloudastructure, Inc. - Class A Common Stock",1718293.0,BELOW_10B_THRESHOLD
 CSBR,"Champions Oncology, Inc. - Common Stock",68479359.0,BELOW_10B_THRESHOLD
+CSHR,CoinShares PLC - Ordinary Shares,499446992.0,BELOW_10B_THRESHOLD
 CSIQ,Canadian Solar Inc. - Common Shares,733776954.0,BELOW_10B_THRESHOLD
 CSPI,CSP Inc. - Common Stock,69858870.0,BELOW_10B_THRESHOLD
 CSQR,"Csquare, Inc. Common Stock",2542001426.0,BELOW_10B_THRESHOLD
@@ -1034,7 +1010,6 @@ CTNT,Cheetah Net Supply Chain Service Inc. - Class A Common Stock,2393853.0,BELO
 CTO,"CTO Realty Growth, Inc. Common Stock",790127329.0,BELOW_10B_THRESHOLD
 CTOR,"Citius Oncology, Inc.  - Common Stock",51093172.0,BELOW_10B_THRESHOLD
 CTOS,"Custom Truck One Source, Inc. Common Stock",2277412814.0,BELOW_10B_THRESHOLD
-CTRI,"Centuri Holdings, Inc. Common Stock",2277324105.0,BELOW_10B_THRESHOLD
 CTRM,Castor Maritime Inc. - Common Shares,12802619.000000002,BELOW_10B_THRESHOLD
 CTRN,"Citi Trends, Inc. - Common Stock",387784286.0,BELOW_10B_THRESHOLD
 CTS,CTS Corporation Common Stock,1723250536.9999998,BELOW_10B_THRESHOLD
@@ -1044,7 +1019,6 @@ CTW,CTW - Class A Ordinary Shares,93793572.0,BELOW_10B_THRESHOLD
 CTXR,"Citius Pharmaceuticals, Inc. - Common Stock",14448288.0,BELOW_10B_THRESHOLD
 CTY,"City Therapeutics, Inc. - Common Stock",939703649.0,BELOW_10B_THRESHOLD
 CUB,Lionheart Holdings - Class A Ordinary Shares,347548221.0,BELOW_10B_THRESHOLD
-CUBI,"Customers Bancorp, Inc Common Stock",2847297888.0,BELOW_10B_THRESHOLD
 CUE,"Cue Biopharma, Inc. - Common Stock",146305298.0,BELOW_10B_THRESHOLD
 CULP,"Culp, Inc. - Common Shares",46229226.0,BELOW_10B_THRESHOLD
 CUPR,Cuprina Holdings (Cayman) Limited - Class A Ordinary shares,14156442.0,BELOW_10B_THRESHOLD
@@ -1074,20 +1048,19 @@ CWBC,Community West Bancshares - Common Stock,711835143.0,BELOW_10B_THRESHOLD
 CWCO,Consolidated Water Co. Ltd. - Ordinary Shares,442755717.0,BELOW_10B_THRESHOLD
 CWD,CaliberCos Inc. - Class A Common Stock,4099861.0,BELOW_10B_THRESHOLD
 CWEN,"Clearway Energy, Inc. Class C Common Stock",5687805737.0,BELOW_10B_THRESHOLD
+CWH,"Camping World Holdings, Inc. Class A Common Stock",481644049.0,BELOW_10B_THRESHOLD
 CWK,Cushman & Wakefield Ltd. Common Shares,3418040138.0,BELOW_10B_THRESHOLD
 CWST,"Casella Waste Systems, Inc. - Class A Common Stock",6301637355.0,BELOW_10B_THRESHOLD
 CWT,California Water Service Group Common Stock,3152336139.0,BELOW_10B_THRESHOLD
 CXAI,CXApp Inc. - Class A Common Stock,3543487.0,BELOW_10B_THRESHOLD
 CXDO,"Crexendo, Inc. - Common Stock",168212953.0,BELOW_10B_THRESHOLD
 CXII,Churchill Capital Corp XII - Class A Ordinary Shares,,MARKET_CAP_MISSING
-CXM,"Sprinklr, Inc. Class A Common Stock",1525365704.0,BELOW_10B_THRESHOLD
 CXT,"Crane NXT, Co. Common Stock",3433346693.0,BELOW_10B_THRESHOLD
 CXW,"CoreCivic, Inc. Common Stock",2580237607.0,BELOW_10B_THRESHOLD
 CYAB,"Cyabra, Inc. - Common Stock",3008929.0,BELOW_10B_THRESHOLD
 CYCU,"Cycurion, Inc. - Common Stock",7978204.0,BELOW_10B_THRESHOLD
 CYD,China Yuchai International Limited Common Stock,775128533.0,BELOW_10B_THRESHOLD
 CYH,"Community Health Systems, Inc. Common Stock",318015109.0,BELOW_10B_THRESHOLD
-CYN,Cyngn Inc. - Common stock,4389608.0,BELOW_10B_THRESHOLD
 CYPH,Cypherpunk Technologies Inc. - Common Stock,254323942.0,BELOW_10B_THRESHOLD
 CYRX,"CryoPort, Inc. - Common Stock",1037837782.0000001,BELOW_10B_THRESHOLD
 CYTK,"Cytokinetics, Incorporated - Common Stock",7681186774.0,BELOW_10B_THRESHOLD
@@ -1101,7 +1074,6 @@ DAIC,"CID HoldCo, Inc. - Common Stock",3335044.9999999995,BELOW_10B_THRESHOLD
 DAIO,Data I/O Corporation - Common Stock,25937089.000000004,BELOW_10B_THRESHOLD
 DAKT,"Daktronics, Inc. - Common Stock",961853000.0,BELOW_10B_THRESHOLD
 DAN,Dana Incorporated Common Stock ,2251898823.0,BELOW_10B_THRESHOLD
-DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share",2383740309.0,BELOW_10B_THRESHOLD
 DAR,Darling Ingredients Inc. Common Stock,8288598163.0,BELOW_10B_THRESHOLD
 DARE,"Dare Bioscience, Inc. - Common Stock",13374976.0,BELOW_10B_THRESHOLD
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),91270373.0,BELOW_10B_THRESHOLD
@@ -1137,9 +1109,9 @@ DFDV,DeFi Development Corp. - Common Stock,111889310.0,BELOW_10B_THRESHOLD
 DFH,"Dream Finders Homes, Inc. Class A Common Stock",1166092320.0,BELOW_10B_THRESHOLD
 DFIN,"Donnelley Financial Solutions, Inc. Common Stock ",1647251463.0,BELOW_10B_THRESHOLD
 DFLI,Dragonfly Energy Holdings Corp - Common Stock,3632359.0000000005,BELOW_10B_THRESHOLD
+DFNS,T3 Defense Inc. - Common Stock,8307720.0,BELOW_10B_THRESHOLD
 DFSC,"DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering",2508782.0,BELOW_10B_THRESHOLD
 DFTX,"Definium Therapeutics, Inc.  - Common Shares",4755246361.0,BELOW_10B_THRESHOLD
-DGAC,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,,MARKET_CAP_MISSING
 DGICA,"Donegal Group, Inc. - Class A Common Stock",700868378.0,BELOW_10B_THRESHOLD
 DGII,Digi International Inc. - Common Stock,2547457497.0,BELOW_10B_THRESHOLD
 DGNX,Diginex Limited - Ordinary Shares,57649650.0,BELOW_10B_THRESHOLD
@@ -1147,31 +1119,30 @@ DGXX,Digi Power X Inc. - Common Subordinate Voting Shares,227128583.0,BELOW_10B_
 DH,Definitive Healthcare Corp. - Class A Common Stock,162962608.0,BELOW_10B_THRESHOLD
 DHC,Diversified Healthcare Trust  - Common Shares of Beneficial Interest,1775313428.9999998,BELOW_10B_THRESHOLD
 DHT,"DHT Holdings, Inc.",3309405640.0,BELOW_10B_THRESHOLD
+DHX,"DHI Group, Inc. Common Stock",181368767.0,BELOW_10B_THRESHOLD
 DIBS,"1stdibs.com, Inc. - Common Stock",197155221.0,BELOW_10B_THRESHOLD
 DIN,"Dine Brands Global, Inc. Common Stock",457252909.99999994,BELOW_10B_THRESHOLD
 DIOD,Diodes Incorporated - Common Stock,3925199025.0,BELOW_10B_THRESHOLD
-DIT,AMCON Distributing Company Common Stock,59732914.0,BELOW_10B_THRESHOLD
 DJCO,Daily Journal Corp. (S.C.) - Common Stock,910936508.0,BELOW_10B_THRESHOLD
 DJT,Trump Media & Technology Group Corp. - Common Stock,1130418744.0,BELOW_10B_THRESHOLD
 DK,"Delek US Holdings, Inc. Common Stock",3942344511.0000005,BELOW_10B_THRESHOLD
 DKI,DarkIris Inc. - Class A Ordinary Shares,92294.0,BELOW_10B_THRESHOLD
-DKNG,DraftKings Inc. - Class A Common Stock,9318043383.0,BELOW_10B_THRESHOLD
 DLB,Dolby Laboratories Common Stock,6069269572.0,BELOW_10B_THRESHOLD
+DLHC,DLH Holdings Corp. - Common Stock,52899578.0,BELOW_10B_THRESHOLD
 DLO,DLocal Limited - Class A Common Shares,4244070846.9999995,BELOW_10B_THRESHOLD
 DLPN,"Dolphin Entertainment, Inc. - Common Stock",12809649.0,BELOW_10B_THRESHOLD
 DLTH,Duluth Holdings Inc. - Class B Common Stock,145179104.0,BELOW_10B_THRESHOLD
 DLX,Deluxe Corporation Common Stock,1190262534.0,BELOW_10B_THRESHOLD
 DLXY,Delixy Holdings Limited - Class A Ordinary Shares,5460900.0,BELOW_10B_THRESHOLD
-DMAA,Drugs Made In America Acquisition Corp. - Ordinary Shares,264375582.57,BELOW_10B_THRESHOLD
+DMAA,Drugs Made In America Acquisition Corp. - Ordinary Shares,264618351.70000002,BELOW_10B_THRESHOLD
 DMAC,DiaMedica Therapeutics Inc. - Common Stock,520382975.99999994,BELOW_10B_THRESHOLD
 DMC,Del Monte Corporation Ordinary Shares,1314948349.0,BELOW_10B_THRESHOLD
-DMII,Drugs Made In America Acquisition II Corp. - Ordinary Shares,651651000.0,BELOW_10B_THRESHOLD
+DMII,Drugs Made In America Acquisition II Corp. - Ordinary Shares,,MARKET_CAP_MISSING
 DMRA,"Damora Therapeutics, Inc. - Ordinary Shares",1490047140.0,BELOW_10B_THRESHOLD
 DMRC,Digimarc Corporation - Common Stock,221121087.0,BELOW_10B_THRESHOLD
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",795245824.0,BELOW_10B_THRESHOLD
 DNLI,Denali Therapeutics Inc. - Common Stock,3258706800.0,BELOW_10B_THRESHOLD
 DNMX,Dynamix Corporation III - Class A Ordinary Shares,,MARKET_CAP_MISSING
-DNN,Denison Mines Corp Ordinary Shares (Canada),2123269482.0,BELOW_10B_THRESHOLD
 DNOW,DNOW Inc. Common Stock,2511207543.0,BELOW_10B_THRESHOLD
 DNTH,"Dianthus Therapeutics, Inc. - Common Stock",5068144080.0,BELOW_10B_THRESHOLD
 DNUT,"Krispy Kreme, Inc. - Common Stock",699205000.0,BELOW_10B_THRESHOLD
@@ -1183,14 +1154,11 @@ DOMH,Dominari Holdings Inc. - Common Stock,28982276.0,BELOW_10B_THRESHOLD
 DOO,BRP Inc. - Common Subordinate Voting Shares,4732206586.0,BELOW_10B_THRESHOLD
 DORM,"Dorman Products, Inc. - Common Stock",4020626441.9999995,BELOW_10B_THRESHOLD
 DOUG,Douglas Elliman Inc. Common Stock,146333662.0,BELOW_10B_THRESHOLD
-DOX,Amdocs Limited - Ordinary Shares,4505813758.0,BELOW_10B_THRESHOLD
-DOYU,DouYu International Holdings Limited - American Depositary Shares,116188607.0,BELOW_10B_THRESHOLD
 DPC,DPC Holdings PLC Ordinary Shares,4892621274.0,BELOW_10B_THRESHOLD
 DPRO,Draganfly Inc. - Common Shares,130211682.99999999,BELOW_10B_THRESHOLD
 DPU,Nexpu Ltd. - Class A Ordinary Shares,59970327.0,BELOW_10B_THRESHOLD
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",827218525.0,BELOW_10B_THRESHOLD
 DRD,DRDGOLD Limited American Depositary Shares,2305543087.0,BELOW_10B_THRESHOLD
-DRDB,Roman DBDR Acquisition Corp. II - Ordinary shares,,MARKET_CAP_MISSING
 DRH,Diamondrock Hospitality Company - Common Stock,2938870040.0,BELOW_10B_THRESHOLD
 DRIO,DarioHealth Corp. - Common Stock,20186931.0,BELOW_10B_THRESHOLD
 DRK,DarkHorse Technologies Inc. - Common Shares,18000209.0,BELOW_10B_THRESHOLD
@@ -1199,7 +1167,6 @@ DRS,"Leonardo DRS, Inc. - Common Stock",9707673705.0,BELOW_10B_THRESHOLD
 DRTS,Alpha Tau Medical Ltd. - Ordinary Shares,1304866753.0,BELOW_10B_THRESHOLD
 DRUG,Bright Minds Biosciences Inc. - common stock,236749616.0,BELOW_10B_THRESHOLD
 DRVN,Driven Brands Holdings Inc. - Common Stock,2022652544.0,BELOW_10B_THRESHOLD
-DSAC,Daedalus Special Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 DSC,DSC Holdings Ltd. - American Depositary Shares,127684855.0,BELOW_10B_THRESHOLD
 DSGN,"Design Therapeutics, Inc. - Common Stock",691591824.0,BELOW_10B_THRESHOLD
 DSGR,"Distribution Solutions Group, Inc. - Common Stock",1618603177.0,BELOW_10B_THRESHOLD
@@ -1212,12 +1179,13 @@ DSY,Big Tree Cloud Holdings Limited - Class A Ordinary Shares,14683288.0,BELOW_1
 DTCX,"Datacentrex, Inc. - Common Stock",48082436.0,BELOW_10B_THRESHOLD
 DTI,Drilling Tools International Corporation  - Common Stock,55745914.0,BELOW_10B_THRESHOLD
 DTIL,"Precision BioSciences, Inc. - Common Stock",369080415.0,BELOW_10B_THRESHOLD
-DTSQ,DT Cloud Star Acquisition Corporation - Ordinary Shares,,MARKET_CAP_MISSING
+DTSQ,DT Cloud Star Acquisition Corporation - Ordinary Shares,42744885.29999999,BELOW_10B_THRESHOLD
 DTSS,Datasea Intelligent Technology Ltd. - Class A Ordinary Shares,7675479.0,BELOW_10B_THRESHOLD
 DTST,Data Storage Corporation - Common Stock,6253449.0,BELOW_10B_THRESHOLD
 DUKR,DUKE Robotics Corp. - Common Stock,9969596.0,BELOW_10B_THRESHOLD
 DUO,Fangdd Network Group Ltd. - Class A Ordinary Shares,21201627.0,BELOW_10B_THRESHOLD
 DUOL,"Duolingo, Inc. - Class A Common Stock",7277246605.000001,BELOW_10B_THRESHOLD
+DUOT,"Duos Technologies Group, Inc. - Common Stock",163656995.0,BELOW_10B_THRESHOLD
 DV,"DoubleVerify Holdings, Inc. Common Stock",2117441840.0,BELOW_10B_THRESHOLD
 DVLT,Datavault AI Inc. - Common Stock,58269132.0,BELOW_10B_THRESHOLD
 DWSN,Dawson Geophysical Company - Common Stock,49688989.0,BELOW_10B_THRESHOLD
@@ -1245,6 +1213,7 @@ ECG,"Everus Construction Group, Inc. Common Stock",4318496011.0,BELOW_10B_THRESH
 ECO,Okeanis Eco Tankers Corp. Common Stock,3206347069.0000005,BELOW_10B_THRESHOLD
 ECOR,"electroCore, Inc. - Common Stock",66242723.0,BELOW_10B_THRESHOLD
 ECPG,Encore Capital Group Inc - Common Stock,2336613089.0,BELOW_10B_THRESHOLD
+ECVT,Ecovyst Inc. Common Stock,1170873796.0,BELOW_10B_THRESHOLD
 ECX,ECARX Holdings Inc. - Class A Ordinary shares,297303000.0,BELOW_10B_THRESHOLD
 EDBL,Edible Garden AG Incorporated - Common Stock,1471145.0,BELOW_10B_THRESHOLD
 EDHL,Everbright Digital Holding Limited - Ordinary Shares,36768727.0,BELOW_10B_THRESHOLD
@@ -1264,7 +1233,6 @@ EFOI,"Energy Focus, Inc. - Common Stock",27451347.0,BELOW_10B_THRESHOLD
 EFOR,"Everforth, Inc. Common Stock",1465215000.0,BELOW_10B_THRESHOLD
 EFSC,Enterprise Financial Services Corporation - Common Stock,2239122996.0,BELOW_10B_THRESHOLD
 EFSI,Eagle Financial Services Inc - Common Stock,248230780.0,BELOW_10B_THRESHOLD
-EFTY,"Etoiles Capital Group Co., Ltd. - Common Stock",,MARKET_CAP_MISSING
 EFXT,Enerflex Ltd Common Shares,2475025438.0,BELOW_10B_THRESHOLD
 EGAN,eGain Corporation - Common Stock,156434909.0,BELOW_10B_THRESHOLD
 EGBN,"Eagle Bancorp, Inc. - Common Stock",1041326933.9999999,BELOW_10B_THRESHOLD
@@ -1293,7 +1261,6 @@ ELOG,Eastern International Ltd. - Ordinary Shares,7964822.000000001,BELOW_10B_TH
 ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",54532561.0,BELOW_10B_THRESHOLD
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),8143072916.0,BELOW_10B_THRESHOLD
 ELPW,Elong Power Holding Limited - Class A Ordinary Shares,3231246.0,BELOW_10B_THRESHOLD
-ELTK,Eltek Ltd. - Ordinary Shares,40050169.0,BELOW_10B_THRESHOLD
 ELTX,"Elicio Therapeutics, Inc. - Common Stock",46565385.0,BELOW_10B_THRESHOLD
 ELUT,"Elutia, Inc. - Class A Common Stock",37021367.0,BELOW_10B_THRESHOLD
 ELVA,Electrovaya Inc. - Common Shares,263994176.0,BELOW_10B_THRESHOLD
@@ -1367,7 +1334,6 @@ ETON,"Eton Pharmaceuticals, Inc. - Common Stock",1855996534.9999998,BELOW_10B_TH
 ETOR,eToro Group Ltd. - Class A Common Shares,1878340486.0,BELOW_10B_THRESHOLD
 ETRA,"Electra Therapeutics, Inc. - Common stock",515944370.0,BELOW_10B_THRESHOLD
 ETS,Elite Express Holding Inc. - Class A Common Stock,75510842.0,BELOW_10B_THRESHOLD
-ETSS,Energy Transition Special Opportunities Class A Ordinary Shares,,MARKET_CAP_MISSING
 ETSY,"Etsy, Inc. Common Stock",7619738264.0,BELOW_10B_THRESHOLD
 EU,enCore Energy Corp. - Common Stock,135627546.0,BELOW_10B_THRESHOLD
 EUDA,Euda Health Holdings Limited - Class A Ordinary Shares,42459529.0,BELOW_10B_THRESHOLD
@@ -1375,7 +1341,6 @@ EURK,Eureka Acquisition Corp - Class A Ordinary Share,,MARKET_CAP_MISSING
 EVAC,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,,MARKET_CAP_MISSING
 EVAX,Evaxion A/S - American Depositary Share,25362373.0,BELOW_10B_THRESHOLD
 EVC,Entravision Communications Corporation Common Stock,858742678.0,BELOW_10B_THRESHOLD
-EVCM,EverCommerce Inc. - Common Stock,1426149469.0,BELOW_10B_THRESHOLD
 EVER,"EverQuote, Inc. - Class A Common Stock",1008117962.9999999,BELOW_10B_THRESHOLD
 EVEX,"Eve Holding, Inc. Common Stock",677830145.0,BELOW_10B_THRESHOLD
 EVGN,Evogene Ltd. - Ordinary Shares,4542905.0,BELOW_10B_THRESHOLD
@@ -1388,7 +1353,6 @@ EVO,Evotec SE - American Depositary Shares each representing 1/2 of one ordinary
 EVOX,Evolution Global Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 EVTC,"Evertec, Inc. Common Stock",1979021543.0,BELOW_10B_THRESHOLD
 EVTL,Vertical Aerospace Ltd. Ordinary Shares,64756985.0,BELOW_10B_THRESHOLD
-EWAV,East West Ave Acquisition Corp. - Common Stock,103245544.64,BELOW_10B_THRESHOLD
 EWTX,"Edgewise Therapeutics, Inc. - Common Stock",5336189869.0,BELOW_10B_THRESHOLD
 EXFY,"Expensify, Inc. - Class A Common Stock",170928047.0,BELOW_10B_THRESHOLD
 EXK,Endeavour Silver Corporation Ordinary Shares (Canada),2470694153.0,BELOW_10B_THRESHOLD
@@ -1398,11 +1362,13 @@ EXOZ,eXoZymes Inc. - Common Stock,37777086.0,BELOW_10B_THRESHOLD
 EXP,Eagle Materials Inc Common Stock,5789424416.0,BELOW_10B_THRESHOLD
 EXPO,"Exponent, Inc. - Common Stock",4063832633.0,BELOW_10B_THRESHOLD
 EXTR,"Extreme Networks, Inc. - Common Stock",3358486938.0,BELOW_10B_THRESHOLD
+EXYN,"Exyn Technologies, Inc. - Common Stock",18294101.0,BELOW_10B_THRESHOLD
 EYE,"National Vision Holdings, Inc. - Common Stock",1499944868.0,BELOW_10B_THRESHOLD
 EYPT,"EyePoint, Inc. - Common Stock",31200172.999999996,BELOW_10B_THRESHOLD
 EZGO,EZGO Technologies Ltd. - Ordinary Shares,3236598.0000000005,BELOW_10B_THRESHOLD
 EZPW,"EZCORP, Inc. - Class A Non-Voting Common Stock",1817495092.0,BELOW_10B_THRESHOLD
 FA,First Advantage Corporation - Common Stock,4044740609.0,BELOW_10B_THRESHOLD
+FABC,"Fabric.AI, Inc. - Common Stock",11906142.0,BELOW_10B_THRESHOLD
 FAC,Factorial Energy Inc. - Class A Common Stock,478393905.0,BELOW_10B_THRESHOLD
 FACT,FACT II Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 FAF,First American Corporation (New) Common Stock,7010186000.0,BELOW_10B_THRESHOLD
@@ -1476,17 +1442,15 @@ FISI,"Financial Institutions, Inc. - Common Stock",792589799.0,BELOW_10B_THRESHO
 FISN,"Deep Fission, Inc. - Common Stock",166714134.0,BELOW_10B_THRESHOLD
 FIVN,"Five9, Inc. - Common Stock",2173921855.0,BELOW_10B_THRESHOLD
 FIZZ,National Beverage Corp. - Common Stock,3507765366.0000005,BELOW_10B_THRESHOLD
-FJDI,ARC Group Securities Acquisition I - Class A Ordinary Shares,,MARKET_CAP_MISSING
-FJET,"Starfighters Space, Inc. Common Stock",59945660.99999999,BELOW_10B_THRESHOLD
 FKWL,Franklin Wireless Corp. - common stock,24864831.0,BELOW_10B_THRESHOLD
 FLG,"Flagstar Bank, N.A. Common Stock",4211241822.0,BELOW_10B_THRESHOLD
 FLGT,"Fulgent Genetics, Inc. - Common Stock",730604850.0,BELOW_10B_THRESHOLD
-FLL,"Full House Resorts, Inc. - Common Stock",26537931.999999996,BELOW_10B_THRESHOLD
 FLNA,"Filana Therapeutics, Inc. - Common Stock",24747733.0,BELOW_10B_THRESHOLD
 FLNC,"Fluence Energy, Inc. - Class A Common Stock",996820393.0,BELOW_10B_THRESHOLD
 FLNG,FLEX LNG Ltd. Ordinary Shares,1409106395.0,BELOW_10B_THRESHOLD
 FLNT,"Fluent, Inc. - Common Stock",115998006.00000001,BELOW_10B_THRESHOLD
 FLO,"Flowers Foods, Inc. Common Stock",1356107188.0,BELOW_10B_THRESHOLD
+FLOC,Flowco Holdings Inc. Class A Common Stock,1885451279.9999998,BELOW_10B_THRESHOLD
 FLR,Fluor Corporation Common Stock,6450872885.0,BELOW_10B_THRESHOLD
 FLSC,Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 FLUX,"Flux Power Holdings, Inc. - Common Stock",7928896.000000001,BELOW_10B_THRESHOLD
@@ -1494,14 +1458,14 @@ FLWS,"1-800-FLOWERS.COM, Inc. - Class A Common Stock",179781171.0,BELOW_10B_THRE
 FLX,BingEx Limited - American Depositary Shares,109694865.00000001,BELOW_10B_THRESHOLD
 FLXS,"Flexsteel Industries, Inc. - Common Stock",308485439.0,BELOW_10B_THRESHOLD
 FLY,Firefly Aerospace Inc. - Common Stock,4069606919.9999995,BELOW_10B_THRESHOLD
+FLYE,"Fly-E Group, Inc. - Common Stock",3525954.0,BELOW_10B_THRESHOLD
 FLYW,Flywire Corporation - Voting Common Stock,2711872695.0,BELOW_10B_THRESHOLD
 FLYX,"flyExclusive, Inc. Class A Common Stock",122616047.0,BELOW_10B_THRESHOLD
-FMAC,Future Money Acquisition Corporation - Ordinary Shares,,MARKET_CAP_MISSING
+FMAC,Future Money Acquisition Corporation - Ordinary Shares,159854195.88000005,BELOW_10B_THRESHOLD
 FMAO,"Farmers & Merchants Bancorp, Inc. - Common Stock",507777062.0,BELOW_10B_THRESHOLD
 FMBH,"First Mid Bancshares, Inc. - Common Stock",1370270646.0,BELOW_10B_THRESHOLD
 FMC,FMC Corporation Common Stock,840793147.0,BELOW_10B_THRESHOLD
 FMFC,Kandal M Venture Limited - Class A ordinary Shares,1368800.0,BELOW_10B_THRESHOLD
-FMNB,Farmers National Banc Corp. - Common Stock,927373052.0000001,BELOW_10B_THRESHOLD
 FMST,Foremost Clean Energy Ltd. - Common Shares,25003346.999999996,BELOW_10B_THRESHOLD
 FNB,F.N.B. Corporation Common Stock,6388815357.0,BELOW_10B_THRESHOLD
 FND,"Floor & Decor Holdings, Inc. Common Stock",5558810473.0,BELOW_10B_THRESHOLD
@@ -1527,6 +1491,7 @@ FOXX,Foxx Development Holdings Inc. - Common Stock,11319851.0,BELOW_10B_THRESHOL
 FPH,"Five Point Holdings, LLC Class A Common Shares",657934427.0,BELOW_10B_THRESHOLD
 FPI,Farmland Partners Inc. Common Stock,371507176.0,BELOW_10B_THRESHOLD
 FPS,"Forgent Power Solutions, Inc. Class A Common Stock",6874004314.0,BELOW_10B_THRESHOLD
+FR,"First Industrial Realty Trust, Inc. Common Stock",7280507799.999999,BELOW_10B_THRESHOLD
 FRAF,Franklin Financial Services Corporation - Common Stock,316240260.0,BELOW_10B_THRESHOLD
 FRBA,First Bank  - Common Stock,498163867.0,BELOW_10B_THRESHOLD
 FRBT,"Forbright, Inc. - Class A Common Stock",992951273.0000001,BELOW_10B_THRESHOLD
@@ -1546,8 +1511,8 @@ FRT,Federal Realty Investment Trust Common Stock,9793554492.0,BELOW_10B_THRESHOL
 FRTT,Fort Technology Inc. - Common Shares,6660855.0,BELOW_10B_THRESHOLD
 FRVO,Fervo Energy Company - Class A common stock,3354405205.0,BELOW_10B_THRESHOLD
 FSBW,"FS Bancorp, Inc. - Common Stock",343340003.0,BELOW_10B_THRESHOLD
-FSHP,Flag Ship Acquisition Corp. - Ordinary Shares,39932251.0,BELOW_10B_THRESHOLD
 FSI,Flexible Solutions International Inc. Common Stock (CDA),85589137.0,BELOW_10B_THRESHOLD
+FSK,FS KKR Capital Corp. Common Stock,3223041198.0,BELOW_10B_THRESHOLD
 FSLY,"Fastly, Inc. - Class A Common Stock",2575976000.0,BELOW_10B_THRESHOLD
 FSM,Fortuna Mining Corp. Common Shares,2983250461.0,BELOW_10B_THRESHOLD
 FSP,Franklin Street Properties Corp. Common Stock,40678979.0,BELOW_10B_THRESHOLD
@@ -1560,11 +1525,11 @@ FTDR,"Frontdoor, Inc. - Common Stock",6808188497.0,BELOW_10B_THRESHOLD
 FTEK,"Fuel Tech, Inc. - Common Stock",44015672.0,BELOW_10B_THRESHOLD
 FTFT,Future FinTech Group Inc. - Common Stock,30101313.0,BELOW_10B_THRESHOLD
 FTH,"Faeth Therapeutics, Inc.  - Common Stock",327701223.0,BELOW_10B_THRESHOLD
-FTHA,Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 FTHM,Fathom Holdings Inc. - Common Stock,5172134.0,BELOW_10B_THRESHOLD
 FTK,"Flotek Industries, Inc. Common Stock",942958030.0,BELOW_10B_THRESHOLD
 FTLF,"FitLife Brands, Inc. - Common Stock",75316397.0,BELOW_10B_THRESHOLD
 FTRA,FutureCorp Space Acquisition 1 Class A Ordinary Shares,,MARKET_CAP_MISSING
+FTRE,Fortrea Holdings Inc. - Common Stock,2146160000.0,BELOW_10B_THRESHOLD
 FTW,Presidio Production Company Class A Common Stock,318772278.0,BELOW_10B_THRESHOLD
 FUBO,FuboTV Inc. Class A Common Stock,878488216.0,BELOW_10B_THRESHOLD
 FUFU,BitFuFu Inc. - Class A Ordinary Shares,159154186.0,BELOW_10B_THRESHOLD
@@ -1578,14 +1543,14 @@ FUSB,"First US Bancshares, Inc. - Common Stock",83849088.0,BELOW_10B_THRESHOLD
 FUSE,Fusemachines Inc. - Common stock,11003367.0,BELOW_10B_THRESHOLD
 FVAV,Fortress Value Acquisition Corp. V - Class A Ordinary Shares,,MARKET_CAP_MISSING
 FVCB,"FVCBankcorp, Inc. - Common Stock",293777199.0,BELOW_10B_THRESHOLD
-FVN,Future Vision II Acquisition Corporation - Ordinary Shares,89999920.0,BELOW_10B_THRESHOLD
+FVN,Future Vision II Acquisition Corporation - Ordinary Shares,,MARKET_CAP_MISSING
 FVR,"FrontView REIT, Inc. Common Stock",517909859.99999994,BELOW_10B_THRESHOLD
 FVRR,"Fiverr International Ltd. Ordinary Shares, no par value",305221681.0,BELOW_10B_THRESHOLD
-FWAC,Futurewave Acquisition Corporation - Ordinary Shares,128265356.25,BELOW_10B_THRESHOLD
+FWAC,Futurewave Acquisition Corporation - Ordinary Shares,128393750.0,BELOW_10B_THRESHOLD
 FWDI,"Forward Industries, Inc. - Common Stock",421873829.0,BELOW_10B_THRESHOLD
 FWRD,Forward Air Corporation - Common Stock,596232214.0,BELOW_10B_THRESHOLD
 FWRG,"First Watch Restaurant Group, Inc. - Common Stock",854912481.9999999,BELOW_10B_THRESHOLD
-FXAC,FortuneX Acquisition Corporation - Ordinary shares,129098314.38,BELOW_10B_THRESHOLD
+FXAC,FortuneX Acquisition Corporation - Ordinary shares,128214079.35,BELOW_10B_THRESHOLD
 FXHO,UTime Limited - Class A Ordinary Shares,152409424.0,BELOW_10B_THRESHOLD
 FXNC,First National Corporation - Common Stock,277879989.0,BELOW_10B_THRESHOLD
 G,Genpact Limited Common Stock,7113836410.0,BELOW_10B_THRESHOLD
@@ -1606,7 +1571,6 @@ GBLI,"Global Indemnity Group, LLC - Class A Common Shares",326046474.0,BELOW_10B
 GBR,"New Concept Energy, Inc Common Stock",4250633.0,BELOW_10B_THRESHOLD
 GBX,"Greenbrier Companies, Inc. (The) Common Stock",1296051424.0,BELOW_10B_THRESHOLD
 GCBC,"Greene Bancorp, Inc. - Common Stock",620068164.0,BELOW_10B_THRESHOLD
-GCGR,General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 GCL,GCL Global Holdings Ltd - Ordinary Shares,136642204.0,BELOW_10B_THRESHOLD
 GCMG,GCM Grosvenor Inc. - Class A Common Stock,2727553745.0,BELOW_10B_THRESHOLD
 GCO,Genesco Inc. Common Stock,407000017.0,BELOW_10B_THRESHOLD
@@ -1629,20 +1593,18 @@ GENC,"Gencor Industries, Inc. Common Stock",250646704.0,BELOW_10B_THRESHOLD
 GENI,Genius Sports Limited Ordinary Shares,1656610864.0,BELOW_10B_THRESHOLD
 GENK,"GEN Restaurant Group, Inc. - Class A Common Stock",49556502.0,BELOW_10B_THRESHOLD
 GEO,Geo Group Inc (The) REIT,3989620587.9999995,BELOW_10B_THRESHOLD
+GEOS,Geospace Technologies Corporation - Common Stock,49802072.0,BELOW_10B_THRESHOLD
 GERN,Geron Corporation - Common Stock,641984023.0,BELOW_10B_THRESHOLD
 GEVO,"Gevo, Inc. - Common Stock",363438543.0,BELOW_10B_THRESHOLD
-GFAI,"Guardforce AI Co., Limited - Ordinary Shares",5793986.0,BELOW_10B_THRESHOLD
 GFF,Griffon Corporation Common Stock,4834757986.0,BELOW_10B_THRESHOLD
 GFR,Greenfire Resources Ltd. Common Shares,1862004045.0,BELOW_10B_THRESHOLD
 GFUZ,General Fusion Group Ltd. - Common Shares,350153453.0,BELOW_10B_THRESHOLD
 GGAL,"Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",4883011339.0,BELOW_10B_THRESHOLD
 GGB,Gerdau S.A. Common Stock,9069212755.0,BELOW_10B_THRESHOLD
 GGR,Gogoro Inc. - Ordinary Shares,56280361.0,BELOW_10B_THRESHOLD
-GHC,Graham Holdings Company Common Stock,5067993140.0,BELOW_10B_THRESHOLD
 GHG,"GreenTree Hospitality Group Ltd. American depositary shares, each representing one Class A ordinary share",99383865.0,BELOW_10B_THRESHOLD
 GHM,Graham Corporation Common Stock,1038223358.0,BELOW_10B_THRESHOLD
 GHRS,GH Research PLC - Ordinary Shares,1320411171.0,BELOW_10B_THRESHOLD
-GHXI,"Gores Holdings XI, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 GIBO,GIBO Holdings Limited - Class A Ordinary Shares,504244841.00000006,BELOW_10B_THRESHOLD
 GIC,Global Industrial Company Common Stock,1771325793.0,BELOW_10B_THRESHOLD
 GIFT,"Giftify, Inc. - Common Stock",19454261.0,BELOW_10B_THRESHOLD
@@ -1652,13 +1614,14 @@ GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",6757136052.0,BELOW_
 GILT,Gilat Satellite Networks Ltd. - Ordinary Shares,572069786.0,BELOW_10B_THRESHOLD
 GIPR,Generation Income Properties Inc. - Common stock,1887656.9999999998,BELOW_10B_THRESHOLD
 GITS,"Global Interactive Technologies, Inc. Common Stock - Common Stock",6556842.0,BELOW_10B_THRESHOLD
-GIW,GigCapital8 Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 GIX,GigCapital9 Corp. - Class A Ordinary Share,,MARKET_CAP_MISSING
 GIXI,Gix Internet Ltd. - Ordinary Shares,8972464.0,BELOW_10B_THRESHOLD
+GLAS,Glass House Brands Inc. Subordinate Voting Shares,168076149.0,BELOW_10B_THRESHOLD
 GLBE,Global-E Online Ltd. - ordinary shares,7119976557.0,BELOW_10B_THRESHOLD
 GLBS,Globus Maritime Limited - Common Stock,56113983.0,BELOW_10B_THRESHOLD
+GLDG,GoldMining Inc. Common Shares,175274758.0,BELOW_10B_THRESHOLD
 GLE,Global Engine Group Holding Limited - Class A Ordinary Shares,4678200.0,BELOW_10B_THRESHOLD
-GLED,GalaxyEdge Acquisition Corporation Ordinary Shares,164140275.0,BELOW_10B_THRESHOLD
+GLED,GalaxyEdge Acquisition Corporation Ordinary Shares,162542025.0,BELOW_10B_THRESHOLD
 GLIBA,Liberty Capital Corporation - Series A GCI Group Common Stock,1089007286.0,BELOW_10B_THRESHOLD
 GLND,Greenland Energy Company - Common Stock,101454050.0,BELOW_10B_THRESHOLD
 GLNG,Golar LNG Limited - Common Shares,4432339763.0,BELOW_10B_THRESHOLD
@@ -1669,6 +1632,7 @@ GLSI,"Greenwich LifeSciences, Inc. - Common stock",242483996.0,BELOW_10B_THRESHO
 GLU,Gabelli Global Utility Common Shares of Beneficial Ownership,113140708.0,BELOW_10B_THRESHOLD
 GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",904062259.0,BELOW_10B_THRESHOLD
 GLXG,Galaxy Payroll Group Limited - Class A Ordinary Shares,4089599.0,BELOW_10B_THRESHOLD
+GLXY,Galaxy Digital Inc. - Class A common stock,5671800696.0,BELOW_10B_THRESHOLD
 GMEX,GMEX ROBOTICS CORPORATION - Class A Ordinary Shares,626606724.0,BELOW_10B_THRESHOLD
 GMHS,Gamehaus Holdings Inc. - Class A Ordinary Shares,50895120.00000001,BELOW_10B_THRESHOLD
 GMM,Global Mofy AI Limited  - Class A Ordinary Shares,57751007.0,BELOW_10B_THRESHOLD
@@ -1680,7 +1644,6 @@ GNL,"Global Net Lease, Inc. Common Stock",1529796051.0,BELOW_10B_THRESHOLD
 GNLN,"Greenlane Holdings, Inc. - Class A Common Stock",805671.0,BELOW_10B_THRESHOLD
 GNLX,Genelux Corporation - Common Stock,93657843.0,BELOW_10B_THRESHOLD
 GNPX,"Genprex, Inc. - Common Stock",1688601.0,BELOW_10B_THRESHOLD
-GNS,Genius Group Limited Ordinary Shares,19501867.0,BELOW_10B_THRESHOLD
 GNSS,Genasys Inc. - Common Stock,63986522.99999999,BELOW_10B_THRESHOLD
 GNTX,Gentex Corporation - Common Stock,4003867062.0,BELOW_10B_THRESHOLD
 GNW,Genworth Financial Inc Common Stock,3195181273.0,BELOW_10B_THRESHOLD
@@ -1694,11 +1657,11 @@ GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,859236640.0,BELOW_10B_
 GORO,Goldgroup Mining Inc. Common Shares,576381882.0,BELOW_10B_THRESHOLD
 GOSS,"Gossamer Bio, Inc. - Common Stock",65108982.00000001,BELOW_10B_THRESHOLD
 GOTU,Gaotu Techedu Inc. American Depositary Shares,567491584.0,BELOW_10B_THRESHOLD
-GOVX,"GeoVax Labs, Inc. - Common Stock",1746012.0,BELOW_10B_THRESHOLD
 GOW,GOWell Energy Technology - Ordinary shares,110306825.0,BELOW_10B_THRESHOLD
 GP,GreenPower Motor Company Inc. - Common Shares,1094680.0,BELOW_10B_THRESHOLD
 GPAC,General Purpose Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 GPAT,GP-Act III Acquisition Corp. - Class A Ordinary Share,,MARKET_CAP_MISSING
+GPCR,Structure Therapeutics Inc. - American Depositary Shares,1526744038.0,BELOW_10B_THRESHOLD
 GPGI,"GPGI, Inc. Class A Common Stock",4451443552.0,BELOW_10B_THRESHOLD
 GPI,"Group 1 Automotive, Inc. Common Stock",3205701683.0,BELOW_10B_THRESHOLD
 GPK,Graphic Packaging Holding Company,3209616076.9999995,BELOW_10B_THRESHOLD
@@ -1720,16 +1683,15 @@ GRI,"GRI Bio, Inc. - Common Stock",3913146.0,BELOW_10B_THRESHOLD
 GRML,Greenland Mines Ltd - Common Stock,57070374.0,BELOW_10B_THRESHOLD
 GRND,Grindr Inc. Common Stock,2364641218.0,BELOW_10B_THRESHOLD
 GRNQ,Greenpro Capital Corp. - Common Stock,12767788.0,BELOW_10B_THRESHOLD
-GRNT,"Granite Ridge Resources, Inc. Common Stock",748811954.0,BELOW_10B_THRESHOLD
 GRO,Brazil Potash Corp. Common Shares,118661118.00000001,BELOW_10B_THRESHOLD
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock",46757645.0,BELOW_10B_THRESHOLD
 GROW,"U.S. Global Investors, Inc. - Class A Common Stock",31975310.0,BELOW_10B_THRESHOLD
 GROY,Gold Royalty Corp. Common Shares,738769866.0,BELOW_10B_THRESHOLD
+GRPN,"Groupon, Inc. - Common Stock",660811060.0,BELOW_10B_THRESHOLD
 GRRR,Gorilla Technology Group Inc. - Ordinary shares,206838795.0,BELOW_10B_THRESHOLD
 GRSD,Grandstand Limited - Ordinary Shares,33317762.0,BELOW_10B_THRESHOLD
 GRVY,"GRAVITY Co., Ltd. - American depositary shares, each representing one common share.",481628259.0,BELOW_10B_THRESHOLD
 GRWG,GrowGeneration Corp. - Common Stock,92505105.0,BELOW_10B_THRESHOLD
-GSBC,"Great Southern Bancorp, Inc. - Common Stock",874202854.0,BELOW_10B_THRESHOLD
 GSBD,"Goldman Sachs BDC, Inc. Common Stock",953356780.9999999,BELOW_10B_THRESHOLD
 GSHD,"Goosehead Insurance, Inc. - Class A Common Stock",1942187265.0,BELOW_10B_THRESHOLD
 GSHR,Gesher Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
@@ -1737,15 +1699,12 @@ GSIT,"GSI Technology, Inc. - Common Stock",124735140.00000001,BELOW_10B_THRESHOL
 GSIW,Garden Stage Limited - Class A Ordinary Shares,110016337.99999999,BELOW_10B_THRESHOLD
 GSL,Global Ship Lease Inc New Class A Common Shares,1478215332.0,BELOW_10B_THRESHOLD
 GSM,Ferroglobe PLC - Ordinary Shares,491443160.00000006,BELOW_10B_THRESHOLD
-GSRF,GSR IV Acquisition Corp. - Class A ordinary share,,MARKET_CAP_MISSING
-GSRV,GSR V Acquisition Corp. - Class A ordinary shares,,MARKET_CAP_MISSING
 GSUN,Golden Sun Technology Group Limited - Class A Ordinary Shares,1741012.0,BELOW_10B_THRESHOLD
 GT,The Goodyear Tire & Rubber Company - Common Stock,1203641316.0,BELOW_10B_THRESHOLD
 GTBP,"GT Biopharma, Inc. - Common Stock",8903745.0,BELOW_10B_THRESHOLD
 GTE,Gran Tierra Energy Inc. Common Stock,339311567.0,BELOW_10B_THRESHOLD
 GTEC,Greenland Technologies Holding Corporation - Class A Ordinary Shares,13073029.0,BELOW_10B_THRESHOLD
 GTEN,"Gores Holdings X, Inc. - Class A ordinary shares",,MARKET_CAP_MISSING
-GTERA,Globa Terra Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 GTES,Gates Industrial Corporation Ltd. Common Shares,6360054402.0,BELOW_10B_THRESHOLD
 GTIM,Good Times Restaurants Inc. - Common Stock,13197370.0,BELOW_10B_THRESHOLD
 GTLB,GitLab Inc. - Class A Common Stock,7850192000.0,BELOW_10B_THRESHOLD
@@ -1753,7 +1712,7 @@ GTM,ZoomInfo Technologies Inc. - Common Stock,1029981845.0,BELOW_10B_THRESHOLD
 GTN,"Gray Media, Inc. Common Stock",576712545.0,BELOW_10B_THRESHOLD
 GTX,Garrett Motion Inc. - Common Stock,3830567321.0,BELOW_10B_THRESHOLD
 GTY,Getty Realty Corporation Common Stock,1935176587.9999998,BELOW_10B_THRESHOLD
-GUAC,Berto Acquisition Corp. II - Ordinary Shares,389148500.00000006,BELOW_10B_THRESHOLD
+GUAC,Berto Acquisition Corp. II - Ordinary Shares,,MARKET_CAP_MISSING
 GUNN,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),142808801.0,BELOW_10B_THRESHOLD
 GURE,"Gulf Resources, Inc. - Common Stock",5368052.0,BELOW_10B_THRESHOLD
 GUTS,"Fractyl Health, Inc. - Common Stock",11900020.0,BELOW_10B_THRESHOLD
@@ -1763,6 +1722,7 @@ GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",6099180.0,BELOW_10B_T
 GWRS,"Global Water Resources, Inc. - common stock",209846788.99999997,BELOW_10B_THRESHOLD
 GXAI,Gaxos.ai Inc. - Common Stock,4619856.0,BELOW_10B_THRESHOLD
 GXO,"GXO Logistics, Inc. Common Stock ",6337545730.0,BELOW_10B_THRESHOLD
+GYGY,"Game Your Game, Inc. - Common Stock",5038639.0,BELOW_10B_THRESHOLD
 GYRE,"Gyre Therapeutics, Inc. - Common Stock",536242729.0,BELOW_10B_THRESHOLD
 GYRO,"Gyrodyne , LLC - Common Stock",8995170.0,BELOW_10B_THRESHOLD
 HACQ,HCM IV Acquisition Corp. - Class A Ordinary Share,,MARKET_CAP_MISSING
@@ -1773,28 +1733,25 @@ HAIN,"The Hain Celestial Group, Inc. - Common Stock",12703917.0,BELOW_10B_THRESH
 HAO,Haoxi Health Technology Limited - Class A Ord Share,1326279.0,BELOW_10B_THRESHOLD
 HAPN,"Happen, Inc. - Common Stock",1868585183.0,BELOW_10B_THRESHOLD
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock",5027626346.0,BELOW_10B_THRESHOLD
-HAVA,Harvard Ave Acquisition Corporation - Class A Ordinary Share,,MARKET_CAP_MISSING
 HAWK,"HawkEye 360, Inc. Common Stock",1475851041.0,BELOW_10B_THRESHOLD
 HAYW,"Hayward Holdings, Inc. Common Stock",3517625411.0,BELOW_10B_THRESHOLD
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,421047943.00000006,BELOW_10B_THRESHOLD
 HBCP,"Home Bancorp, Inc. - Common Stock",480127409.99999994,BELOW_10B_THRESHOLD
 HBIO,"Harvard Bioscience, Inc. - Common Stock",41380452.0,BELOW_10B_THRESHOLD
-HBNB,Hotel101 Global Holdings Corp. - Class A Ordinary Shares,1111653834.0,BELOW_10B_THRESHOLD
 HBNC,"Horizon Bancorp, Inc. - Common Stock",1087033011.0,BELOW_10B_THRESHOLD
 HBT,"HBT Financial, Inc. - Common Stock",1362619482.0,BELOW_10B_THRESHOLD
 HCAC,Hall Chadwick Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd. - Class A Ordinary Shares",1903924.0,BELOW_10B_THRESHOLD
 HCAT,"Health Catalyst, Inc - Common stock",114994755.0,BELOW_10B_THRESHOLD
 HCC,"Warrior Met Coal, Inc. Common Stock",4536227294.0,BELOW_10B_THRESHOLD
-HCHL,Happy City Holdings Limited - Class A Ordinary shares,,MARKET_CAP_MISSING
 HCI,"HCI Group, Inc. Common Stock",2314095761.0,BELOW_10B_THRESHOLD
 HCIC,Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares,,MARKET_CAP_MISSING
 HCKT,"The Hackett Group, Inc. - Common Stock",329898560.0,BELOW_10B_THRESHOLD
 HCM,HUTCHMED (China) Limited - American Depositary Shares,2672811828.0,BELOW_10B_THRESHOLD
 HCMA,HCM III Acquisition Corp. - Class A Ordinary Share,401321250.0,BELOW_10B_THRESHOLD
 HCSG,"Healthcare Services Group, Inc. - Common Stock",1670965133.0,BELOW_10B_THRESHOLD
+HCTI,"Healthcare Triangle, Inc. - Common Stock",3741030.0,BELOW_10B_THRESHOLD
 HCWB,HCW Biologics Inc. - Common Stock,2133453.0,BELOW_10B_THRESHOLD
-HDL,SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares,682163651.0,BELOW_10B_THRESHOLD
 HDRN,"Hadron Energy, Inc. - Common Stock",49884742.0,BELOW_10B_THRESHOLD
 HDSN,"Hudson Technologies, Inc. - Common Stock",184768721.0,BELOW_10B_THRESHOLD
 HE,"Hawaiian Electric Industries, Inc. Common Stock",1564052076.0,BELOW_10B_THRESHOLD
@@ -1807,8 +1764,8 @@ HFBL,"Home Federal Bancorp, Inc. of Louisiana - Common Stock",70521922.0,BELOW_1
 HFFG,HF Foods Group Inc. - Common Stock,82848196.0,BELOW_10B_THRESHOLD
 HFWA,Heritage Financial Corporation - Common Stock,1162121700.0,BELOW_10B_THRESHOLD
 HG,"Hamilton Insurance Group, Ltd. Class B Common Shares",2474019549.0,BELOW_10B_THRESHOLD
+HGBL,Heritage Global Inc. - Common Stock,40710713.0,BELOW_10B_THRESHOLD
 HGTY,"Hagerty, Inc. Class A Common Stock",5915116531.0,BELOW_10B_THRESHOLD
-HGV,Hilton Grand Vacations Inc. Common Stock ,3383210168.0,BELOW_10B_THRESHOLD
 HHH,Howard Hughes Holdings Inc. Common Stock,5113183099.0,BELOW_10B_THRESHOLD
 HHS,"Harte Hanks, Inc. - Common Stock",29742418.0,BELOW_10B_THRESHOLD
 HIFS,Hingham Institution for Savings - Common Stock,660003390.0,BELOW_10B_THRESHOLD
@@ -1825,7 +1782,6 @@ HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent 
 HKPD,"Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",3896079.0,BELOW_10B_THRESHOLD
 HLF,Herbalife Ltd. Common Shares,1646339377.0,BELOW_10B_THRESHOLD
 HLIO,"Helios Technologies, Inc. Common Stock",1620569253.0,BELOW_10B_THRESHOLD
-HLIT,Harmonic Inc. - Common Stock,1099216456.0,BELOW_10B_THRESHOLD
 HLLY,Holley Inc. Common Stock,317498894.0,BELOW_10B_THRESHOLD
 HLMN,Hillman Solutions Corp. - Common Stock,1626888247.0000002,BELOW_10B_THRESHOLD
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,5345262720.0,BELOW_10B_THRESHOLD
@@ -1870,7 +1826,6 @@ HRZN,Horizon Technology Finance Corporation - Common Stock,252070465.0,BELOW_10B
 HSAI,Hesai Group - American Depositary Share,2248705039.0,BELOW_10B_THRESHOLD
 HSCS,HeartSciences Inc. - Common Stock,13126996.0,BELOW_10B_THRESHOLD
 HSDT,Solana Company - Class A Common Stock,124469873.00000001,BELOW_10B_THRESHOLD
-HSHP,Himalaya Shipping Ltd. Common Shares,731637500.0,BELOW_10B_THRESHOLD
 HSIC,"Henry Schein, Inc. - Common Stock",9772712498.0,BELOW_10B_THRESHOLD
 HSLV,Highlander Silver Corp. Common Shares,997264747.9999999,BELOW_10B_THRESHOLD
 HSTM,"HealthStream, Inc. - Common Stock",883761155.9999999,BELOW_10B_THRESHOLD
@@ -1892,14 +1847,12 @@ HUCK,"Huckleberry.ai, Inc. - Class B Common Stock",138756675.0,BELOW_10B_THRESHO
 HUDI,"Huadi International Group Co., Ltd. - Ordinary Shares",6931916.000000001,BELOW_10B_THRESHOLD
 HUHU,HUHUTECH International Group Inc. - Ordinary Shares,8879473.0,BELOW_10B_THRESHOLD
 HUIZ,Huize Holding Limited - American Depositary Shares,22789201.0,BELOW_10B_THRESHOLD
-HUMA,"Humacyte, Inc. - Common Stock",126453697.0,BELOW_10B_THRESHOLD
 HUN,Huntsman Corporation Common Stock,1671813037.0,BELOW_10B_THRESHOLD
 HURA,"TuHURA Biosciences, Inc. - Common Stock",105786184.0,BELOW_10B_THRESHOLD
 HURC,"Hurco Companies, Inc. - Common Stock",136002762.0,BELOW_10B_THRESHOLD
 HURN,Huron Consulting Group Inc. - Common Stock,2549695778.0,BELOW_10B_THRESHOLD
 HUT,Hut 8 Corp. - Common Stock,6844541443.0,BELOW_10B_THRESHOLD
 HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",516107370.0,BELOW_10B_THRESHOLD
-HVMC,Highview Merger Corp. - Class A Ordinary Share,,MARKET_CAP_MISSING
 HVT,"Haverty Furniture Companies, Inc. Common Stock",407617384.0,BELOW_10B_THRESHOLD
 HWBK,"Hawthorn Bancshares, Inc. - Common Stock",288309168.0,BELOW_10B_THRESHOLD
 HWC,Hancock Whitney Corporation - Common Stock,5826015234.0,BELOW_10B_THRESHOLD
@@ -1916,23 +1869,21 @@ HYPD,"Hyperion DeFi, Inc. - Common Stock",39841604.0,BELOW_10B_THRESHOLD
 HYPR,"Hyperfine, Inc.  - Class A Common Stock",74955199.0,BELOW_10B_THRESHOLD
 HZO,"MarineMax, Inc.  (FL) Common Stock",1165075852.0,BELOW_10B_THRESHOLD
 IA,"Innovative Solutions and Support, Inc. - Common Stock",381252385.0,BELOW_10B_THRESHOLD
-IACO,Idea Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
-IACQ,Irenic Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 IAM,"Iambic Therapeutics, Inc. - Common Stock",634222650.0,BELOW_10B_THRESHOLD
 IART,Integra LifeSciences Holdings Corporation - Common Stock,1118000025.0,BELOW_10B_THRESHOLD
 IAUX,i-80 Gold Corp. Common Shares,1289318164.0,BELOW_10B_THRESHOLD
-IBAC,IB Acquisition Corp. - Common Stock,54138955.49000001,BELOW_10B_THRESHOLD
 IBCP,Independent Bank Corporation - Common Stock,816683345.0,BELOW_10B_THRESHOLD
 IBEX,IBEX Limited - Common Share,670425425.0,BELOW_10B_THRESHOLD
 IBG,Innovation Beverage Group Limited - Ordinary Shares,3239251.0,BELOW_10B_THRESHOLD
 IBIO,"iBio, Inc. - Common Stock",51124269.0,BELOW_10B_THRESHOLD
+IBO,"Impact BioMedical, Inc. Common Stock",36994130.0,BELOW_10B_THRESHOLD
 IBP,"Installed Building Products, Inc. Common Stock",5938430680.0,BELOW_10B_THRESHOLD
 IBRX,"ImmunityBio, Inc. - Common Stock",7535435901.0,BELOW_10B_THRESHOLD
 IBTA,"Ibotta, Inc. Class A Common Stock",1409697876.0,BELOW_10B_THRESHOLD
 ICCC,ImmuCell Corporation - Common Stock,92820053.0,BELOW_10B_THRESHOLD
 ICCM,IceCure Medical Ltd. - Ordinary Shares,2817851.0,BELOW_10B_THRESHOLD
 ICFI,"ICF International, Inc. - Common Stock",1485276425.0,BELOW_10B_THRESHOLD
-ICG,Intchains Group Limited - American Depositary Shares,178154780.0,BELOW_10B_THRESHOLD
+ICHR,Ichor Holdings - Ordinary Shares,1294503742.0,BELOW_10B_THRESHOLD
 ICL,ICL Group Ltd. Ordinary Shares,6040348372.0,BELOW_10B_THRESHOLD
 ICMB,"Investcorp Credit Management BDC, Inc. - Common Stock",8747521.0,BELOW_10B_THRESHOLD
 ICON,Icon Energy Corp. - Common stock,3533755.0,BELOW_10B_THRESHOLD
@@ -1945,14 +1896,12 @@ IDCC,"InterDigital, Inc. - Common Stock",7574286005.0,BELOW_10B_THRESHOLD
 IDN,"Intellicheck, Inc. - Common Stock",42762828.0,BELOW_10B_THRESHOLD
 IDR,"Idaho Strategic Resources, Inc. Common Stock",351974021.0,BELOW_10B_THRESHOLD
 IDT,IDT Corporation Class B Common Stock,2054380225.0,BELOW_10B_THRESHOLD
-IDYA,"IDEAYA Biosciences, Inc. - Common Stock",3097127237.0,BELOW_10B_THRESHOLD
 IE,Ivanhoe Electric Inc. Common Stock,1316121902.0,BELOW_10B_THRESHOLD
 IEAG,Infinite Eagle Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 IESC,"IES Holdings, Inc. - Common Stock",7080397987.000001,BELOW_10B_THRESHOLD
 IFBD,"Infobird Co., Ltd - Ordinary Shares",13756804.0,BELOW_10B_THRESHOLD
 IFRX,InflaRx N.V. - Common Stock,193052370.0,BELOW_10B_THRESHOLD
 IFS,Intercorp Financial Services Inc. Common Shares,5293569955.0,BELOW_10B_THRESHOLD
-IGAC,Invest Green Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 IGC,"IGC Pharma, Inc. Common Stock",23920870.0,BELOW_10B_THRESHOLD
 IGIC,International General Insurance Holdings Ltd. - Ordinary Shares,998652055.0,BELOW_10B_THRESHOLD
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares",55529013.00000001,BELOW_10B_THRESHOLD
@@ -1965,7 +1914,6 @@ IIIV,"i3 Verticals, Inc. - Common Stock",508277994.0,BELOW_10B_THRESHOLD
 IIPR,"Innovative Industrial Properties, Inc. Common Stock",1531588437.0,BELOW_10B_THRESHOLD
 IKT,"Inhibikase Therapeutics, Inc. - Common Stock",234420312.0,BELOW_10B_THRESHOLD
 ILAG,Intelligent Living Application Group Inc. - Ordinary Shares,3821584.0,BELOW_10B_THRESHOLD
-ILLU,Illumination Acquisition Corp I - Class A Ordinary Shares,102544792.99999999,BELOW_10B_THRESHOLD
 ILPT,Industrial Logistics Properties Trust - Common Shares of Beneficial Interest,393859040.0,BELOW_10B_THRESHOLD
 IMA,"ImageneBio, Inc. - Common Stock",45065280.0,BELOW_10B_THRESHOLD
 IMAX,Imax Corporation Common Stock,2695557656.0,BELOW_10B_THRESHOLD
@@ -1973,10 +1921,10 @@ IMC,IMC Rare Earths Ltd Ordinary Shares,945900000.0,BELOW_10B_THRESHOLD
 IMCC,IM Cannabis Corp. - Common Shares,1032155.0,BELOW_10B_THRESHOLD
 IMCR,Immunocore Holdings plc - American Depositary Shares,1639850059.9999998,BELOW_10B_THRESHOLD
 IMDX,Insight Molecular Diagnostics Inc. - Common Stock,81810710.0,BELOW_10B_THRESHOLD
+IMKTA,"Ingles Markets, Incorporated - Class A Common Stock",1595337640.0,BELOW_10B_THRESHOLD
 IMMP,Immutep Limited - American Depositary Shares,28008094.0,BELOW_10B_THRESHOLD
 IMMR,Immersion Corporation - Common Stock,230449925.0,BELOW_10B_THRESHOLD
 IMMX,"Immix Biopharma, Inc. - Common Stock",710478290.0,BELOW_10B_THRESHOLD
-IMNM,"Immunome, Inc. - Common Stock",2284540326.0,BELOW_10B_THRESHOLD
 IMNN,"Imunon, Inc. - Common Stock",4954308.0,BELOW_10B_THRESHOLD
 IMOS,ChipMOS TECHNOLOGIES INC. - American Depositary Shares,1678209530.0000002,BELOW_10B_THRESHOLD
 IMPP,Imperial Petroleum Inc. - Common Shares,201200777.99999997,BELOW_10B_THRESHOLD
@@ -1989,7 +1937,6 @@ IMUX,"Immunic, Inc.  - Common Stock",108609957.0,BELOW_10B_THRESHOLD
 IMVT,"Immunovant, Inc.  - Common Stock",7260326772.000001,BELOW_10B_THRESHOLD
 IMXI,"International Money Express, Inc. - Common Stock",228702016.0,BELOW_10B_THRESHOLD
 INAB,"IN8bio, Inc. - Common Stock",10160875.0,BELOW_10B_THRESHOLD
-INAC,Indigo Acquisition Corp. - Ordinary Shares,153747100.0,BELOW_10B_THRESHOLD
 INBK,First Internet Bancorp - Common Stock,223928837.0,BELOW_10B_THRESHOLD
 INBS,Intelligent Bio Solutions Inc.  - Common Stock,7595478.999999999,BELOW_10B_THRESHOLD
 INBX,"Inhibrx Biosciences, Inc. - Common Stock",1350198128.0,BELOW_10B_THRESHOLD
@@ -2025,7 +1972,6 @@ INTJ,Intelligent Group Limited - Class A Ordinary Shares,3536244.9999999995,BELO
 INTR,Inter & Co. Inc. - Class A Common Shares,1765286652.0,BELOW_10B_THRESHOLD
 INTS,"Intensity Therapeutics, Inc. - Common Stock",10398701.0,BELOW_10B_THRESHOLD
 INTT,inTest Corporation Common Stock,175342041.0,BELOW_10B_THRESHOLD
-INTZ,Intrusion Inc. - Common Stock,13111220.000000002,BELOW_10B_THRESHOLD
 INUV,"Inuvo, Inc.",6693778.0,BELOW_10B_THRESHOLD
 INV,"Innventure, Inc. - Common Stock",13534015.999999998,BELOW_10B_THRESHOLD
 INVA,"Innoviva, Inc. - Common Stock",1350548063.0,BELOW_10B_THRESHOLD
@@ -2044,12 +1990,10 @@ IPDN,"Professional Diversity Network, Inc. - Common Stock",759025.0,BELOW_10B_TH
 IPFX,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,,MARKET_CAP_MISSING
 IPGP,IPG Photonics Corporation - Common Stock,3004050254.0,BELOW_10B_THRESHOLD
 IPHA,Innate Pharma S.A. - American Depositary Shares,167550521.0,BELOW_10B_THRESHOLD
-IPHX,Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares,,MARKET_CAP_MISSING
 IPI,"Intrepid Potash, Inc Common Stock",444301772.0,BELOW_10B_THRESHOLD
 IPM,Intelligent Protection Management Corp.  - Common Stock,15451097.0,BELOW_10B_THRESHOLD
 IPSC,"Century Therapeutics, Inc. - Common Stock",327746331.0,BELOW_10B_THRESHOLD
 IPST,"IP Strategy Holdings, Inc. - Common Stock",2191053.0,BELOW_10B_THRESHOLD
-IPVV,"InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 IPW,iPower Inc. - Common Stock,920934.0,BELOW_10B_THRESHOLD
 IPWR,Ideal Power Inc. - Common Stock,38457093.0,BELOW_10B_THRESHOLD
 IPX,IperionX Limited - American Depositary Share,561341252.0,BELOW_10B_THRESHOLD
@@ -2061,7 +2005,6 @@ IRAB,Iris Acquisition Corp II Class A Ordinary Shares,,MARKET_CAP_MISSING
 IRD,"Opus Genetics, Inc. - Common Stock",349422457.0,BELOW_10B_THRESHOLD
 IRDM,Iridium Communications Inc - Common Stock,4785624233.0,BELOW_10B_THRESHOLD
 IREN,IREN Limited - Ordinary Shares,9085491570.0,BELOW_10B_THRESHOLD
-IRHO,Iron Horse Acquisitions II Corp. - Common Stock,295252400.0,BELOW_10B_THRESHOLD
 IRIX,IRIDEX Corporation - Common Stock,12388532.0,BELOW_10B_THRESHOLD
 IRLA,IRulya Therapeutics Inc. - Common Stock,366170649.0,BELOW_10B_THRESHOLD
 IRMD,iRadimed Corporation - Common Stock,1111802022.0,BELOW_10B_THRESHOLD
@@ -2069,15 +2012,13 @@ IRON,"Disc Medicine, Inc. - Common Stock",3700648821.0,BELOW_10B_THRESHOLD
 IRT,"Independence Realty Trust, Inc. Common Stock",3555736164.9999995,BELOW_10B_THRESHOLD
 IRTC,"iRhythm Holdings, Inc.  - Common Stock",2982938095.0,BELOW_10B_THRESHOLD
 IRWD,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",774777557.0,BELOW_10B_THRESHOLD
-ISBA,Isabella Bank Corporation - Common stock,314763991.0,BELOW_10B_THRESHOLD
-ISNR,Snow Rothschild Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ISOU,IsoEnergy Ltd. Common Shares,586850820.0,BELOW_10B_THRESHOLD
 ISPC,iSpecimen Inc. - Common Stock,4286988.0,BELOW_10B_THRESHOLD
 ISPR,Ispire Technology Inc. - Common Stock,96449967.0,BELOW_10B_THRESHOLD
+ISTR,Investar Holding Corporation - Common Stock,387511368.0,BELOW_10B_THRESHOLD
 ITG,"ITG, Inc. - Class A Common Stock",667965838.0,BELOW_10B_THRESHOLD
 ITGR,Integer Holdings Corporation Common Stock,4301683051.0,BELOW_10B_THRESHOLD
-ITHA,ITHAX Acquisition Corp III - Class A Ordinary Shares,,MARKET_CAP_MISSING
-ITIC,Investors Title Company - Common Stock,490576880.99999994,BELOW_10B_THRESHOLD
+ITOC,iTonic Holdings Ltd - Class A Ordinary Shares,13314438.0,BELOW_10B_THRESHOLD
 ITP,"IT Tech Packaging, Inc. Common Stock",1913699.0,BELOW_10B_THRESHOLD
 ITRG,Integra Resources Corp. Common Shares,478780445.00000006,BELOW_10B_THRESHOLD
 ITRI,"Itron, Inc. - Common Stock",4384727087.0,BELOW_10B_THRESHOLD
@@ -2098,7 +2039,7 @@ JAGU,Jaguar Uranium Corp. Class A Common Shares,17770524.0,BELOW_10B_THRESHOLD
 JAGX,"Jaguar Health, Inc. - Common Stock",5820184.0,BELOW_10B_THRESHOLD
 JAKK,"JAKKS Pacific, Inc. - Common Stock",409622468.0,BELOW_10B_THRESHOLD
 JANX,"Janux Therapeutics, Inc. - Common Stock",780700401.0,BELOW_10B_THRESHOLD
-JATT,JATT II Acquisition Corp - Ordinary Shares,80340000.0,BELOW_10B_THRESHOLD
+JATT,JATT II Acquisition Corp - Ordinary Shares,79950000.0,BELOW_10B_THRESHOLD
 JBDI,JBDI Holdings Limited - Class A Ordinary Shares,23976621.0,BELOW_10B_THRESHOLD
 JBGS,JBG SMITH Properties Common Shares ,911105658.0,BELOW_10B_THRESHOLD
 JBI,"Janus International Group, Inc. Common Stock",649434360.0,BELOW_10B_THRESHOLD
@@ -2115,7 +2056,6 @@ JEM,707 Cayman Holdings Limited - Ordinary Shares,1634051.0,BELOW_10B_THRESHOLD
 JENA,Jena Acquisition Corporation II Class A Ordinary Shares,,MARKET_CAP_MISSING
 JF,J and Friends Holdings Limited - American Depositary Shares,17239745.0,BELOW_10B_THRESHOLD
 JFIN,Jiayin Group Inc. - American Depositary Shares,77971024.0,BELOW_10B_THRESHOLD
-JFU,9F Inc. - American Depositary Shares,27314133.0,BELOW_10B_THRESHOLD
 JG,Aurora Mobile Limited - American Depositary Shares,32073317.0,BELOW_10B_THRESHOLD
 JILL,"J. Jill, Inc. Common Stock",342517305.0,BELOW_10B_THRESHOLD
 JJSF,J & J Snack Foods Corp. - Common Stock,1663970825.0000002,BELOW_10B_THRESHOLD
@@ -2128,14 +2068,12 @@ JMSB,"John Marshall Bancorp, Inc. - Common Stock",326550153.0,BELOW_10B_THRESHOL
 JOB,GEE Group Inc. Common Stock,21402810.0,BELOW_10B_THRESHOLD
 JOBY,"Joby Aviation, Inc. Common Stock",6293015583.0,BELOW_10B_THRESHOLD
 JOE,St. Joe Company (The) Common Stock,4244451062.0000005,BELOW_10B_THRESHOLD
-JONE,Jones Ventures INTL Acquisition1 Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 JOUT,Johnson Outdoors Inc. - Class A Common Stock,502080990.0,BELOW_10B_THRESHOLD
 JOYY,JOYY Inc. - American Depositary Shares,3990972750.0000005,BELOW_10B_THRESHOLD
 JRSH,"Jerash Holdings (US), Inc. - Common Stock",83438606.0,BELOW_10B_THRESHOLD
 JRVR,"James River Group Holdings, Inc. - Common Stock",174358873.0,BELOW_10B_THRESHOLD
 JSPR,"Jasper Therapeutics, Inc. - Class A Common Stock",18156818.0,BELOW_10B_THRESHOLD
 JTAI,Jet.AI Inc. - Common Stock,3344069.9999999995,BELOW_10B_THRESHOLD
-JTTT,JATT III Acquisition Corp - Ordinary Shares,,MARKET_CAP_MISSING
 JUNS,"Jupiter Neurosciences, Inc. - Common Stock",2900746.0,BELOW_10B_THRESHOLD
 JVA,"Coffee Holding Co., Inc. - Common Stock",29399284.999999996,BELOW_10B_THRESHOLD
 JWEL,Jowell Global Ltd. - Ordinary Shares,4158229.0,BELOW_10B_THRESHOLD
@@ -2153,8 +2091,8 @@ KARD,"Kardigan, Inc. - Common Stock",1419386151.0,BELOW_10B_THRESHOLD
 KARO,Karooooo Ltd. - Ordinary shares,1974081869.9999998,BELOW_10B_THRESHOLD
 KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,23504143.0,BELOW_10B_THRESHOLD
 KBDC,"Kayne Anderson BDC, Inc. Common Stock",844930538.0,BELOW_10B_THRESHOLD
-KBH,KB Home Common Stock,3161485154.0,BELOW_10B_THRESHOLD
 KBON,Karbon Capital Partners Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
+KBR,"KBR, Inc. Common Stock",4872851258.0,BELOW_10B_THRESHOLD
 KBSX,FST Corp. - Ordinary Shares,64463044.0,BELOW_10B_THRESHOLD
 KC,Kingsoft Cloud Holdings Limited - American Depositary Shares,2526679964.0,BELOW_10B_THRESHOLD
 KCHV,Kochav Defense Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
@@ -2181,10 +2119,12 @@ KLAR,Klarna Group plc Ordinary Shares,9490918512.0,BELOW_10B_THRESHOLD
 KLC,"KinderCare Learning Companies, Inc. Common Stock",275552102.0,BELOW_10B_THRESHOLD
 KLIC,"Kulicke and Soffa Industries, Inc. - Common Stock",3609139062.0,BELOW_10B_THRESHOLD
 KLRA,"Kailera Therapeutics, Inc. - Common stock",1778951590.0000002,BELOW_10B_THRESHOLD
+KLRS,"Kalaris Therapeutics, Inc.  - Common Stock",54751456.0,BELOW_10B_THRESHOLD
 KLTR,"Kaltura, Inc. - Common Stock",218148249.0,BELOW_10B_THRESHOLD
 KLXE,"KLX Energy Services Holdings, Inc.  - Common Stock",117346302.0,BELOW_10B_THRESHOLD
 KMDA,Kamada Ltd. - Ordinary Shares,444946452.0,BELOW_10B_THRESHOLD
 KMPR,Kemper Corporation,1952713324.0000002,BELOW_10B_THRESHOLD
+KMRK,K-Tech Solutions Company Limited - Class A Ordinary Shares,31861000.0,BELOW_10B_THRESHOLD
 KMT,Kennametal Inc. Common Stock,1863514701.0,BELOW_10B_THRESHOLD
 KMTS,"Kestra Medical Technologies, Ltd. - Common Stock",1794001265.0,BELOW_10B_THRESHOLD
 KMX,CarMax Inc,7676267003.0,BELOW_10B_THRESHOLD
@@ -2201,13 +2141,13 @@ KOP,Koppers Holdings Inc. Common Stock,549325170.0,BELOW_10B_THRESHOLD
 KOPN,Kopin Corporation - Common Stock,628249435.0,BELOW_10B_THRESHOLD
 KOS,Kosmos Energy Ltd. Common Shares (DE),1229813643.0,BELOW_10B_THRESHOLD
 KOSS,Koss Corporation - Common Stock,31239245.0,BELOW_10B_THRESHOLD
+KOYN,CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares,,MARKET_CAP_MISSING
 KPET,KPET Ultra Paceline Corporation Class A Ordinary Shares,,MARKET_CAP_MISSING
 KPLT,"Katapult Holdings, Inc. - Common Stock",996127906.0000001,BELOW_10B_THRESHOLD
 KPRX,"Kiora Pharmaceuticals, Inc.  - Common Stock",6680824.000000001,BELOW_10B_THRESHOLD
 KPTI,Karyopharm Therapeutics Inc. - Common Stock,907258.0,BELOW_10B_THRESHOLD
 KRAQ,KRAKacquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 KRC,Kilroy Realty Corporation Common Stock,4297617107.0,BELOW_10B_THRESHOLD
-KREF,KKR Real Estate Finance Trust Inc. Common Stock,326645597.0,BELOW_10B_THRESHOLD
 KRG,Kite Realty Group Trust Common Stock,5074876636.0,BELOW_10B_THRESHOLD
 KRKR,36Kr Holdings Inc. - American Depositary Shares,5329287.0,BELOW_10B_THRESHOLD
 KRMD,"KORU Medical Systems, Inc. - Common Stock",149135243.0,BELOW_10B_THRESHOLD
@@ -2229,9 +2169,7 @@ KTB,"Kontoor Brands, Inc. Common Stock ",4477637060.0,BELOW_10B_THRESHOLD
 KTCC,Key Tronic Corporation - Common Stock,14828289.0,BELOW_10B_THRESHOLD
 KTOS,"Kratos Defense & Security Solutions, Inc. - Common Stock",7096028517.000001,BELOW_10B_THRESHOLD
 KTTA,Pasithea Therapeutics Corp. - Common Stock,18120655.0,BELOW_10B_THRESHOLD
-KTWO,K2 Capital Acquisition Corporation - Class A Ordinary Share,203417774.0,BELOW_10B_THRESHOLD
 KULR,"KULR Technology Group, Inc. Common Stock",75668688.0,BELOW_10B_THRESHOLD
-KURA,"Kura Oncology, Inc. - Common Stock",673431886.0,BELOW_10B_THRESHOLD
 KUST,"Kustom Entertainment, Inc. - Common Stock",2277401.0,BELOW_10B_THRESHOLD
 KVHI,"KVH Industries, Inc. - Common Stock",127212743.0,BELOW_10B_THRESHOLD
 KVYO,"Klaviyo, Inc. Series A Common Stock",5866352146.0,BELOW_10B_THRESHOLD
@@ -2242,12 +2180,13 @@ KYIV,Kyivstar Group Ltd. - Common Shares,3076830290.0,BELOW_10B_THRESHOLD
 KYNB,"Kyntra Bio, Inc. - Common Stock",15791584.0,BELOW_10B_THRESHOLD
 KYTX,"Kyverna Therapeutics, Inc. - Common Stock",319730605.0,BELOW_10B_THRESHOLD
 KZIA,Kazia Therapeutics Limited - American Depositary Shares,115217186.0,BELOW_10B_THRESHOLD
+LAB,Standard BioTools Inc. - Common Stock,274063524.0,BELOW_10B_THRESHOLD
 LABT,Lakewood-Amedex Biotherapeutics Inc. - Common Stock,990530.0,BELOW_10B_THRESHOLD
 LAC,Lithium Americas Corp. Common Shares,736977174.0,BELOW_10B_THRESHOLD
 LAD,"Lithia Motors, Inc. Common Stock",6718723185.0,BELOW_10B_THRESHOLD
 LADR,Ladder Capital Corp Class A Common Stock,1129518307.0,BELOW_10B_THRESHOLD
 LAES,SEALSQ Corp - Ordinary Shares,323022299.0,BELOW_10B_THRESHOLD
-LAFA,LaFayette Acquisition Corp. - Ordinary Share,160590263.26000002,BELOW_10B_THRESHOLD
+LAFA,LaFayette Acquisition Corp. - Ordinary Share,160433129.93,BELOW_10B_THRESHOLD
 LAKE,"Lakeland Industries, Inc. - Common Stock",89382114.0,BELOW_10B_THRESHOLD
 LAND,Gladstone Land Corporation - Common Stock,301093280.0,BELOW_10B_THRESHOLD
 LANV,Lanvin Group Holdings Limited Ordinary Shares,87289160.0,BELOW_10B_THRESHOLD
@@ -2257,19 +2196,16 @@ LASE,LASE Corp. - Common Stock,42955752.0,BELOW_10B_THRESHOLD
 LASR,"nLIGHT, Inc. - Common Stock",2516295591.0,BELOW_10B_THRESHOLD
 LATA,Galata Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 LAUR,"Laureate Education, Inc. - Common Stock",4691378097.0,BELOW_10B_THRESHOLD
-LAW,"CS Disco, Inc. Common Stock",368510404.0,BELOW_10B_THRESHOLD
-LAWR,"Robot Consulting Co., Ltd. - ADS",,MARKET_CAP_MISSING
 LAZ,"Lazard, Inc. Common Stock",4722452190.0,BELOW_10B_THRESHOLD
 LB,LandBridge Corporation Class A Common Stock,5020451981.0,BELOW_10B_THRESHOLD
 LBGJ,Li Bang International Corporation Inc. - Class A Ordinary Shares,1207724.0,BELOW_10B_THRESHOLD
 LBRT,Liberty Energy Inc. Class A common stock,2110065008.9999998,BELOW_10B_THRESHOLD
 LBRX,LB Pharmaceuticals Inc - Common Stock,1460220365.0,BELOW_10B_THRESHOLD
 LBTYA,Liberty Global Ltd. - Class A Common Shares,3320593053.0000005,BELOW_10B_THRESHOLD
-LCCC,Lakeshore Acquisition III Corp. - Ordinary Shares,40330402.85,BELOW_10B_THRESHOLD
 LCFY,Locafy Limited - Ordinary Share,1737118.0,BELOW_10B_THRESHOLD
+LCID,"Lucid Group, Inc. - Common Stock",1418652634.0,BELOW_10B_THRESHOLD
 LCII,LCI Industries,2457464541.0,BELOW_10B_THRESHOLD
 LCLN,"Lincoln International, Inc. Class A Common Stock",2797331818.0,BELOW_10B_THRESHOLD
-LCNB,LCNB Corporation - Common Stock,281963663.0,BELOW_10B_THRESHOLD
 LCTX,"Lineage Cell Therapeutics, Inc. Common Stock",274404598.0,BELOW_10B_THRESHOLD
 LCU,Lion Copper Corp. - Common Shares,69013711.0,BELOW_10B_THRESHOLD
 LCUT,"Lifetime Brands, Inc. - Common Stock",171923761.0,BELOW_10B_THRESHOLD
@@ -2302,6 +2238,7 @@ LGIH,"LGI Homes, Inc. - Common Stock",1084398683.0,BELOW_10B_THRESHOLD
 LGL,"LGL Group, Inc. (The) Common Stock",85391019.0,BELOW_10B_THRESHOLD
 LGN,Legence Corp. - Class A Common stock,3475707437.0,BELOW_10B_THRESHOLD
 LGND,Ligand Pharmaceuticals Incorporated - Common Stock,6283938052.0,BELOW_10B_THRESHOLD
+LGO,Largo Inc. - Common Shares,39839532.0,BELOW_10B_THRESHOLD
 LGPS,LogProstyle Inc. Common Shares,15344704.0,BELOW_10B_THRESHOLD
 LGVN,Longeveron Inc. - Class A Common stock,6408279.999999999,BELOW_10B_THRESHOLD
 LHAI,Linkhome Holdings Inc. - Common stock,14272002.0,BELOW_10B_THRESHOLD
@@ -2355,14 +2292,12 @@ LOPE,"Grand Canyon Education, Inc. - Common Stock",2963301655.0,BELOW_10B_THRESH
 LOT,Lotus Technology Inc. - American Depositary Shares,170089608.0,BELOW_10B_THRESHOLD
 LOVE,The Lovesac Company - Common Stock,238275113.0,BELOW_10B_THRESHOLD
 LPA,Logistic Properties of the Americas Ordinary Shares,74808779.0,BELOW_10B_THRESHOLD
-LPAA,Launch One Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
-LPBB,Launch Two Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
-LPCN,Lipocine Inc. - Common Stock,19046315.0,BELOW_10B_THRESHOLD
 LPCV,Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share,,MARKET_CAP_MISSING
 LPG,Dorian LPG Ltd. Common Stock,1975236659.9999998,BELOW_10B_THRESHOLD
 LPL,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",2640000000.0,BELOW_10B_THRESHOLD
 LPTH,"LightPath Technologies, Inc. - Class A Common Stock",561410695.0,BELOW_10B_THRESHOLD
 LPX,Louisiana-Pacific Corporation Common Stock,5478095360.0,BELOW_10B_THRESHOLD
+LQDA,Liquidia Corporation - Common Stock,4284790611.9999995,BELOW_10B_THRESHOLD
 LQDT,"Liquidity Services, Inc. - Common Stock",1407416281.0,BELOW_10B_THRESHOLD
 LRE,"Lead Real Estate Co., Ltd - American Depositary Shares",15688184.999999998,BELOW_10B_THRESHOLD
 LRMR,"Larimar Therapeutics, Inc. - Common Stock",262823831.0,BELOW_10B_THRESHOLD
@@ -2392,7 +2327,6 @@ LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordin
 LVLU,"Lulu's Fashion Lounge Holdings, Inc. - Common Stock",31185315.000000004,BELOW_10B_THRESHOLD
 LVO,"LiveOne, Inc. - Common Stock",36062005.0,BELOW_10B_THRESHOLD
 LVWR,"LiveWire Group, Inc. Common Stock",102316539.0,BELOW_10B_THRESHOLD
-LW,"Lamb Weston Holdings, Inc. Common Stock ",7875530351.0,BELOW_10B_THRESHOLD
 LWAC,LightWave Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 LWAY,"Lifeway Foods, Inc. - Common Stock",349267991.0,BELOW_10B_THRESHOLD
 LWLG,"Lightwave Logic, Inc. - Common Stock",756961222.0,BELOW_10B_THRESHOLD
@@ -2401,6 +2335,7 @@ LXEH,"Lixiang Education Holding Co., Ltd. - American Depositary Shares",2645000.
 LXEO,"Lexeo Therapeutics, Inc. - Common Stock",257625241.0,BELOW_10B_THRESHOLD
 LXFR,Luxfer Holdings PLC Ordinary Shares,463611992.99999994,BELOW_10B_THRESHOLD
 LXRX,"Lexicon Pharmaceuticals, Inc. - Common Stock",810326919.0000001,BELOW_10B_THRESHOLD
+LXU,"LSB Industries, Inc. Common Stock",773668689.0,BELOW_10B_THRESHOLD
 LYCA,"Lycia Therapeutics, Inc. - Common Stock",1581590811.0,BELOW_10B_THRESHOLD
 LYEL,"Lyell Immunopharma, Inc. - Common Stock",379109412.0,BELOW_10B_THRESHOLD
 LYFT,"Lyft, Inc. - Class A Common Stock",6333541502.0,BELOW_10B_THRESHOLD
@@ -2414,10 +2349,8 @@ M,Macy's Inc Common Stock,6516357318.0,BELOW_10B_THRESHOLD
 MAAS,Maase Inc. - Class A Ordinary Shares,4488082117.0,BELOW_10B_THRESHOLD
 MAC,Macerich Company (The) Common Stock,7175469984.0,BELOW_10B_THRESHOLD
 MACI,Melar Acquisition Corp. I - Class A Ordinary Shares,,MARKET_CAP_MISSING
-MAGH,Magnitude International Ltd - Ordinary Shares,236600000.0,BELOW_10B_THRESHOLD
 MAGN,Magnera Corporation Common Stock,465221000.0,BELOW_10B_THRESHOLD
 MAIA,"MAIA Biotechnology, Inc. Common Stock",67298721.0,BELOW_10B_THRESHOLD
-MAIN,Main Street Capital Corporation Common Stock,5359579497.0,BELOW_10B_THRESHOLD
 MAKO,Mako Mining Corp - Common Stock,736596647.0,BELOW_10B_THRESHOLD
 MAMA,"Mama's Creations, Inc. - Common Stock",650635072.0,BELOW_10B_THRESHOLD
 MAMO,Massimo Group - Common Stock,39142493.0,BELOW_10B_THRESHOLD
@@ -2451,7 +2384,7 @@ MBVI,M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSI
 MBWM,Mercantile Bank Corporation - Common Stock,1065484462.0,BELOW_10B_THRESHOLD
 MBX,"MBX Biosciences, Inc. - Common Stock",2603534790.0,BELOW_10B_THRESHOLD
 MC,Moelis & Company Class A Common Stock,4498993548.0,BELOW_10B_THRESHOLD
-MCAH,Mountain Crest Acquisition 6 Corp. - Ordinary Shares,87393818.61,BELOW_10B_THRESHOLD
+MCAH,Mountain Crest Acquisition 6 Corp. - Ordinary Shares,87480432.89999999,BELOW_10B_THRESHOLD
 MCB,Metropolitan Bank Holding Corp. Common Stock,1177704690.0,BELOW_10B_THRESHOLD
 MCBS,"MetroCity Bankshares, Inc. - Common Stock",1046485486.0000001,BELOW_10B_THRESHOLD
 MCFT,"MasterCraft Boat Holdings, Inc. - Common Stock",496590626.99999994,BELOW_10B_THRESHOLD
@@ -2501,17 +2434,14 @@ MGNI,"Magnite, Inc. - Common Stock",4168966951.0,BELOW_10B_THRESHOLD
 MGNX,"MacroGenics, Inc. - Common Stock",149058438.0,BELOW_10B_THRESHOLD
 MGRC,McGrath RentCorp - Common Stock,3151040739.0,BELOW_10B_THRESHOLD
 MGRT,Mega Fortune Company Limited - Ordinary Shares,1643675000.0,BELOW_10B_THRESHOLD
-MGRX,"Mangoceuticals, Inc. - Common Stock",4378211.0,BELOW_10B_THRESHOLD
 MGTX,MeiraGTx Holdings plc - Ordinary Shares,911448032.0,BELOW_10B_THRESHOLD
 MGX,"Metagenomi Therapeutics, Inc. - Common Stock",27263737.0,BELOW_10B_THRESHOLD
 MGY,Magnolia Oil & Gas Corporation Class A Common Stock,6033275728.0,BELOW_10B_THRESHOLD
-MGYR,"Magyar Bancorp, Inc. - Common Stock",141179226.0,BELOW_10B_THRESHOLD
 MH,"McGraw Hill, Inc. Common Stock",2043348831.9999998,BELOW_10B_THRESHOLD
 MHH,"Mastech Digital, Inc Common Stock",78189690.0,BELOW_10B_THRESHOLD
 MHK,"Mohawk Industries, Inc. Common Stock",9102538106.0,BELOW_10B_THRESHOLD
 MHO,"M/I Homes, Inc. Common Stock",3396738047.0,BELOW_10B_THRESHOLD
 MI,NFT Limited Class A Ordinary Share,20763926.0,BELOW_10B_THRESHOLD
-MIAC,Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 MIAX,"Miami International Holdings, Inc. Common Stock",3515998271.0,BELOW_10B_THRESHOLD
 MIDD,The Middleby Corporation - Common Stock,6240684162.0,BELOW_10B_THRESHOLD
 MIND,"MIND Technology, Inc. - Common Stock",29539429.0,BELOW_10B_THRESHOLD
@@ -2528,6 +2458,7 @@ MKLY,McKinley Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISS
 MKTW,"MarketWise, Inc. - Class A Common Stock",351042878.0,BELOW_10B_THRESHOLD
 MKTX,"MarketAxess Holdings, Inc. - Common Stock",5832358507.0,BELOW_10B_THRESHOLD
 MKZR,"MacKenzie Realty Capital, Inc. - Common Stock",2688673.0,BELOW_10B_THRESHOLD
+MLAA,Mountain Lake Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 MLAB,"Mesa Laboratories, Inc. - Common Stock",715263976.0,BELOW_10B_THRESHOLD
 MLCI,Mount Logan Capital Inc. - Common Stock,40167677.0,BELOW_10B_THRESHOLD
 MLCO,Melco Resorts & Entertainment Limited - American Depositary Shares ,1758789453.0,BELOW_10B_THRESHOLD
@@ -2543,7 +2474,6 @@ MMED,"MiniMed Group, Inc. - Common Stock",5030536766.0,BELOW_10B_THRESHOLD
 MMI,"Marcus & Millichap, Inc. Common Stock",1003063378.0,BELOW_10B_THRESHOLD
 MMS,"Maximus, Inc. Common Stock",3436763563.0,BELOW_10B_THRESHOLD
 MMSI,"Merit Medical Systems, Inc. - Common Stock",5297688190.0,BELOW_10B_THRESHOLD
-MMTX,Miluna Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 MMYT,MakeMyTrip Limited - Ordinary Shares,4877882211.0,BELOW_10B_THRESHOLD
 MNDO,MIND C.T.I. Ltd. - Ordinary Shares,17589354.0,BELOW_10B_THRESHOLD
 MNDR,Mobile-health Network Solutions - Class A Ordinary Shares,1375679.0,BELOW_10B_THRESHOLD
@@ -2554,22 +2484,22 @@ MNPR,Monopar Therapeutics Inc. - Common Stock,495022685.0,BELOW_10B_THRESHOLD
 MNRO,"Monro, Inc.  - Common Stock",348981967.0,BELOW_10B_THRESHOLD
 MNSB,"MainStreet Bancshares, Inc. - Common Stock",155951564.0,BELOW_10B_THRESHOLD
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",3375456290.0000005,BELOW_10B_THRESHOLD
+MNTK,"Montauk Renewables, Inc. - Common Stock",395708366.0,BELOW_10B_THRESHOLD
 MNTN,"MNTN, Inc. Class A Common Stock",386732353.0,BELOW_10B_THRESHOLD
 MNTS,Momentus Inc. - Class A Common Stock,43926802.0,BELOW_10B_THRESHOLD
 MNY,MoneyHero Limited - Class A Ordinary Shares,25335820.999999996,BELOW_10B_THRESHOLD
 MOB,Mobilicom Limited - Ordinary Shares,28952219.0,BELOW_10B_THRESHOLD
 MOBI,"Mobia Medical, Inc. - Common Stock",408600200.99999994,BELOW_10B_THRESHOLD
-MOBX,"Mobix Labs, Inc. - Class A Common Stock",14546744.0,BELOW_10B_THRESHOLD
 MOD,Modine Manufacturing Company Common Stock,5649512692.0,BELOW_10B_THRESHOLD
 MODD,"Modular Medical, Inc. - common stock",17567273.0,BELOW_10B_THRESHOLD
 MOG-A,Moog Inc. Class A Common Stock,,MARKET_CAP_MISSING
 MOGU,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),13584266.0,BELOW_10B_THRESHOLD
-MOLN,Molecular Partners AG - American Depositary Shares,116284605.0,BELOW_10B_THRESHOLD
 MOMO,Hello Group Inc.  - American Depositary Shares,687025415.0,BELOW_10B_THRESHOLD
 MORN,"Morningstar, Inc. - Common Stock",9133226153.0,BELOW_10B_THRESHOLD
 MOS,Mosaic Company (The) Common Stock,7240255743.0,BELOW_10B_THRESHOLD
 MOV,Movado Group Inc. Common Stock,713768718.0,BELOW_10B_THRESHOLD
 MOVE,"Corvex, Inc. - Common Stock",159338989.0,BELOW_10B_THRESHOLD
+MP,MP Materials Corp. Common Stock,6727833414.0,BELOW_10B_THRESHOLD
 MPAA,"Motorcar Parts of America, Inc. - Common Stock",146164358.0,BELOW_10B_THRESHOLD
 MPB,Mid Penn Bancorp - Common Stock,883711665.0,BELOW_10B_THRESHOLD
 MPLT,"MapLight Therapeutics, Inc. - Common Stock",471551852.0,BELOW_10B_THRESHOLD
@@ -2607,8 +2537,6 @@ MSM,"MSC Industrial Direct Company, Inc. Common Stock",6663331239.0,BELOW_10B_TH
 MSN,Emerson Radio Corporation Common Stock,6144454.0,BELOW_10B_THRESHOLD
 MSS,Maison Solutions Inc. - Class A Common Stock,851918.0,BELOW_10B_THRESHOLD
 MTA,Metalla Royalty & Streaming Ltd. Common Shares,790975094.0,BELOW_10B_THRESHOLD
-MTAK,Market Technology Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
-MTAL,Metals Acquisition Corp. II Class A Ordinary Shares,836989645.0000001,BELOW_10B_THRESHOLD
 MTC,"MMTec, Inc. - Common Shares",568646401.0,BELOW_10B_THRESHOLD
 MTCH,"Match Group, Inc. - Common Stock",8941907935.0,BELOW_10B_THRESHOLD
 MTDR,Matador Resources Company Common Stock,6183676267.0,BELOW_10B_THRESHOLD
@@ -2625,7 +2553,6 @@ MTR,Mesa Royalty Trust Common Stock,3559457.0,BELOW_10B_THRESHOLD
 MTRI,"Mentari Therapeutics, Inc. - Common Stock",8789984.0,BELOW_10B_THRESHOLD
 MTRN,Materion Corporation,4214971761.9999995,BELOW_10B_THRESHOLD
 MTRX,Matrix Service Company - Common Stock,269496528.0,BELOW_10B_THRESHOLD
-MTUS,Metallus Inc. Common Shares,720999173.0,BELOW_10B_THRESHOLD
 MTVA,MetaVia Inc.  - Common Stock,10606843.0,BELOW_10B_THRESHOLD
 MTW,"Manitowoc Company, Inc. (The) Common Stock",879385400.0,BELOW_10B_THRESHOLD
 MTX,Minerals Technologies Inc. Common Stock,1945493752.0000002,BELOW_10B_THRESHOLD
@@ -2654,7 +2581,6 @@ MYPS,"PLAYSTUDIOS, Inc.  - Class A Common Stock",55646920.0,BELOW_10B_THRESHOLD
 MYRG,"MYR Group, Inc. - Common Stock",4348080434.0,BELOW_10B_THRESHOLD
 MYSE,"Myseum.AI, Inc. - Common Stock",6599466.0,BELOW_10B_THRESHOLD
 MYSZ,"My Size, Inc. - Common Stock",864679.0,BELOW_10B_THRESHOLD
-MYX,Maywood Acquisition Corp. 2 - Class A Ordinary Share,,MARKET_CAP_MISSING
 MZTI,The Marzetti Company - Common Stock,2967471060.0,BELOW_10B_THRESHOLD
 MZYX,MOZAYYX Acquisition Corp. Class A Ordinary Shares,,MARKET_CAP_MISSING
 NA,Nano Labs Ltd - Class A Ordinary Shares,33428290.0,BELOW_10B_THRESHOLD
@@ -2686,13 +2612,12 @@ NBTX,Nanobiotix S.A. - ADSs,1627377133.0,BELOW_10B_THRESHOLD
 NC,"NACCO Industries, Inc. Common Stock",264738061.0,BELOW_10B_THRESHOLD
 NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,584394375.0,BELOW_10B_THRESHOLD
 NCEL,NewcelX Ltd. - Ordinary Shares,15884351.999999998,BELOW_10B_THRESHOLD
-NCEW,New Century Logistics (BVI) Limited - Ordinary Shares,52896000.0,BELOW_10B_THRESHOLD
 NCI,Neo-Concept International Group Holdings Limited - Class A Ordinary Shares,4918684.0,BELOW_10B_THRESHOLD
 NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,8459853697.0,BELOW_10B_THRESHOLD
 NCMI,"National CineMedia, Inc. - Common Stock",156156935.0,BELOW_10B_THRESHOLD
 NCNA,NuCana plc - American Depositary Shares,3998406.0,BELOW_10B_THRESHOLD
 NCNO,"nCino, Inc. - Common Stock",2425587832.0,BELOW_10B_THRESHOLD
-NCO,Southern Cross Acquisition I Corp. - Ordinary Shares,,MARKET_CAP_MISSING
+NCO,Southern Cross Acquisition I Corp. - Ordinary Shares,146851121.0,BELOW_10B_THRESHOLD
 NCPL,Netcapital Inc. - Common Stock,14593539.0,BELOW_10B_THRESHOLD
 NCRA,"Nocera, Inc. - common stock",3662670.0,BELOW_10B_THRESHOLD
 NCT,Intercont (Cayman) Limited - Class A Ordinary shares,15598237.0,BELOW_10B_THRESHOLD
@@ -2712,7 +2637,6 @@ NESR,National Energy Services Reunited Corp - Ordinary Shares,1971651791.0,BELOW
 NEU,NewMarket Corp Common Stock,6361594616.0,BELOW_10B_THRESHOLD
 NEUP,Neuphoria Therapeutics Inc. - Common Stock,14935282.0,BELOW_10B_THRESHOLD
 NEWP,New Pacific Metals Corp. Common Shares,1133423072.0,BELOW_10B_THRESHOLD
-NEWT,"NewtekOne, Inc. - Common Stock",317091431.0,BELOW_10B_THRESHOLD
 NEXA,Nexa Resources S.A. Common Shares,1595889950.0,BELOW_10B_THRESHOLD
 NEXM,NexMetals Mining Corp. - Common Stock,45986132.0,BELOW_10B_THRESHOLD
 NEXN,Nexxen International Ltd. - Ordinary Shares,516538032.99999994,BELOW_10B_THRESHOLD
@@ -2737,13 +2661,11 @@ NICE,NICE Ltd - American Depositary Shares each representing one Ordinary Share,
 NICM,Nicola Mining Inc. - American Depositary Shares,104856195.00000001,BELOW_10B_THRESHOLD
 NIKI,"Niki BioSolutions, Inc. - Common Stock",5142594.0,BELOW_10B_THRESHOLD
 NINE,"Nine Energy Service, Inc. Common Stock",91721184.0,BELOW_10B_THRESHOLD
-NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share",8519267875.0,BELOW_10B_THRESHOLD
 NIPG,NIP Group Inc. - American Depositary Shares,29932659.0,BELOW_10B_THRESHOLD
 NIQ,NIQ Global Intelligence plc Ordinary Shares,6320904166.0,BELOW_10B_THRESHOLD
 NIU,Niu Technologies - American Depositary Shares,142753680.0,BELOW_10B_THRESHOLD
 NIVF,NewGenIvf Group Limited - Class A Ordinary Shares,4000251.0,BELOW_10B_THRESHOLD
 NIXX,"Nixxy, Inc. - Common Stock",5926312.0,BELOW_10B_THRESHOLD
-NJR,NewJersey Resources Corporation Common Stock,5517826903.0,BELOW_10B_THRESHOLD
 NKLR,Terra Innovatum Global N.V. - Ordinary shares,296142433.0,BELOW_10B_THRESHOLD
 NKSH,"National Bankshares, Inc. - Common Stock",252786202.00000003,BELOW_10B_THRESHOLD
 NKTR,Nektar Therapeutics - Common Stock,1291458748.0,BELOW_10B_THRESHOLD
@@ -2754,8 +2676,6 @@ NMAD,"Nomad Power Solutions, Inc. - Common Stock",57480813.0,BELOW_10B_THRESHOLD
 NMAX,"Newsmax, Inc. Class B Common Stock",1004224015.0,BELOW_10B_THRESHOLD
 NMFC,New Mountain Finance Corporation - Common Stock,649832443.0,BELOW_10B_THRESHOLD
 NMG,Nouveau Monde Graphite Inc. Common Shares,283074874.0,BELOW_10B_THRESHOLD
-NMIH,NMI Holdings Inc - Common Stock,2898083142.0,BELOW_10B_THRESHOLD
-NMP,NMP Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 NMRA,"Neumora Therapeutics, Inc. - Common Stock",91298624.0,BELOW_10B_THRESHOLD
 NMRK,"Newmark Group, Inc. - Class A Common Stock",2166498844.0,BELOW_10B_THRESHOLD
 NMTC,NeuroOne Medical Technologies Corporation - Common Stock,8060421.0,BELOW_10B_THRESHOLD
@@ -2771,12 +2691,11 @@ NNVC,"NanoViricides, Inc. Common Stock",34733637.0,BELOW_10B_THRESHOLD
 NOA,North American Construction Group Ltd. Common Shares (no par),262557370.99999997,BELOW_10B_THRESHOLD
 NOAH,Noah Holdings Limited American Depositary Shares,448240327.0,BELOW_10B_THRESHOLD
 NODK,"NI Holdings, Inc. - Common Stock",315201453.0,BELOW_10B_THRESHOLD
-NOEM,CO2 Energy Transition Corp. - Common Stock,39022882.5,BELOW_10B_THRESHOLD
+NOEM,CO2 Energy Transition Corp. - Common Stock,39113564.246,BELOW_10B_THRESHOLD
 NOG,"Northern Oil and Gas, Inc. Common Stock",2423457651.0,BELOW_10B_THRESHOLD
 NOMA,NOMADAR Corp. - Class A Common Stock,16124123.000000002,BELOW_10B_THRESHOLD
 NOMD,Nomad Foods Limited Ordinary Shares,1697928799.0,BELOW_10B_THRESHOLD
 NORD,Nordicus Partners Corporation - Common Stock,62414906.0,BELOW_10B_THRESHOLD
-NOV,NOV Inc. Common Stock,6310271091.0,BELOW_10B_THRESHOLD
 NOVT,Novanta Inc. - Common Shares,5520638065.0,BELOW_10B_THRESHOLD
 NP,Neptune Insurance Holdings Inc. Class A Common Stock,3891608690.9999995,BELOW_10B_THRESHOLD
 NPAC,New Providence Acquisition Corp. III - Ordinary Shares,,MARKET_CAP_MISSING
@@ -2790,16 +2709,13 @@ NPWR,NET Power Inc. Class A Common Stock,187914299.0,BELOW_10B_THRESHOLD
 NRC,NRC Health - Common Stock,565978418.0,BELOW_10B_THRESHOLD
 NRDS,"NerdWallet, Inc. - Class A Common Stock",495762749.0,BELOW_10B_THRESHOLD
 NRDY,Nerdy Inc. Class A Common Stock,82647735.0,BELOW_10B_THRESHOLD
-NREF,"NexPoint Real Estate Finance, Inc. Common Stock",253882950.99999997,BELOW_10B_THRESHOLD
 NRGV,"Energy Vault Holdings, Inc. Common Stock",657350046.0,BELOW_10B_THRESHOLD
 NRIM,Northrim BanCorp Inc - Common Stock,532317250.0,BELOW_10B_THRESHOLD
 NRIX,"Nurix Therapeutics, Inc. - Common stock",1763291998.0,BELOW_10B_THRESHOLD
 NRP,Natural Resource Partners LP Limited Partnership,1586206821.0,BELOW_10B_THRESHOLD
 NRSN,NeuroSense Therapeutics Ltd. - Ordinary Shares,3509269.0000000005,BELOW_10B_THRESHOLD
 NRT,North European Oil Royality Trust Common Stock,66264154.0,BELOW_10B_THRESHOLD
-NRXP,"NRX Pharmaceuticals, Inc. - Common Stock",103877937.00000001,BELOW_10B_THRESHOLD
 NRXS,"Neuraxis, Inc. Common Stock",81625473.0,BELOW_10B_THRESHOLD
-NSAI,NorthStrive Acquisition Corp I. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 NSIT,"Insight Enterprises, Inc. - Common Stock",4717136780.0,BELOW_10B_THRESHOLD
 NSP,"Insperity, Inc. Common Stock",1882709559.0,BELOW_10B_THRESHOLD
 NSPR,InspireMD Inc. - Common Stock,33165337.0,BELOW_10B_THRESHOLD
@@ -2808,7 +2724,9 @@ NSSC,"NAPCO Security Technologies, Inc. - Common Stock",1124201975.0,BELOW_10B_T
 NSTR,"NorthStar Earth & Space Enterprises, Inc. Common Shares",202731472.0,BELOW_10B_THRESHOLD
 NSYS,Nortech Systems Incorporated - Common Stock,29650629.0,BELOW_10B_THRESHOLD
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,2250000000.0,BELOW_10B_THRESHOLD
+NTCL,NETCLASS TECHNOLOGY INC - Class A Ordinary Shares,2606490.0,BELOW_10B_THRESHOLD
 NTCT,"NetScout Systems, Inc. - Common Stock",2307564517.0,BELOW_10B_THRESHOLD
+NTGR,"NETGEAR, Inc. - Common Stock",528216698.00000006,BELOW_10B_THRESHOLD
 NTHI,"NeOnc Technologies Holdings, Inc. - Common Stock",107901198.99999999,BELOW_10B_THRESHOLD
 NTIC,Northern Technologies International Corporation - Common Stock,70748471.0,BELOW_10B_THRESHOLD
 NTIP,"Network-1 Technologies, Inc. Common Stock",36420033.0,BELOW_10B_THRESHOLD
@@ -2828,6 +2746,7 @@ NUVB,Nuvation Bio Inc. Class A Common Stock,1532096549.0,BELOW_10B_THRESHOLD
 NUWE,"Nuwellis, Inc. - Common Stock",2001945.0,BELOW_10B_THRESHOLD
 NVA,Nova Minerals Corp Common Stock,168819107.0,BELOW_10B_THRESHOLD
 NVAX,"Novavax, Inc. - Common Stock",1796948108.0000002,BELOW_10B_THRESHOLD
+NVCR,NovoCure Limited - Ordinary Shares,1464956966.0,BELOW_10B_THRESHOLD
 NVCT,"Nuvectis Pharma, Inc. - Common Stock",722854846.0,BELOW_10B_THRESHOLD
 NVEC,NVE Corporation - Common Stock,388301373.0,BELOW_10B_THRESHOLD
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),1261455907.0,BELOW_10B_THRESHOLD
@@ -2848,7 +2767,6 @@ NWPX,"NWPX Infrastructure, Inc. - Common Stock",882878582.9999999,BELOW_10B_THRE
 NWTG,"Newton Golf Company, Inc. - Common Stock",3945129.0,BELOW_10B_THRESHOLD
 NX,Quanex Building Products Corporation Common Stock,1002448300.0,BELOW_10B_THRESHOLD
 NXAT,Nexus Advanced Technologies Inc. - Ordinary Shares,1284118.0,BELOW_10B_THRESHOLD
-NXB,NextBoat Inc. Common Stcok,34068623.0,BELOW_10B_THRESHOLD
 NXDR,"Nextdoor Holdings, Inc. - Common Stock",781306769.0,BELOW_10B_THRESHOLD
 NXDT,NexPoint Diversified Real Estate Trust Common Stock,181888142.0,BELOW_10B_THRESHOLD
 NXE,Nexgen Energy Ltd. Common Shares,5863575853.0,BELOW_10B_THRESHOLD
@@ -2864,8 +2782,8 @@ NXTT,Next Technology Holding Inc. - Ordinary Shares,13286660.0,BELOW_10B_THRESHO
 NXXT,"NextNRG, Inc. - Common Stock",4395240.0,BELOW_10B_THRESHOLD
 NYAX,Nayax Ltd. - Ordinary Shares,1819579591.9999998,BELOW_10B_THRESHOLD
 NYC,American Strategic Investment Co. Class A Common Stock,18032702.0,BELOW_10B_THRESHOLD
+NYXH,Nyxoah SA - Ordinary Shares,89465097.0,BELOW_10B_THRESHOLD
 OABI,"OmniAb, Inc. - Common Stock",773059685.0,BELOW_10B_THRESHOLD
-OACC,Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share,,MARKET_CAP_MISSING
 OBA,Oxley Bridge Acquisition Limited - Class A Ordinary Shares,,MARKET_CAP_MISSING
 OBAI,"Our Bond, Inc. - Common Stock",55861437.0,BELOW_10B_THRESHOLD
 OBDC,Blue Owl Capital Corporation Common Stock,5471180953.0,BELOW_10B_THRESHOLD
@@ -2874,7 +2792,6 @@ OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",350284277.0,BELOW_10B_T
 OBT,"Orange County Bancorp, Inc. - Common Stock",534709564.0,BELOW_10B_THRESHOLD
 OBX,"Obsidian Therapeutics, Inc. - Common Stock",846906130.0,BELOW_10B_THRESHOLD
 OC,Owens Corning Inc Common Stock New,9794473799.0,BELOW_10B_THRESHOLD
-OCAC,Ocean Capital Acquisition Corporation Ordinary Shares,,MARKET_CAP_MISSING
 OCC,Optical Cable Corporation - Common Stock,93725454.0,BELOW_10B_THRESHOLD
 OCFC,OceanFirst Financial Corp. - Common Stock,1766106651.9999998,BELOW_10B_THRESHOLD
 OCG,Oriental Culture Holding LTD - Ordinary Shares,3178832.0,BELOW_10B_THRESHOLD
@@ -2904,7 +2821,6 @@ OHAC,Oceanhawk Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 OI,"O-I Glass, Inc. Common Stock",805890761.9999999,BELOW_10B_THRESHOLD
 OIG,Orion180 Insurance Group Inc. - Class A Common Stock,916050181.0,BELOW_10B_THRESHOLD
 OII,"Oceaneering International, Inc. Common Stock",3466081239.9999995,BELOW_10B_THRESHOLD
-OIM,OneIM Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 OIO,OIO Group - Ordinary Shares,638620568.0,BELOW_10B_THRESHOLD
 OIS,"Oil States International, Inc. Common Stock",508668401.0,BELOW_10B_THRESHOLD
 OKLO,Oklo Inc. Class A common stock,5241572676.0,BELOW_10B_THRESHOLD
@@ -2914,7 +2830,6 @@ OLB,"The OLB Group, Inc. - Common Stock",5494190.0,BELOW_10B_THRESHOLD
 OLED,Universal Display Corporation - Common Stock,4052593138.0000005,BELOW_10B_THRESHOLD
 OLLI,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",5631941828.0,BELOW_10B_THRESHOLD
 OLMA,"Olema Pharmaceuticals, Inc. - Common Stock",643982388.0,BELOW_10B_THRESHOLD
-OLN,Olin Corporation Common Stock,2002510577.0,BELOW_10B_THRESHOLD
 OLOX,Olenox Industries Inc. - Common Stock,1132504.0,BELOW_10B_THRESHOLD
 OLP,"One Liberty Properties, Inc. Common Stock",467928009.0,BELOW_10B_THRESHOLD
 OM,"Outset Medical, Inc. - Common Stock",77755100.0,BELOW_10B_THRESHOLD
@@ -2969,7 +2884,7 @@ ORGO,Organogenesis Holdings Inc.  - Class A ,117743139.99999999,BELOW_10B_THRESH
 ORI,Old Republic International Corporation Common Stock,9504793251.0,BELOW_10B_THRESHOLD
 ORIC,"Oric Pharmaceuticals, Inc. - Common Stock",956714015.0,BELOW_10B_THRESHOLD
 ORIO,Orion Digital Corp. - Common Shares,25593840.0,BELOW_10B_THRESHOLD
-ORIQ,Origin Investment Corp I - Ordinary Shares,89872500.0,BELOW_10B_THRESHOLD
+ORIQ,Origin Investment Corp I - Ordinary Shares,,MARKET_CAP_MISSING
 ORKA,"Oruka Therapeutics, Inc. - Common Stock",6922886127.0,BELOW_10B_THRESHOLD
 ORKT,Orangekloud Technology Inc. - Class A Ordinary Shares,5839770.0,BELOW_10B_THRESHOLD
 ORMP,Oramed Pharmaceuticals Inc. - Common Stock,166389416.0,BELOW_10B_THRESHOLD
@@ -2983,20 +2898,19 @@ OSK,Oshkosh Corporation (Holding Company)Common Stock,8526326856.999999,BELOW_10
 OSPN,OneSpan Inc. - Common Stock,833453284.0,BELOW_10B_THRESHOLD
 OSPR,Osprey Acquisition Corp. III - Class A Ordinary Shares,,MARKET_CAP_MISSING
 OSS,"One Stop Systems, Inc. - Common Stock",126439097.0,BELOW_10B_THRESHOLD
-OST,"Ostin Technology Group Co., Ltd. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 OSTX,OS Therapies Incorporated Common Stock,47834198.0,BELOW_10B_THRESHOLD
 OSUR,"OraSure Technologies, Inc. - Common Stock",243459253.00000003,BELOW_10B_THRESHOLD
 OSW,OneSpaWorld Holdings Limited - Common Shares,3250406362.9999995,BELOW_10B_THRESHOLD
-OTAI,Starlink AI Acquisition Corporation Ordinary Shares,136092600.0,BELOW_10B_THRESHOLD
+OTAI,Starlink AI Acquisition Corporation Ordinary Shares,136362625.0,BELOW_10B_THRESHOLD
 OTEX,Open Text Corporation - Common Shares,6019174458.0,BELOW_10B_THRESHOLD
 OTF,Blue Owl Technology Finance Corp. Common Stock,4449176835.0,BELOW_10B_THRESHOLD
-OTGA,OTG Acquisition Corp. I - Class A Ordinary Share,,MARKET_CAP_MISSING
 OTLK,"Outlook Therapeutics, Inc. - Common Stock",111815462.00000001,BELOW_10B_THRESHOLD
 OTLY,Oatly Group AB - American Depositary Shares,259287096.0,BELOW_10B_THRESHOLD
 OTTR,Otter Tail Corporation - Common Stock,3352968418.9999995,BELOW_10B_THRESHOLD
 OUST,"Ouster, Inc. - Common Stock",2815500808.0,BELOW_10B_THRESHOLD
 OUT,OUTFRONT Media Inc. Common Stock,5503465702.0,BELOW_10B_THRESHOLD
 OVBC,Ohio Valley Banc Corp. - Common Stock,267136907.0,BELOW_10B_THRESHOLD
+OVID,Ovid Therapeutics Inc. - Common Stock,556598892.0,BELOW_10B_THRESHOLD
 OVLY,Oak Valley Bancorp (CA) - Common Stock,291752713.0,BELOW_10B_THRESHOLD
 OWLS,OBOOK Holdings Inc. - Class A Common Shares,94752655.0,BELOW_10B_THRESHOLD
 OWLT,"Owlet, Inc. Class A Common Stock",127494177.00000001,BELOW_10B_THRESHOLD
@@ -3004,7 +2918,6 @@ OXBR,Oxbridge Re Holdings Limited - Ordinary Shares,7438659.0,BELOW_10B_THRESHOL
 OXM,"Oxford Industries, Inc. Common Stock",454740399.0,BELOW_10B_THRESHOLD
 OYSE,Oyster Enterprises II Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 OZK,Bank OZK - Common Stock,5790307236.0,BELOW_10B_THRESHOLD
-PAAC,Proem Acquisition Corp I - Ordinary Shares,177587797.0,BELOW_10B_THRESHOLD
 PAAI,"Paradium.AI, Inc. Common Stock",43106685.0,BELOW_10B_THRESHOLD
 PACB,"Pacific Biosciences of California, Inc. - Common Stock",738507083.0,BELOW_10B_THRESHOLD
 PACH,Pioneer Acquisition I Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
@@ -3016,7 +2929,6 @@ PAHC,Phibro Animal Health Corporation - Class A Common Stock,1405221480.0,BELOW_
 PAII,Pyrophyte Acquisition Corp. II Class A Ordinary Shares,,MARKET_CAP_MISSING
 PAL,"Proficient Auto Logistics, Inc. - Common Stock",94818880.0,BELOW_10B_THRESHOLD
 PALI,"Palisade Bio, Inc. - Common Stock",207381964.0,BELOW_10B_THRESHOLD
-PALO,Paloma Acquisition Corp I - Class A Ordinary Shares,,MARKET_CAP_MISSING
 PAM,Pampa Energia S.A.,3540789710.0,BELOW_10B_THRESHOLD
 PAMT,PAMT CORP - Common Stock,333818714.0,BELOW_10B_THRESHOLD
 PANL,Pangaea Logistics Solutions Ltd. - Common Stock,531647029.0,BELOW_10B_THRESHOLD
@@ -3025,6 +2937,7 @@ PARA,"Parabolic Technologies, Inc. - Class A Common Stock",182666.0,BELOW_10B_TH
 PARK,"Park Dental Partners, Inc. - Common Stock",99860922.0,BELOW_10B_THRESHOLD
 PARR,"Par Pacific Holdings, Inc.  Common Stock",3436781902.0,BELOW_10B_THRESHOLD
 PASG,"Passage Bio, Inc. - Common Stock",11970253.0,BELOW_10B_THRESHOLD
+PASW,"Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",4222699.0,BELOW_10B_THRESHOLD
 PATH,"UiPath, Inc. Class A Common Stock",6761991432.000001,BELOW_10B_THRESHOLD
 PATK,"Patrick Industries, Inc. - Common Stock",2637551840.0,BELOW_10B_THRESHOLD
 PAVM,PAVmed Inc. - Common Stock,13033346.000000002,BELOW_10B_THRESHOLD
@@ -3046,13 +2959,13 @@ PBLS,"Parabilis Medicines, Inc. - Common Stock",3703683151.0,BELOW_10B_THRESHOLD
 PBM,Psyence Biomedical Ltd. - Common Shares,16053197.0,BELOW_10B_THRESHOLD
 PBT,Permian Basin Royalty Trust Common Stock,1407119551.0,BELOW_10B_THRESHOLD
 PBYI,Puma Biotechnology Inc - Common Stock,433350454.0,BELOW_10B_THRESHOLD
-PC,Premium Catering (Holdings) Limited - Ordinary Shares,,MARKET_CAP_MISSING
 PCAP,ProCap Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 PCB,PCB Bancorp - Common Stock,426910513.0,BELOW_10B_THRESHOLD
 PCLA,PicoCELA Inc. - American Depositary Shares,62201318.00000001,BELOW_10B_THRESHOLD
 PCRX,"Pacira BioSciences, Inc. - Common Stock",1461851304.0,BELOW_10B_THRESHOLD
 PCSA,"Processa Pharmaceuticals, Inc. - Common Stock",5456570.0,BELOW_10B_THRESHOLD
 PCT,"PureCycle Technologies, Inc. - Common stock",414064287.0,BELOW_10B_THRESHOLD
+PCTY,Paylocity Holding Corporation - Common Stock,9239596329.0,BELOW_10B_THRESHOLD
 PCYO,Pure Cycle Corporation - Common Stock,266757886.0,BELOW_10B_THRESHOLD
 PD,"PagerDuty, Inc. Common Stock",1231263762.0,BELOW_10B_THRESHOLD
 PDC,Perpetuals.com Ltd - American Depositary Shares,20609911.0,BELOW_10B_THRESHOLD
@@ -3066,7 +2979,6 @@ PDYN,Palladyne AI Corp. - Common stock,174658325.0,BELOW_10B_THRESHOLD
 PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,2429904689.0,BELOW_10B_THRESHOLD
 PEBK,"Peoples Bancorp of North Carolina, Inc. - Common Stock",233833694.0,BELOW_10B_THRESHOLD
 PEBO,Peoples Bancorp Inc. - Common Stock,1395232829.0,BELOW_10B_THRESHOLD
-PECE,Peace Acquisition Corp - Ordinary Shares,84796875.0,BELOW_10B_THRESHOLD
 PECO,"Phillips Edison & Company, Inc. - Common Stock",5267070000.0,BELOW_10B_THRESHOLD
 PED,Pedevco Corp. Common Stock,194063390.0,BELOW_10B_THRESHOLD
 PEGA,Pegasystems Inc. - Common Stock,5094846156.0,BELOW_10B_THRESHOLD
@@ -3082,19 +2994,15 @@ PFAI,Pinnacle Food Group Limited - Class A Common Shares,33331887.0,BELOW_10B_TH
 PFIS,Peoples Financial Services Corp.  - Common Stock,732393600.0,BELOW_10B_THRESHOLD
 PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,681130856.0,BELOW_10B_THRESHOLD
 PFS,"Provident Financial Services, Inc Common Stock",3038767826.0,BELOW_10B_THRESHOLD
-PFSA,"Profusa, Inc. - Common Stock",332985.0,BELOW_10B_THRESHOLD
 PFSI,"PennyMac Financial Services, Inc. Common Stock",3451320977.0000005,BELOW_10B_THRESHOLD
-PFX,PhenixFIN Corporation  - Common Stock,77347484.0,BELOW_10B_THRESHOLD
-PGAC,Pantages Capital Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 PGC,Peapack-Gladstone Financial Corporation - Common Stock,825282323.0000001,BELOW_10B_THRESHOLD
 PGEN,"Precigen, Inc. - Common Stock",1695941405.0,BELOW_10B_THRESHOLD
 PGNY,"Progyny, Inc. - Common Stock",2647621657.0,BELOW_10B_THRESHOLD
 PGY,Pagaya Technologies Ltd. - Class A Ordinary Shares,1528463517.0,BELOW_10B_THRESHOLD
+PHAR,"Pharming Group N.V. - ADS, each representing 10 ordinary shares",929428027.0,BELOW_10B_THRESHOLD
 PHAT,"Phathom Pharmaceuticals, Inc. - Common Stock",433283801.99999994,BELOW_10B_THRESHOLD
-PHI,PLDT Inc. Sponsored ADR,3910609528.0,BELOW_10B_THRESHOLD
 PHIN,PHINIA Inc. Common Stock,2528325241.0,BELOW_10B_THRESHOLD
 PHIO,Phio Pharmaceuticals Corp. - Common Stock,10038176.0,BELOW_10B_THRESHOLD
-PHOE,Phoenix Asia Holdings Limited - Ordinary Shares,362232000.0,BELOW_10B_THRESHOLD
 PHOS,First Phosphate Corp. - American Depositary Shares,249164124.99999997,BELOW_10B_THRESHOLD
 PHR,"Phreesia, Inc. Common Stock",801335886.9999999,BELOW_10B_THRESHOLD
 PHUN,"Phunware, Inc. - Common Stock",37010658.0,BELOW_10B_THRESHOLD
@@ -3106,8 +3014,8 @@ PIII,P3 Health Partners Inc. - Class A Common Stock,30860427.0,BELOW_10B_THRESHO
 PINE,"Alpine Income Property Trust, Inc. Common Stock",300416469.0,BELOW_10B_THRESHOLD
 PIPR,Piper Sandler Companies Common Stock,4755063885.0,BELOW_10B_THRESHOLD
 PJT,PJT Partners Inc. Class A Common Stock,3843844042.0,BELOW_10B_THRESHOLD
+PK,Park Hotels & Resorts Inc. Common Stock ,3326271827.0,BELOW_10B_THRESHOLD
 PKBK,"Parke Bancorp, Inc. - Common Stock",388213131.0,BELOW_10B_THRESHOLD
-PKE,Park Aerospace Corp. Common Stock,544612129.0,BELOW_10B_THRESHOLD
 PKOH,Park-Ohio Holdings Corp. - Common Stock,674569395.0,BELOW_10B_THRESHOLD
 PL,Planet Labs PBC Class A Common Stock,5243049521.0,BELOW_10B_THRESHOLD
 PLAB,"Photronics, Inc. - Common Stock",1706198070.0,BELOW_10B_THRESHOLD
@@ -3118,13 +3026,13 @@ PLBL,Polibeli Group Ltd - Class A Ordinary Shares,1993147837.0,BELOW_10B_THRESHO
 PLBY,"Playboy, Inc. - Common Stock",143088839.0,BELOW_10B_THRESHOLD
 PLCE,"Children's Place, Inc. (The) - Common Stock",4165002.9999999995,BELOW_10B_THRESHOLD
 PLCI,Pelican Acquisition II Corporation - Ordinary Shares,,MARKET_CAP_MISSING
+PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),147707304.0,BELOW_10B_THRESHOLD
 PLGO,Pelagos Insurance Capital Limited Common Shares,2447820504.0,BELOW_10B_THRESHOLD
 PLMK,Plum Acquisition Corp. IV - Class A Ordinary Shares,,MARKET_CAP_MISSING
 PLMR,"Palomar Holdings, Inc. - Common stock",4122522104.0,BELOW_10B_THRESHOLD
 PLNT,"Planet Fitness, Inc. Common Stock",4554577871.0,BELOW_10B_THRESHOLD
-PLOW,"Douglas Dynamics, Inc. Common Stock",862273824.0,BELOW_10B_THRESHOLD
+PLPC,Preformed Line Products Company - Common Stock,1388166134.0,BELOW_10B_THRESHOLD
 PLRX,"Pliant Therapeutics, Inc. - Common Stock",49512749.0,BELOW_10B_THRESHOLD
-PLRZ,Polyrizon Ltd. - Ordinary Shares,26350353.0,BELOW_10B_THRESHOLD
 PLSE,"Pulse Biosciences, Inc - Common Stock",4278340909.0,BELOW_10B_THRESHOLD
 PLSM,Pulsenmore Ltd. - Ordinary Shares,10209465.0,BELOW_10B_THRESHOLD
 PLTK,Playtika Holding Corp. - Common Stock,991127869.0,BELOW_10B_THRESHOLD
@@ -3151,12 +3059,12 @@ PNAQ,Pinnacle Acquisition Corporation Class A Ordinary Shares,,MARKET_CAP_MISSIN
 PNBK,Patriot National Bancorp Inc. - Common Stock,104196281.0,BELOW_10B_THRESHOLD
 PNNT,PennantPark Investment Corporation Common Stock,218741915.00000003,BELOW_10B_THRESHOLD
 PNRG,PrimeEnergy Resources Corporation - Common Stock,295471420.0,BELOW_10B_THRESHOLD
+PNTG,"The Pennant Group, Inc. - Common Stock",1273899519.0,BELOW_10B_THRESHOLD
 POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,1494829.0,BELOW_10B_THRESHOLD
 POCI,"Precision Optics Corporation, Inc. - Common stock",54972150.0,BELOW_10B_THRESHOLD
 PODC,"PodcastOne, Inc. - Common Stock",62320553.99999999,BELOW_10B_THRESHOLD
 POET,POET Technologies Inc. - Common Shares,910285543.0,BELOW_10B_THRESHOLD
 POLA,"Polar Power, Inc. - Common Stock",1833379.0,BELOW_10B_THRESHOLD
-POLE,Andretti Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 POM,POMDOCTOR LIMITED - Class A Ordinary Shares,55747512.0,BELOW_10B_THRESHOLD
 PONO,"Pono Capital Four, Inc. - Class A Ordinary Shares",,MARKET_CAP_MISSING
 PONY,Pony AI Inc. - American Depositary Shares,2102676532.0,BELOW_10B_THRESHOLD
@@ -3165,9 +3073,11 @@ POR,Portland General Electric Co Common Stock,5476909885.0,BELOW_10B_THRESHOLD
 POST,"Post Holdings, Inc. Common Stock",3615447211.0,BELOW_10B_THRESHOLD
 POWI,"Power Integrations, Inc. - Common Stock",2475015507.0,BELOW_10B_THRESHOLD
 POWL,"Powell Industries, Inc. - Common Stock",5160672691.0,BELOW_10B_THRESHOLD
+POWW,Outdoor Holding Company - Common Stock,264618923.0,BELOW_10B_THRESHOLD
 PPBT,Purple Biotech Ltd. - American Depositary Shares,2180002.0,BELOW_10B_THRESHOLD
 PPC,Pilgrim's Pride Corporation - Common Stock,7043353256.0,BELOW_10B_THRESHOLD
 PPCB,"Propanc Biopharma, Inc. - Common Stock",1818277.0,BELOW_10B_THRESHOLD
+PPHC,"Public Policy Holding Company, Inc. - Common Stock",330940849.0,BELOW_10B_THRESHOLD
 PPIH,"Perma-Pipe International Holdings, Inc. - Common Stock",242987056.99999997,BELOW_10B_THRESHOLD
 PPLI,People Incorporated - Common Stock,3255415878.0,BELOW_10B_THRESHOLD
 PPSI,"Pioneer Power Solutions, Inc. - Common Stock",25084341.0,BELOW_10B_THRESHOLD
@@ -3195,16 +3105,17 @@ PRME,"Prime Medicine, Inc. - Common Stock",779920481.0,BELOW_10B_THRESHOLD
 PROF,Profound Medical Corp. - common stock,268841035.0,BELOW_10B_THRESHOLD
 PROK,ProKidney Corp. - Class A Ordinary Shares,347726880.0,BELOW_10B_THRESHOLD
 PROP,Prairie Operating Co. - Common Stock,41960860.0,BELOW_10B_THRESHOLD
+PROV,"Provident Financial Holdings, Inc. - Common Stock",111071550.99999999,BELOW_10B_THRESHOLD
 PRPL,"Purple Innovation, Inc. - Common Stock",7890933.999999999,BELOW_10B_THRESHOLD
+PRPO,"Precipio, Inc. - Common Stock",39742174.0,BELOW_10B_THRESHOLD
 PRQR,ProQR Therapeutics N.V. - Ordinary Shares,194747637.0,BELOW_10B_THRESHOLD
 PRSO,Peraso Inc. - Common Stock,6566060.999999999,BELOW_10B_THRESHOLD
 PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock",1561392535.0,BELOW_10B_THRESHOLD
 PRTA,Prothena Corporation plc - Ordinary Shares,450594460.00000006,BELOW_10B_THRESHOLD
-PRTH,"Priority Technology Holdings, Inc. - Common Stock",652333502.0,BELOW_10B_THRESHOLD
 PRTS,"CarParts.com, Inc. - Common Stock",65351703.00000001,BELOW_10B_THRESHOLD
 PRVA,"Privia Health Group, Inc. - Common Stock",3135433738.0,BELOW_10B_THRESHOLD
 PRZO,ParaZero Technologies Ltd. - Ordinary Shares,12894279.0,BELOW_10B_THRESHOLD
-PSBD,Palmer Square Capital BDC Inc. Common Stock,297768735.68,BELOW_10B_THRESHOLD
+PSBD,Palmer Square Capital BDC Inc. Common Stock,299275662.48,BELOW_10B_THRESHOLD
 PSFE,Paysafe Limited Common Shares,370207696.0,BELOW_10B_THRESHOLD
 PSHG,Performance Shipping Inc. - Common Shares,24738601.0,BELOW_10B_THRESHOLD
 PSIG,PS International Group Ltd. - Ordinary Shares,82441206.0,BELOW_10B_THRESHOLD
@@ -3215,7 +3126,6 @@ PSNL,"Personalis, Inc. - Common Stock",1729040833.0000002,BELOW_10B_THRESHOLD
 PSNY,Polestar Automotive Holding UK Limited - Class A ADS,775402209.0,BELOW_10B_THRESHOLD
 PSQL,Pasqal Holding SA - Ordinary Shares,938338113.9999999,BELOW_10B_THRESHOLD
 PSTL,"Postal Realty Trust, Inc. Class A Common Stock",769125138.0,BELOW_10B_THRESHOLD
-PSUS,"Pershing Square USA, Ltd. Common Shares",957874500.0,BELOW_10B_THRESHOLD
 PTAC,Patriot Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 PTCT,"PTC Therapeutics, Inc. - Common Stock",5432884789.0,BELOW_10B_THRESHOLD
 PTEN,"Patterson-UTI Energy, Inc. - Common Stock",3741069348.0,BELOW_10B_THRESHOLD
@@ -3226,9 +3136,7 @@ PTLE,PTL LTD - Class A Ordinary Shares,55022629.0,BELOW_10B_THRESHOLD
 PTLO,Portillo's Inc. - Class A Common Stock,524958636.00000006,BELOW_10B_THRESHOLD
 PTN,"Palatin Technologies, Inc. - Common Stock",12876188.999999998,BELOW_10B_THRESHOLD
 PTON,"Peloton Interactive, Inc. - Common Stock",2652810041.0,BELOW_10B_THRESHOLD
-PTOR,Praetorian Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 PTRN,Pattern Group Inc. - Series A Common Stock,3433294737.0,BELOW_10B_THRESHOLD
-PUBM,"PubMatic, Inc. - Class A Common Stock",866817661.0,BELOW_10B_THRESHOLD
 PULM,"Pulmatrix, Inc. - Common Stock",4747971.0,BELOW_10B_THRESHOLD
 PUMP,ProPetro Holding Corp. Common Stock,840378385.0,BELOW_10B_THRESHOLD
 PURR,Hyperliquid Strategies Inc - Common Stock,2468147660.0,BELOW_10B_THRESHOLD
@@ -3244,8 +3152,8 @@ PXLW,"Pixelworks, Inc. - Common Stock",31547584.0,BELOW_10B_THRESHOLD
 PXS,Pyxis Tankers Inc. - Common Stock,58260038.0,BELOW_10B_THRESHOLD
 PYPD,PolyPid Ltd. - Ordinary Shares,126745420.0,BELOW_10B_THRESHOLD
 PYXS,"Pyxis Oncology, Inc. - Common Stock",203333354.0,BELOW_10B_THRESHOLD
+PZG,Paramount Gold Nevada Corp. Common Stock,90008564.0,BELOW_10B_THRESHOLD
 PZZA,"Papa John's International, Inc. - Common Stock",683574347.0,BELOW_10B_THRESHOLD
-QADR,QDRO Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 QBTS,D-Wave Quantum Inc. - Common Stock,4354317423.0,BELOW_10B_THRESHOLD
 QCLS,"Q/C Technologies, Inc. - Common Stock",3029421.0,BELOW_10B_THRESHOLD
 QCRH,"QCR Holdings, Inc. - Common Stock",1682693052.9999998,BELOW_10B_THRESHOLD
@@ -3262,14 +3170,15 @@ QNME,"Quanome Technologies, Inc. - Common Stock",11058132.0,BELOW_10B_THRESHOLD
 QNRX,"Quoin Pharmaceuticals, Ltd. - American Depositary Shares",18760253.0,BELOW_10B_THRESHOLD
 QNST,"QuinStreet, Inc. - Common Stock",1090857406.0,BELOW_10B_THRESHOLD
 QNTM,Quantum Biopharma Ltd. - Class B Subordinate Voting Shares,18884102.0,BELOW_10B_THRESHOLD
+QRED,QuasarEdge Acquisition Corporation Ordinary Shares,162162796.0,BELOW_10B_THRESHOLD
 QRHC,Quest Resource Holding Corporation - Common Stock,24450372.0,BELOW_10B_THRESHOLD
 QS,QuantumScape Corporation - Common Stock,2842808693.0,BELOW_10B_THRESHOLD
-QSEA,Quartzsea Acquisition Corporation - Ordinary Shares,108844723.32,BELOW_10B_THRESHOLD
 QSI,Quantum-Si Incorporated - Class A Common Stock,301047107.0,BELOW_10B_THRESHOLD
 QTEX,QTREX Quantum Ltd. - Ordinary Shares,59321769.99999999,BELOW_10B_THRESHOLD
 QTI,"QT Imaging Holdings, Inc. - Common Stock",33517640.0,BELOW_10B_THRESHOLD
 QTRX,Quanterix Corporation - Common Stock,159850560.0,BELOW_10B_THRESHOLD
 QTTB,Q32 Bio Inc. - Common Stock,279489058.0,BELOW_10B_THRESHOLD
+QTWO,"Q2 Holdings, Inc. Common Stock",4588082654.0,BELOW_10B_THRESHOLD
 QUAD,"Quad Graphics, Inc Class A Common Stock",379854778.0,BELOW_10B_THRESHOLD
 QUBT,Quantum Computing Inc. - Common Stock,1552739466.0,BELOW_10B_THRESHOLD
 QUCY,Quantum Cyber N.V. - Ordinary Shares,59623068.99999999,BELOW_10B_THRESHOLD
@@ -3280,14 +3189,15 @@ QVCG,"QVC Group, Inc. - Common Stock",403999168.0,BELOW_10B_THRESHOLD
 QXL,Quantum X Labs Inc. - Common Stock,72899252.0,BELOW_10B_THRESHOLD
 RAC,Rithm Acquisition Corp. Class A Ordinary Shares,,MARKET_CAP_MISSING
 RACC,Research Alliance Corporation III - Class A Ordinary Shares,,MARKET_CAP_MISSING
-RACD,Research Alliance Corporation IV - Class A Ordinary Shares,,MARKET_CAP_MISSING
 RADX,Radiopharm Theranostics Limited - American Depositary Shares,12795771.0,BELOW_10B_THRESHOLD
 RAIL,"Freightcar America, Inc. - Common Stock",145921196.0,BELOW_10B_THRESHOLD
 RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",6345936.000000001,BELOW_10B_THRESHOLD
 RAL,Ralliant Corporation Common Stock,7757183829.0,BELOW_10B_THRESHOLD
 RANG,Range Capital Acquisition Corp. - Ordinary Shares,73208823.03,BELOW_10B_THRESHOLD
 RANI,"Rani Therapeutics Holdings, Inc. - Class A Common Stock",80054732.0,BELOW_10B_THRESHOLD
+RAPP,"Rapport Therapeutics, Inc. - Common Stock",1545419954.0,BELOW_10B_THRESHOLD
 RARE,Ultragenyx Pharmaceutical Inc. - Common Stock,1672573956.0,BELOW_10B_THRESHOLD
+RAVE,"Rave Restaurant Group, Inc. - Common Stock",30786286.0,BELOW_10B_THRESHOLD
 RAYA,Erayak Power Solution Group Inc. - Class A Ordinary Shares,619959.0,BELOW_10B_THRESHOLD
 RBB,RBB Bancorp - Common Stock,435368101.0,BELOW_10B_THRESHOLD
 RBBN,Ribbon Communications Inc.  - Common Stock,258009999.99999997,BELOW_10B_THRESHOLD
@@ -3304,7 +3214,7 @@ RCMT,"RCM Technologies, Inc. - Common Stock",240485869.00000003,BELOW_10B_THRESH
 RCON,"Recon Technology, Ltd. - Class A Ordinary Shares",19465838.0,BELOW_10B_THRESHOLD
 RCT,RedCloud Holdings plc - Ordinary Shares,3800304.9999999995,BELOW_10B_THRESHOLD
 RCUS,"Arcus Biosciences, Inc. Common Stock",2727902182.0,BELOW_10B_THRESHOLD
-RDAC,Rising Dragon Acquisition Corp. - Ordinary Shares,38475998.4,BELOW_10B_THRESHOLD
+RDAC,Rising Dragon Acquisition Corp. - Ordinary Shares,38372937.69,BELOW_10B_THRESHOLD
 RDAG,Republic Digital Acquisition Company - Class A Ordinary Shares,,MARKET_CAP_MISSING
 RDCM,Radcom Ltd. - Ordinary Shares,168907425.0,BELOW_10B_THRESHOLD
 RDGT,"Ridgetech, Inc. - Ordinary Shares",4101380.0000000005,BELOW_10B_THRESHOLD
@@ -3328,7 +3238,6 @@ REFI,"Chicago Atlantic Real Estate Finance, Inc. - Common Stock",227003354.0,BEL
 REFR,Research Frontiers Incorporated - Common Stock,14285332.0,BELOW_10B_THRESHOLD
 REI,"Ring Energy, Inc. Common Stock",295712454.0,BELOW_10B_THRESHOLD
 REKR,"Rekor Systems, Inc. - Common Stock",48103955.0,BELOW_10B_THRESHOLD
-RELL,"Richardson Electronics, Ltd. - Common Stock",289055116.0,BELOW_10B_THRESHOLD
 RELY,"Remitly Global, Inc. - Common stock",5129881303.0,BELOW_10B_THRESHOLD
 RENT,"Rent the Runway, Inc. - Class A Common Stock",85878807.0,BELOW_10B_THRESHOLD
 RENX,RenX Enterprises Corp. - Common Stock,3680858.0,BELOW_10B_THRESHOLD
@@ -3342,8 +3251,8 @@ REX,REX American Resources Corporation,1343945176.0,BELOW_10B_THRESHOLD
 REXR,"Rexford Industrial Realty, Inc. Common Stock",8211795089.0,BELOW_10B_THRESHOLD
 REYN,Reynolds Consumer Products Inc. - Common Stock,5221364486.0,BELOW_10B_THRESHOLD
 REZI,"Resideo Technologies, Inc. Common Stock ",3043780692.0,BELOW_10B_THRESHOLD
-RFAI,RF Acquisition Corp II - Ordinary Shares,112400000.00000001,BELOW_10B_THRESHOLD
-RFAM,RF Acquisition Corp III - Ordinary Shares,139333330.0,BELOW_10B_THRESHOLD
+RFAI,RF Acquisition Corp II - Ordinary Shares,117633632.02499999,BELOW_10B_THRESHOLD
+RFAM,RF Acquisition Corp III - Ordinary Shares,139611996.66,BELOW_10B_THRESHOLD
 RFIL,"RF Industries, Ltd. - Common Stock",78646267.0,BELOW_10B_THRESHOLD
 RFL,"Rafael Holdings, Inc. Class B Common Stock",56881213.0,BELOW_10B_THRESHOLD
 RGC,Regencell Bioscience Holdings Limited - Ordinary Shares,2789349615.0,BELOW_10B_THRESHOLD
@@ -3361,12 +3270,10 @@ RHP,"Ryman Hospitality Properties, Inc. (REIT)",9341220003.0,BELOW_10B_THRESHOLD
 RIBB,Ribbon Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 RICK,"RCI Hospitality Holdings, Inc. - Common Stock",220849605.0,BELOW_10B_THRESHOLD
 RIG,Transocean Ltd (Switzerland) Common Stock,5763317432.0,BELOW_10B_THRESHOLD
-RIGL,"Rigel Pharmaceuticals, Inc. - Common Stock",791800323.0,BELOW_10B_THRESHOLD
 RILY,"BRC Group Holdings, Inc. - Common Stock",154367059.0,BELOW_10B_THRESHOLD
 RIME,"Algorhythm Holdings, Inc. - Common Stock",1815928.0,BELOW_10B_THRESHOLD
 RIOT,"Riot Platforms, Inc. - Common Stock",6625748822.0,BELOW_10B_THRESHOLD
 RITM,Rithm Capital Corp. Common Stock,5271362373.0,BELOW_10B_THRESHOLD
-RJET,Republic Airways Holdings Inc. - Common Stock,993911739.0,BELOW_10B_THRESHOLD
 RKDA,"Arcadia Biosciences, Inc. - Common Stock",399447.0,BELOW_10B_THRESHOLD
 RKTO,Rocket One Inc. - Common Stock,9842014.0,BELOW_10B_THRESHOLD
 RLAY,"Relay Therapeutics, Inc. - Common Stock",4505363593.0,BELOW_10B_THRESHOLD
@@ -3388,7 +3295,7 @@ RMSG,Real Messenger Corporation - Ordinary Shares,2861855.0,BELOW_10B_THRESHOLD
 RMTI,"Rockwell Medical, Inc. - Common Stock",30309097.0,BELOW_10B_THRESHOLD
 RNA,"Atrium Therapeutics, Inc. - Common Stock",143345288.0,BELOW_10B_THRESHOLD
 RNAC,"Cartesian Therapeutics, Inc. - Common Stock",214131094.99999997,BELOW_10B_THRESHOLD
-RNAQ,Rainier Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
+RNAZ,"TransCode Therapeutics, Inc. - Common Stock",26242644.999999996,BELOW_10B_THRESHOLD
 RNG,"RingCentral, Inc. Class A Common Stock",6152936570.0,BELOW_10B_THRESHOLD
 RNGR,"Ranger Energy Services, Inc. Class A Common Stock",294472313.0,BELOW_10B_THRESHOLD
 RNGT,Range Capital Acquisition Corp II - Class A Ordinary Shares,,MARKET_CAP_MISSING
@@ -3430,7 +3337,6 @@ RVLV,"Revolve Group, Inc. Class A Common Stock",1436132049.0,BELOW_10B_THRESHOLD
 RVP,"Retractable Technologies, Inc. Common Stock",16797740.0,BELOW_10B_THRESHOLD
 RVSB,Riverview Bancorp Inc - Common Stock,124794194.0,BELOW_10B_THRESHOLD
 RVSN,Rail Vision Ltd. - Ordinary Shares,6291574.0,BELOW_10B_THRESHOLD
-RWAY,Runway Growth Finance Corp. - Common Stock,271822234.0,BELOW_10B_THRESHOLD
 RWT,"Redwood Trust, Inc. Common Stock",390026601.0,BELOW_10B_THRESHOLD
 RXO,"RXO, Inc. Common Stock",4605433484.0,BELOW_10B_THRESHOLD
 RXRX,"Recursion Pharmaceuticals, Inc. - Class A Common Stock",2369598980.0,BELOW_10B_THRESHOLD
@@ -3461,16 +3367,15 @@ SAFX,"XCF Global, Inc. - Class A Common Stock",51419558.0,BELOW_10B_THRESHOLD
 SAGT,SAGTEC GLOBAL LIMITED - Class A Ordinary shares,20696000.0,BELOW_10B_THRESHOLD
 SAGU,Shreya Acquisition Group Class A Ordinary Shares,,MARKET_CAP_MISSING
 SAH,"Sonic Automotive, Inc. Common Stock",1997189162.9999998,BELOW_10B_THRESHOLD
+SAIA,"Saia, Inc. - Common Stock",9124685514.0,BELOW_10B_THRESHOLD
 SAIC,Science Applications International Corporation - Common Stock,6324866980.0,BELOW_10B_THRESHOLD
 SAIH,SAIHEAT Limited - Class A Ordinary Shares,38108078.0,BELOW_10B_THRESHOLD
 SAIQ,WISeSat.Space Holdings Corp. - Ordinary Shares,110319836.0,BELOW_10B_THRESHOLD
 SAM,"Boston Beer Company, Inc. (The) Common Stock",2198198061.0,BELOW_10B_THRESHOLD
 SAMG,Silvercrest Asset Management Group Inc. - Common Stock,129733049.0,BELOW_10B_THRESHOLD
-SAMO,Samos Energy Acquisition Corporation Class A Ordinary Shares,,MARKET_CAP_MISSING
 SANA,"Sana Biotechnology, Inc. - Common Stock",738600154.0,BELOW_10B_THRESHOLD
 SANG,Sangoma Technologies Corporation - Common Shares,153833744.0,BELOW_10B_THRESHOLD
 SANM,Sanmina Corporation - Common Stock,8020308352.000001,BELOW_10B_THRESHOLD
-SAR,Saratoga Investment Corp New,202586487.0,BELOW_10B_THRESHOLD
 SARO,"StandardAero, Inc. Common Stock",9508864614.0,BELOW_10B_THRESHOLD
 SATL,Satellogic Inc. - Class A Common Stock,609578747.0,BELOW_10B_THRESHOLD
 SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)",823704878.0,BELOW_10B_THRESHOLD
@@ -3489,10 +3394,8 @@ SBSI,"Southside Bancshares, Inc. Common Stock",1051876717.0,BELOW_10B_THRESHOLD
 SBSW,D/B/A Sibanye-Stillwater Limited ADS,6991501142.0,BELOW_10B_THRESHOLD
 SBXE,SilverBox Corp V Class A Ordinary Shares,,MARKET_CAP_MISSING
 SCAG,Scage Future - American Depositary Shares,4792238.0,BELOW_10B_THRESHOLD
-SCAT,Southern Cross Acquisition II Corp. - Ordinary Shares,,MARKET_CAP_MISSING
 SCHL,Scholastic Corporation - Common Stock,684371081.0,BELOW_10B_THRESHOLD
 SCI,Service Corporation International Common Stock,9941622140.0,BELOW_10B_THRESHOLD
-SCII,SC II Acquisition Corp. - Class A ordinary share,,MARKET_CAP_MISSING
 SCKT,"Socket Mobile, Inc. - Common Stock",2252850.0,BELOW_10B_THRESHOLD
 SCL,Stepan Company Common Stock,1546866334.0,BELOW_10B_THRESHOLD
 SCLX,Scilex Holding Company - Common Stock,14777820.0,BELOW_10B_THRESHOLD
@@ -3500,7 +3403,6 @@ SCM,Stellus Capital Investment Corporation Common Stock,207191541.99999997,BELOW
 SCNI,Scinai Immunotherapeutics Ltd. - American Depositary Shares,1216304.0,BELOW_10B_THRESHOLD
 SCNX,"Scienture Holdings, Inc. - Common Stock",5256211.0,BELOW_10B_THRESHOLD
 SCOR,"comScore, Inc. - Common Stock",50260119.0,BELOW_10B_THRESHOLD
-SCPQ,Social Commerce Partners Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SCSC,"ScanSource, Inc. - Common Stock",895521703.0,BELOW_10B_THRESHOLD
 SCTX,Scribe Therapeutics Inc. - Common Stock,315780422.0,BELOW_10B_THRESHOLD
 SCWO,374Water Inc. - common stock,41106134.0,BELOW_10B_THRESHOLD
@@ -3541,8 +3443,9 @@ SFHG,Samfine Creation Holdings Group Limited - Class A Ordinary Share,7917000.0,
 SFIX,"Stitch Fix, Inc. - Class A Common Stock",370517015.0,BELOW_10B_THRESHOLD
 SFL,SFL Corporation Ltd,1675580782.0,BELOW_10B_THRESHOLD
 SFM,"Sprouts Farmers Market, Inc. - Common Stock",4572894043.0,BELOW_10B_THRESHOLD
+SFNC,Simmons First National Corporation - Common Stock,3432229892.0,BELOW_10B_THRESHOLD
 SFST,"Southern First Bancshares, Inc. - Common Stock",577244931.0,BELOW_10B_THRESHOLD
-SFWL,Shengfeng Development Limited - Class A Ordinary Shares,25519230.0,BELOW_10B_THRESHOLD
+SG,"Sweetgreen, Inc. Class A Common Stock",1592666068.0,BELOW_10B_THRESHOLD
 SGA,"Saga Communications, Inc. - Class A Common Stock",48892928.0,BELOW_10B_THRESHOLD
 SGC,"Superior Group of Companies, Inc. - Common Stock",201228437.00000003,BELOW_10B_THRESHOLD
 SGHC,Super Group (SGHC) Limited Ordinary Shares,5845423446.0,BELOW_10B_THRESHOLD
@@ -3553,13 +3456,13 @@ SGML,Sigma Lithium Corporation - common shares,669781462.0,BELOW_10B_THRESHOLD
 SGMT,Sagimet Biosciences Inc. - Series A Common Stock,763871784.0,BELOW_10B_THRESHOLD
 SGP,"SpyGlass Pharma, Inc. - Common Stock",1283398954.0,BELOW_10B_THRESHOLD
 SGRX,SANGRIX INC. - Class A Ordinary Shares,1846662.0,BELOW_10B_THRESHOLD
-SGRY,"Surgery Partners, Inc. - Common Stock",3462787977.0,BELOW_10B_THRESHOLD
 SGU,Star Group L.P. Common Stock,431795603.00000006,BELOW_10B_THRESHOLD
 SHAK,"Shake Shack, Inc. Class A Common Stock",3304951796.9999995,BELOW_10B_THRESHOLD
 SHAZ,"SharonAI Holdings, Inc. - Class A Common Stock",856777875.0,BELOW_10B_THRESHOLD
 SHBI,"Shore Bancshares, Inc. - Common Stock",761054159.0,BELOW_10B_THRESHOLD
 SHC,Sotera Health Company - Common Stock,4695771108.0,BELOW_10B_THRESHOLD
 SHEN,Shenandoah Telecommunications Co - Common Stock,565283297.0,BELOW_10B_THRESHOLD
+SHFS,"SHF Holdings, Inc. - Class A Common Stock",618580.0,BELOW_10B_THRESHOLD
 SHIM,Shimmick Corporation - Common Stock,96312468.0,BELOW_10B_THRESHOLD
 SHIP,Seanergy Maritime Holdings Corp. - Common Stock,310498112.0,BELOW_10B_THRESHOLD
 SHLS,"Shoals Technologies Group, Inc. - Class A Common Stock",1469074968.0,BELOW_10B_THRESHOLD
@@ -3572,7 +3475,6 @@ SHPH,"Shuttle Pharmaceuticals Holdings, Inc. - common stock",24633478.0,BELOW_10
 SI,"Shoulder Innovations, Inc. Common Stock",449207943.00000006,BELOW_10B_THRESHOLD
 SIBN,"SI-BONE, Inc. - Common Stock",1154895027.0,BELOW_10B_THRESHOLD
 SID,Companhia Siderurgica Nacional S.A. Common Stock,1085673114.0,BELOW_10B_THRESHOLD
-SIDU,"Sidus Space, Inc. - Class A Common Stock",116409125.0,BELOW_10B_THRESHOLD
 SIEB,Siebert Financial Corp. - Common Stock,76426229.0,BELOW_10B_THRESHOLD
 SIF,"SIFCO Industries, Inc. Common Stock",108133872.99999999,BELOW_10B_THRESHOLD
 SIFY,Sify Technologies Limited - American Depository Shares,966277764.0,BELOW_10B_THRESHOLD
@@ -3582,8 +3484,6 @@ SIGI,"Selective Insurance Group, Inc. - Common Stock",5928531052.0,BELOW_10B_THR
 SII,Sprott Inc. Common Shares,2996877000.0,BELOW_10B_THRESHOLD
 SILC,Silicom Ltd - Ordinary Shares,173290472.0,BELOW_10B_THRESHOLD
 SILO,"Silo Pharma, Inc. - Common Stock",3323986.0000000005,BELOW_10B_THRESHOLD
-SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares",4056330086.0,BELOW_10B_THRESHOLD
-SIMA,SIM Acquisition Corp. I - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SIMO,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",5832555502.0,BELOW_10B_THRESHOLD
 SIND,Sinda Ltd. Common Stock,2053166143.0,BELOW_10B_THRESHOLD
 SINT,"SiNtx Technologies, Inc. - Common Stock",11639691.0,BELOW_10B_THRESHOLD
@@ -3603,16 +3503,15 @@ SKYE,"Skye Bioscience, Inc. - Common Stock",3055097.0,BELOW_10B_THRESHOLD
 SKYH,Sky Harbour Group Corporation Class A Common Stock,889353490.0,BELOW_10B_THRESHOLD
 SKYQ,Sky Quarry Inc. - Common Stock,14973629.0,BELOW_10B_THRESHOLD
 SKYW,"SkyWest, Inc. - Common Stock",3176612793.0,BELOW_10B_THRESHOLD
-SKYX,SKYX Platforms Corp. - Common Stock,101023301.00000001,BELOW_10B_THRESHOLD
 SLAB,"Silicon Laboratories, Inc. - Common Stock",7400747590.0,BELOW_10B_THRESHOLD
 SLBT,SL Science Holding Limited - Ordinary Shares,548647346.0,BELOW_10B_THRESHOLD
 SLDB,Solid Biosciences Inc. - Common Stock,783505928.0,BELOW_10B_THRESHOLD
 SLDE,"Slide Insurance Holdings, Inc. - Common Stock",3069569709.0,BELOW_10B_THRESHOLD
-SLDP,"Solid Power, Inc. - Class A Common Stock",442333481.0,BELOW_10B_THRESHOLD
 SLE,"Super League Enterprise, Inc. - Common Stock",14252446.0,BELOW_10B_THRESHOLD
 SLG,SL Green Realty Corp Common Stock,3721518958.0,BELOW_10B_THRESHOLD
 SLGB,Smart Logistics Global Limited - Class A Ordinary Shares,8527500.0,BELOW_10B_THRESHOLD
 SLGL,Sol-Gel Technologies Ltd. - Ordinary Shares,202136697.99999997,BELOW_10B_THRESHOLD
+SLGN,Silgan Holdings Inc. Common Stock,4451326682.0,BELOW_10B_THRESHOLD
 SLI,Standard Lithium Ltd. Common Shares,392557951.0,BELOW_10B_THRESHOLD
 SLM,SLM Corporation - Common Stock,3091506035.0,BELOW_10B_THRESHOLD
 SLMT,Solmate Infrastructure Public Limited Company - Class B Ordinary Shares,32477416.999999996,BELOW_10B_THRESHOLD
@@ -3627,7 +3526,7 @@ SLSR,Solaris Resources Inc. Common Shares,1241072487.0,BELOW_10B_THRESHOLD
 SLVM,Sylvamo Corporation Common Stock,1511250728.0,BELOW_10B_THRESHOLD
 SLXN,Silexion Therapeutics Corp - Ordinary Shares,1884955.0,BELOW_10B_THRESHOLD
 SM,SM Energy Company Common Stock,6839061746.0,BELOW_10B_THRESHOLD
-SMA,"SmartStop Self Storage REIT, Inc. Common Stock",2197271937.0,BELOW_10B_THRESHOLD
+SMBC,"Southern Missouri Bancorp, Inc. - Common Stock",785913424.0,BELOW_10B_THRESHOLD
 SMBK,"SmartFinancial, Inc. Common Stock",829275941.0,BELOW_10B_THRESHOLD
 SMC,Summit Midstream Corporation Common Stock,569844865.0,BELOW_10B_THRESHOLD
 SMG,Scotts Miracle-Gro Company (The) Common Stock,3863497383.0,BELOW_10B_THRESHOLD
@@ -3659,16 +3558,15 @@ SNOA,"Sonoma Pharmaceuticals, Inc. - Common Stock",5410920.0,BELOW_10B_THRESHOLD
 SNSC,SunScout Holding Limited Class A Ordinary Shares,27660600.0,BELOW_10B_THRESHOLD
 SNT,Senstar Technologies Corporation - Common Shares,57162550.0,BELOW_10B_THRESHOLD
 SNTG,Sentage Holdings Inc. - Class A Ordinary Shares,4404360.0,BELOW_10B_THRESHOLD
-SNTI,"Senti Biosciences Holdings, Inc. - Common Stock",6106606.0,BELOW_10B_THRESHOLD
 SNWV,"SANUWAVE Health, Inc. - Common Stock",15914271.999999998,BELOW_10B_THRESHOLD
 SOAR,"SOAR AI, Inc. Class A Common Stock",11122333.0,BELOW_10B_THRESHOLD
 SOBO,South Bow Corporation Common Shares,6728338596.0,BELOW_10B_THRESHOLD
 SOC,Sable Offshore Corp. Common Stock,168864410.0,BELOW_10B_THRESHOLD
 SOCA,Solarius Capital Acquisition Corp. - Class A Ordinary Share,,MARKET_CAP_MISSING
 SOGP,Sound Group Inc. - American Depositary Shares,42659772.0,BELOW_10B_THRESHOLD
+SOHU,Sohu.com Limited  - American Depositary Shares,328991058.0,BELOW_10B_THRESHOLD
 SON,Sonoco Products Company Common Stock,4971472056.0,BELOW_10B_THRESHOLD
 SONM,"DNA X, Inc. - Common Stock",3289072.0,BELOW_10B_THRESHOLD
-SONO,"Sonos, Inc. - Common Stock",2012180583.0,BELOW_10B_THRESHOLD
 SOPH,SOPHiA GENETICS SA - Ordinary Shares,637607409.0,BELOW_10B_THRESHOLD
 SORA,AsiaStrategy - Ordinary Shares,59922240.00000001,BELOW_10B_THRESHOLD
 SORN,Soren Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
@@ -3681,21 +3579,19 @@ SPAI,Safe Pro Group Inc. - Common Stock,66790187.0,BELOW_10B_THRESHOLD
 SPB,"Spectrum Brands Holdings, Inc. Common Stock",2053736679.0,BELOW_10B_THRESHOLD
 SPCB,"SuperCom, Ltd. - Ordinary Shares",53572255.99999999,BELOW_10B_THRESHOLD
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock",436596200.99999994,BELOW_10B_THRESHOLD
-SPEG,Silver Pegasus Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SPFI,"South Plains Financial, Inc. - Common Stock",811953445.0,BELOW_10B_THRESHOLD
 SPH,"Suburban Propane Partners, L.P. Common Stock",1149454428.0,BELOW_10B_THRESHOLD
 SPHL,Springview Holdings Ltd - Ordinary shares,29183512.0,BELOW_10B_THRESHOLD
 SPHR,Sphere Entertainment Co. Class A Common Stock,4412074086.0,BELOW_10B_THRESHOLD
 SPIR,"Spire Global, Inc. Class A Common Stock",383881406.0,BELOW_10B_THRESHOLD
-SPNT,SiriusPoint Ltd. Common Shares,3035696063.0,BELOW_10B_THRESHOLD
 SPOK,"Spok Holdings, Inc. - Common Stock",250951323.0,BELOW_10B_THRESHOLD
 SPPL,SIMPPLE LTD. - Ordinary Shares,25835525.999999996,BELOW_10B_THRESHOLD
+SPRB,"Spruce Biosciences, Inc. - Common Stock",141803801.0,BELOW_10B_THRESHOLD
 SPRC,SciSparc Ltd. - Ordinary Shares,854982.0,BELOW_10B_THRESHOLD
 SPRO,"Spero Therapeutics, Inc. - Common Stock",62311265.00000001,BELOW_10B_THRESHOLD
 SPRU,Spruce Power Holding Corporation Class A Common Stock,29263323.000000004,BELOW_10B_THRESHOLD
 SPRY,"ARS Pharmaceuticals, Inc. - Common Stock",316664460.0,BELOW_10B_THRESHOLD
 SPSC,"SPS Commerce, Inc. - Common Stock",2872132643.0,BELOW_10B_THRESHOLD
-SPT,"Sprout Social, Inc - Class A Common Stock",654297086.0,BELOW_10B_THRESHOLD
 SPTX,"Seaport Therapeutics, Inc. - Common Stock",1173657309.0,BELOW_10B_THRESHOLD
 SPWH,"Sportsman's Warehouse Holdings, Inc. - Common Stock",44621270.0,BELOW_10B_THRESHOLD
 SPWR,SunPower Inc. - Common Stock,78082965.0,BELOW_10B_THRESHOLD
@@ -3705,6 +3601,7 @@ SQNS,Sequans Communications S.A. American Depositary Shares (each representing o
 SR,Spire Inc. Common Stock,5252172902.0,BELOW_10B_THRESHOLD
 SRAD,Sportradar Group AG - Class A Ordinary Shares,4243017724.0,BELOW_10B_THRESHOLD
 SRBK,"SR Bancorp, Inc. - Common stock",150220640.0,BELOW_10B_THRESHOLD
+SRCE,1st Source Corporation - Common Stock,2126457499.0,BELOW_10B_THRESHOLD
 SRFM,Surf Air Mobility Inc. Common Stock,95374311.0,BELOW_10B_THRESHOLD
 SRG,Seritage Growth Properties Class A Common Stock,93780471.0,BELOW_10B_THRESHOLD
 SRI,"Stoneridge, Inc. Common Stock",154757477.0,BELOW_10B_THRESHOLD
@@ -3719,9 +3616,11 @@ SRZN,"Surrozen, Inc. - Common Stock",569600000.0,BELOW_10B_THRESHOLD
 SSAC,SPACSphere Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SSBI,Summit State Bank - Common Stock,75139444.0,BELOW_10B_THRESHOLD
 SSD,"Simpson Manufacturing Company, Inc. Common Stock",8283431312.0,BELOW_10B_THRESHOLD
-SSEA,Starry Sea Acquisition Corp - Ordinary Shares,79489417.11,BELOW_10B_THRESHOLD
+SSEA,Starry Sea Acquisition Corp - Ordinary Shares,79718493.24,BELOW_10B_THRESHOLD
 SSII,SS Innovations International Inc. - Common Stock,374913358.0,BELOW_10B_THRESHOLD
+SSL,Sasol Ltd. American Depositary Shares,8932633429.0,BELOW_10B_THRESHOLD
 SSM,Sono Group N.V. - Ordinary Shares,1315122.0,BELOW_10B_THRESHOLD
+SSMR,Sunshine Silver Mining & Refining Company Common Stock,2128590990.0,BELOW_10B_THRESHOLD
 SSP,E.W. Scripps Company (The) - Class A Common Stock,331145771.0,BELOW_10B_THRESHOLD
 SSRM,SSR Mining Inc. - Common Stock,5920066980.0,BELOW_10B_THRESHOLD
 SST,"System1, Inc. Class A Common Stock",18250249.0,BELOW_10B_THRESHOLD
@@ -3742,7 +3641,7 @@ STFS,Star Fashion Culture Holdings Limited - Class A Ordinary Shares,78096009.0,
 STG,"Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares",28527081.0,BELOW_10B_THRESHOLD
 STGW,Stagwell Inc. - Class A Common Stock,2851693100.0,BELOW_10B_THRESHOLD
 STHO,Star Holdings - Shares of Beneficial Interest,93992771.0,BELOW_10B_THRESHOLD
-STI,"Solidion Technology, Inc. - Common Stock",36915580.0,BELOW_10B_THRESHOLD
+STIM,"Neuronetics, Inc. - Common Stock",169447718.0,BELOW_10B_THRESHOLD
 STKE,Sol Strategies Inc. - Common Shares,45804780.0,BELOW_10B_THRESHOLD
 STKH,Steakholder Foods Ltd. - American Depositary Shares,1615548.0,BELOW_10B_THRESHOLD
 STKS,"The ONE Group Hospitality, Inc. - Common Stock",32263868.0,BELOW_10B_THRESHOLD
@@ -3766,22 +3665,20 @@ STXS,"Stereotaxis, Inc. Common Stock",114731494.0,BELOW_10B_THRESHOLD
 SUGP,SU Group Holdings Limited - Class A Ordinary Shares,2593748.0,BELOW_10B_THRESHOLD
 SUIG,Sui Group Holdings Limited - Common Stock,73500349.0,BELOW_10B_THRESHOLD
 SUJA,"Suja Life, Inc. - Class A Common Stock",402472624.99999994,BELOW_10B_THRESHOLD
-SUMA,SUMA Acquisition Corporation - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SUNE,"SUNation Energy, Inc. - Common Stock",13221609.0,BELOW_10B_THRESHOLD
 SUNS,"Sunrise Realty Trust, Inc. - Common Stock",152217220.0,BELOW_10B_THRESHOLD
+SUPN,"Supernus, Inc. - Common Stock",3260134213.0,BELOW_10B_THRESHOLD
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,532538224.99999994,BELOW_10B_THRESHOLD
 SUPX,SuperX AI Technology Limited - Ordinary Shares,263556663.0,BELOW_10B_THRESHOLD
-SURG,"SurgePays, Inc. - Common Stock",9495608.0,BELOW_10B_THRESHOLD
-SVAQ,Silicon Valley Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SVC,Service Properties Trust - Common Shares of Beneficial Interest,668541616.0,BELOW_10B_THRESHOLD
 SVCC,Stellar V Capital Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
-SVCO,"Silvaco Group, Inc. - Common Stock",247927612.00000003,BELOW_10B_THRESHOLD
 SVIA,"Silvia, Inc. - Common Stock",237348430.0,BELOW_10B_THRESHOLD
 SVIV,Spring Valley Acquisition Corp. IV - Class A Ordinary Shares,,MARKET_CAP_MISSING
 SVM,Silvercorp Metals Inc. Common Shares,2153524540.0,BELOW_10B_THRESHOLD
 SVRA,"Savara, Inc. - Common Stock",1037573076.0,BELOW_10B_THRESHOLD
 SVRE,SaverOne 2014 Ltd. - American Depositary Shares,1927622.9999999998,BELOW_10B_THRESHOLD
 SVRN,"SVRN, Inc. - Common Stock",29356520.000000004,BELOW_10B_THRESHOLD
+SVV,"Savers Value Village, Inc. Common Stock",1629101954.0,BELOW_10B_THRESHOLD
 SWAG,"Stran & Company, Inc. - Common Stock",24604257.0,BELOW_10B_THRESHOLD
 SWBI,"Smith & Wesson Brands, Inc. - Common Stock",809658066.0000001,BELOW_10B_THRESHOLD
 SWIM,"Latham Group, Inc. - Common Stock",989104788.0,BELOW_10B_THRESHOLD
@@ -3794,11 +3691,9 @@ SXI,Standex International Corporation Common Stock,2993973706.0,BELOW_10B_THRESH
 SXT,Sensient Technologies Corporation Common Stock,5178912280.0,BELOW_10B_THRESHOLD
 SXTC,"China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares",321083.0,BELOW_10B_THRESHOLD
 SXTP,"60 Degrees Pharmaceuticals, Inc. - Common Stock",1920979.0,BELOW_10B_THRESHOLD
-SY,So-Young International Inc. - American Depository Shares,199601320.0,BELOW_10B_THRESHOLD
 SYBT,"Stock Yards Bancorp, Inc. - Common Stock",2518803713.0,BELOW_10B_THRESHOLD
 SYNA,Synaptics Incorporated - Common Stock,4658168501.0,BELOW_10B_THRESHOLD
 SYNX,Silynxcom Ltd. Ordinary Shares,6170029.0,BELOW_10B_THRESHOLD
-SYPR,"Sypris Solutions, Inc. - Common Stock",28783040.999999996,BELOW_10B_THRESHOLD
 SZZL,Sizzle Acquisition Corp. II - Class A ordinary shares,,MARKET_CAP_MISSING
 TAC,TransAlta Corporation Ordinary Shares,4315913500.0,BELOW_10B_THRESHOLD
 TACH,Titan Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
@@ -3814,7 +3709,6 @@ TARA,"Protara Therapeutics, Inc.  - Common Stock",154541581.0,BELOW_10B_THRESHOL
 TARS,"Tarsus Pharmaceuticals, Inc. - Common Stock",3492805304.0,BELOW_10B_THRESHOLD
 TASK,"TaskUs, Inc. - Class A Common Stock",840262124.9999999,BELOW_10B_THRESHOLD
 TATT,TAT Technologies Ltd. - Ordinary Shares,500499930.99999994,BELOW_10B_THRESHOLD
-TAVI,Tavia Acquisition Corp. - Ordinary Shares,95151718.96,BELOW_10B_THRESHOLD
 TAYD,"Taylor Devices, Inc. - Common Stock",191789384.0,BELOW_10B_THRESHOLD
 TBBB,BBB Foods Inc. Class A Common Shares,7965964701.0,BELOW_10B_THRESHOLD
 TBBK,"The Bancorp, Inc. - Common Stock",1988134665.9999998,BELOW_10B_THRESHOLD
@@ -3829,13 +3723,13 @@ TCBS,"Texas Community Bancshares, Inc. - Common Stock",50243995.0,BELOW_10B_THRE
 TCBX,"Third Coast Bancshares, Inc. Common Stock",666236995.0,BELOW_10B_THRESHOLD
 TCGX,TCGX Acquisition Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 TCI,"Transcontinental Realty Investors, Inc. Common Stock",425572706.0,BELOW_10B_THRESHOLD
-TCMD,"Tactile Systems Technology, Inc. - Common Stock",595652508.0,BELOW_10B_THRESHOLD
+TCRT,"Alaunos Therapeutics, Inc. - Common Stock",6894527.0,BELOW_10B_THRESHOLD
 TCRX,"TScan Therapeutics, Inc. - Common Stock",11532083.0,BELOW_10B_THRESHOLD
-TCX,Tucows Inc. - Common Stock,151706825.0,BELOW_10B_THRESHOLD
 TCXB,TCGX Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 TDAC,Translational Development Acquisition Corp. - Ordinary Shares,,MARKET_CAP_MISSING
 TDAY,"USA TODAY Co., Inc. Common Stock",1015646476.0,BELOW_10B_THRESHOLD
 TDC,Teradata Corporation Common Stock,2954962000.0,BELOW_10B_THRESHOLD
+TDIC,Dreamland Limited - Class A Ordinary Shares,5716230.0,BELOW_10B_THRESHOLD
 TDOC,"Teladoc Health, Inc. Common Stock",1636085733.0000002,BELOW_10B_THRESHOLD
 TDS,"Telephone and Data Systems, Inc. Common Shares",3698604000.0000005,BELOW_10B_THRESHOLD
 TDTH,Trident Digital Tech Holdings Ltd - Class B Ordinary Shares,45891817.0,BELOW_10B_THRESHOLD
@@ -3881,11 +3775,9 @@ TIGR,UP Fintech Holding Limited - American Depositary Shares representing fiftee
 TII,Titan Mining Corporation Common Shares,200930062.0,BELOW_10B_THRESHOLD
 TIL,"Instil Bio, Inc. - Common Stock",43879385.0,BELOW_10B_THRESHOLD
 TILE,"Interface, Inc. - Common Stock",1847302702.0,BELOW_10B_THRESHOLD
-TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,8829336660.0,BELOW_10B_THRESHOLD
 TIPT,Tiptree Inc. - Common Stock,643270727.0,BELOW_10B_THRESHOLD
 TISI,"Team, Inc. Common Stock",98722322.0,BELOW_10B_THRESHOLD
 TITN,Titan Machinery Inc. - Common Stock,567613476.0,BELOW_10B_THRESHOLD
-TJGC,TJGC Group Limited - Class A Ordinary Shares,,MARKET_CAP_MISSING
 TK,Teekay Corporation Ltd. Common Stock,1114670244.0,BELOW_10B_THRESHOLD
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock,4175600000.0,BELOW_10B_THRESHOLD
 TKLF,"Tokyo Lifestyle Co., Ltd. - American Depositary Shares",8095560.0,BELOW_10B_THRESHOLD
@@ -3893,10 +3785,9 @@ TKNO,"Alpha Teknova, Inc. - Common Stock",537821762.0,BELOW_10B_THRESHOLD
 TKR,Timken Company (The) Common Stock,7469440602.0,BELOW_10B_THRESHOLD
 TLAC,Three Lions Acquisition Corp. - Ordinary Shares,,MARKET_CAP_MISSING
 TLF,"Tandy Leather Factory, Inc. - common stock",17367199.0,BELOW_10B_THRESHOLD
-TLIH,Ten-League International Holdings Limited - Ordinary Shares,16319413.999999998,BELOW_10B_THRESHOLD
 TLNC,Talon Capital Corp. - Class A Ordinary Shares,,MARKET_CAP_MISSING
+TLPH,"Talphera, Inc. - Common Stock",56577318.0,BELOW_10B_THRESHOLD
 TLRY,"Tilray Brands, Inc. - Common Stock",421194441.0,BELOW_10B_THRESHOLD
-TLS,Telos Corporation - Common Stock,535862777.0,BELOW_10B_THRESHOLD
 TLSA,Tiziana Life Sciences Ltd - Common Shares,85149085.0,BELOW_10B_THRESHOLD
 TLSI,"TriSalus Life Sciences, Inc. - Common Stock",198270212.0,BELOW_10B_THRESHOLD
 TLX,Telix Pharmaceuticals Limited - American Depositary Shares,3350505015.0000005,BELOW_10B_THRESHOLD
@@ -3909,7 +3800,6 @@ TMDX,"TransMedics Group, Inc. - Common Stock",3257690886.9999995,BELOW_10B_THRES
 TMP,Tompkins Financial Corporation Common Stock,1447529791.0,BELOW_10B_THRESHOLD
 TMQ,Trilogy Metals Inc. Common Stock,421664811.00000006,BELOW_10B_THRESHOLD
 TMS,Teamshares Inc. - Common Stock,377878447.0,BELOW_10B_THRESHOLD
-TMTS,Spartacus Acquisition Corp. II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 TNC,Tennant Company Common Stock,1268508520.0,BELOW_10B_THRESHOLD
 TNDM,"Tandem Diabetes Care, Inc. - Common Stock",1268154182.0,BELOW_10B_THRESHOLD
 TNET,"TriNet Group, Inc. Common Stock",2955670233.0,BELOW_10B_THRESHOLD
@@ -3940,7 +3830,7 @@ TPET,Trio Petroleum Corp. Common Stock,8518251.0,BELOW_10B_THRESHOLD
 TPST,"Tempest Therapeutics, Inc. - Common Stock",7234321.000000001,BELOW_10B_THRESHOLD
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,173786042.0,BELOW_10B_THRESHOLD
 TR,"Tootsie Roll Industries, Inc. Common Stock",2927850014.0,BELOW_10B_THRESHOLD
-TRAD,APEX Tech Acquisition Inc. Ordinary Shares,148126440.0,BELOW_10B_THRESHOLD
+TRAD,APEX Tech Acquisition Inc. Ordinary Shares,147980070.0,BELOW_10B_THRESHOLD
 TRAK,"ReposiTrak, Inc. Common Stock",132454520.99999999,BELOW_10B_THRESHOLD
 TRAW,"Traws Pharma, Inc. - Common Stock",3688385.9999999995,BELOW_10B_THRESHOLD
 TRAX,"First Tracks Biotherapeutics, Inc. - Ordinary Shares",2088289680.0,BELOW_10B_THRESHOLD
@@ -3961,18 +3851,16 @@ TRN,"Trinity Industries, Inc. Common Stock",2333854548.0,BELOW_10B_THRESHOLD
 TRNO,Terreno Realty Corporation Common Stock,7432287320.0,BELOW_10B_THRESHOLD
 TRNR,Interactive Strength Inc. - Common Stock,1992232.9999999998,BELOW_10B_THRESHOLD
 TRNS,"Transcat, Inc. - Common Stock",1030394928.0,BELOW_10B_THRESHOLD
-TRON,Tron Inc. - Common Stock,687926493.0,BELOW_10B_THRESHOLD
 TROO,"TROOPS, Inc.  - Ordinary Shares",252871544.0,BELOW_10B_THRESHOLD
 TROX,Tronox Holdings plc Ordinary Shares (UK),432001111.0,BELOW_10B_THRESHOLD
 TRS,TriMas Corporation - Common Stock,1374686813.0,BELOW_10B_THRESHOLD
 TRSG,Tungray Technologies Inc - Class A Ordinary Shares,17988834.0,BELOW_10B_THRESHOLD
+TRST,TrustCo Bank Corp NY - Common Stock,960096416.9999999,BELOW_10B_THRESHOLD
 TRT,Trio-Tech International - Common Stock,51456179.0,BELOW_10B_THRESHOLD
-TRTX,"TPG RE Finance Trust, Inc. Common Stock",511452804.99999994,BELOW_10B_THRESHOLD
 TRUG,"TruGolf Holdings, Inc. - Class A Common Stock",1103603.0,BELOW_10B_THRESHOLD
 TRUP,"Trupanion, Inc. - Common Stock",1535940586.0,BELOW_10B_THRESHOLD
 TRVG,trivago N.V. - American Depositary Shares,258468007.0,BELOW_10B_THRESHOLD
 TRVI,"Trevi Therapeutics, Inc. - Common Stock",2181305126.0,BELOW_10B_THRESHOLD
-TRX,TRX Gold Corporation Common Stock,330748749.0,BELOW_10B_THRESHOLD
 TRXB,"TRex Bio, Inc. - Common stock",372986818.0,BELOW_10B_THRESHOLD
 TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares,1637957762.0,BELOW_10B_THRESHOLD
 TSBK,"Timberland Bancorp, Inc. - Common Stock",373698604.0,BELOW_10B_THRESHOLD
@@ -3981,7 +3869,6 @@ TSLX,"Sixth Street Specialty Lending, Inc. Common Stock",1716136941.0,BELOW_10B_
 TSQ,"Townsquare Media, Inc. Class A Common Stock",32097863.0,BELOW_10B_THRESHOLD
 TSSI,"TSS, Inc. - Common Stock",200363561.99999997,BELOW_10B_THRESHOLD
 TTAM,Titan America SA Common Shares,2144135468.0,BELOW_10B_THRESHOLD
-TTAN,"ServiceTitan, Inc. - Class A Common Stock",7960531356.0,BELOW_10B_THRESHOLD
 TTD,"The Trade Desk, Inc. - Class A Common Stock",7058830903.000001,BELOW_10B_THRESHOLD
 TTEC,"TTEC Holdings, Inc. - Common Stock",68767836.0,BELOW_10B_THRESHOLD
 TTGT,"TechTarget, Inc. - Common Stock",219833670.0,BELOW_10B_THRESHOLD
@@ -3989,12 +3876,10 @@ TTI,"Tetra Technologies, Inc. Common Stock",912844365.0,BELOW_10B_THRESHOLD
 TTMI,"TTM Technologies, Inc. - Common Stock",7937937922.0,BELOW_10B_THRESHOLD
 TTRX,Turn Therapeutics Inc. - Common Stock,298915172.0,BELOW_10B_THRESHOLD
 TULP,"Bloomia Holdings, Inc. - Common Stock",10434884.0,BELOW_10B_THRESHOLD
-TURB,"Turbo Energy, S.A. - American Depositary Shares",10214569.0,BELOW_10B_THRESHOLD
 TUSK,"Mammoth Energy Services, Inc. - Common Stock",147270410.0,BELOW_10B_THRESHOLD
 TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share",990457058.0,BELOW_10B_THRESHOLD
 TV,Grupo Televisa S.A.B. Common Stock,1456506096.0,BELOW_10B_THRESHOLD
 TVA,Texas Ventures Acquisition III Corp - Class A Ordinary Share,,MARKET_CAP_MISSING
-TVAI,Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 TVGN,Tevogen Inc. - Common Stock,396420759.0,BELOW_10B_THRESHOLD
 TVIV,Texas Ventures Acquisition IV Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 TVRD,"Tvardi Therapeutics, Inc. - Common Stock",18807910.0,BELOW_10B_THRESHOLD
@@ -4011,18 +3896,15 @@ TXMD,"TherapeuticsMD, Inc. - Common Stock",19560672.0,BELOW_10B_THRESHOLD
 TXNM,"TXNM Energy, Inc. Common Stock",6417027860.0,BELOW_10B_THRESHOLD
 TY,Tri Continental Corporation Common Stock,1865867599.0,BELOW_10B_THRESHOLD
 TYG,Tortoise Energy Infrastructure Corporation Common Stock,440974574.0,BELOW_10B_THRESHOLD
-TYGO,"Tigo Energy, Inc. - Common Stock",58967170.0,BELOW_10B_THRESHOLD
 TYRA,"Tyra Biosciences, Inc. - Common Stock",1533257440.0,BELOW_10B_THRESHOLD
 TZOO,Travelzoo - Common Stock,54378456.0,BELOW_10B_THRESHOLD
 UA,"Under Armour, Inc. Class C Common Stock",2265865517.0,BELOW_10B_THRESHOLD
-UAC,United Acquisition Corp. I Class A Ordinary Shares,,MARKET_CAP_MISSING
 UAMY,United States Antimony Corporation Common Stock,520849456.0,BELOW_10B_THRESHOLD
 UAVS,"AgEagle Aerial Systems, Inc. Common Stock",23231077.0,BELOW_10B_THRESHOLD
 UBCP,"United Bancorp, Inc. - Common Stock",83451787.0,BELOW_10B_THRESHOLD
 UBSI,"United Bankshares, Inc. - Common Stock",6563975614.0,BELOW_10B_THRESHOLD
 UCAR,U Power Limited - Class A Ordinary Shares,5484558.0,BELOW_10B_THRESHOLD
 UCB,"United Community Banks, Inc. Common Stock",4481765063.0,BELOW_10B_THRESHOLD
-UCFI,CN Healthy Food Tech Group Corp. - Common Stock,287814756.33000004,BELOW_10B_THRESHOLD
 UCL,uCloudlink Group Inc. - American Depositary Shares,8186025.0,BELOW_10B_THRESHOLD
 UCTT,"Ultra Clean Holdings, Inc. - Common Stock",2200891697.0,BELOW_10B_THRESHOLD
 UE,Urban Edge Properties Common Shares of Beneficial Interest,2607263941.0,BELOW_10B_THRESHOLD
@@ -4035,23 +3917,20 @@ UFPI,"UFP Industries, Inc. - Common Stock",4512850887.0,BELOW_10B_THRESHOLD
 UFPT,"UFP Technologies, Inc. - Common Stock",2470203956.0,BELOW_10B_THRESHOLD
 UG,"United-Guardian, Inc. - Common Stock",40659723.0,BELOW_10B_THRESHOLD
 UGI,UGI Corporation Common Stock,8041416313.000001,BELOW_10B_THRESHOLD
+UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share),6109327954.0,BELOW_10B_THRESHOLD
 UHT,Universal Health Realty Income Trust Common Stock,545701790.0,BELOW_10B_THRESHOLD
 UIS,Unisys Corporation New Common Stock,198015082.0,BELOW_10B_THRESHOLD
 UK,Ucommune International Ltd  - Class A Ordinary Shares,1084722.0,BELOW_10B_THRESHOLD
 ULBI,Ultralife Corporation - Common Stock,261521689.0,BELOW_10B_THRESHOLD
-ULCC,"Frontier Group Holdings, Inc. - Common Stock",1923986551.0000002,BELOW_10B_THRESHOLD
-ULH,"Universal Logistics Holdings, Inc. - Common Stock",780750706.0,BELOW_10B_THRESHOLD
 UMAC,"Unusual Machines, Inc. Common Stock",700288860.0,BELOW_10B_THRESHOLD
 UMH,"UMH Properties, Inc. Common Stock",1263229959.0,BELOW_10B_THRESHOLD
 UNB,"Union Bankshares, Inc. - Common Stock",113013084.00000001,BELOW_10B_THRESHOLD
 UNCY,"Unicycive Therapeutics, Inc. - Common Stock",103064450.99999999,BELOW_10B_THRESHOLD
-UNF,Unifirst Corporation Common Stock,4309373559.0,BELOW_10B_THRESHOLD
 UNFI,"United Natural Foods, Inc. Common Stock",2865838631.0,BELOW_10B_THRESHOLD
 UNIT,Uniti Group Inc. - Common Stock,1067990593.9999999,BELOW_10B_THRESHOLD
 UNTY,"Unity Bancorp, Inc. - Common Stock",588950150.0,BELOW_10B_THRESHOLD
 UONE,"Urban One, Inc.  - Class A Common Stock",17998360.0,BELOW_10B_THRESHOLD
 UP,Wheels Up Experience Inc. Class A Common Stock,100063266.0,BELOW_10B_THRESHOLD
-UPB,"Upstream Bio, Inc. - Common Stock",196080327.0,BELOW_10B_THRESHOLD
 UPBD,"Upbound Group, Inc. - Common Stock",1438902738.0,BELOW_10B_THRESHOLD
 UPC,Universe Pharmaceuticals Inc - Class A Ordinary Shares,8039024.0,BELOW_10B_THRESHOLD
 UPLD,"Upland Software, Inc. - Common Stock",10829629.0,BELOW_10B_THRESHOLD
@@ -4098,22 +3977,19 @@ VATE,INNOVATE Corp. Common Stock,74348170.0,BELOW_10B_THRESHOLD
 VBIO,"Valion Bio, Inc. - Common stock",1164044.0,BELOW_10B_THRESHOLD
 VBNK,VersaBank - Common Shares,802696396.0,BELOW_10B_THRESHOLD
 VC,Visteon Corporation - Common Stock,1927960246.0,BELOW_10B_THRESHOLD
-VCEL,Vericel Corporation - Common Stock,2979628270.0,BELOW_10B_THRESHOLD
-VCRE,Vicore Pharma Holding AB - American Depositary Shares,3161532409.0,BELOW_10B_THRESHOLD
+VCIG,VCI Global Limited - Ordinary Share,3567223.0,BELOW_10B_THRESHOLD
 VCTR,"Victory Capital Holdings, Inc. - Common Stock",7836738197.0,BELOW_10B_THRESHOLD
 VCYT,"Veracyte, Inc. - Common Stock",2091626842.0000002,BELOW_10B_THRESHOLD
-VECA,Vernal Capital Acquisition Corp. Ordinary Shares,129540600.0,BELOW_10B_THRESHOLD
+VECA,Vernal Capital Acquisition Corp. Ordinary Shares,129669112.5,BELOW_10B_THRESHOLD
 VECO,Veeco Instruments Inc. - Common Stock,2421150217.0,BELOW_10B_THRESHOLD
 VEEA,Veea Inc. - Common Stock,14402578.0,BELOW_10B_THRESHOLD
 VEEE,Twin Vee PowerCats Co. - Common Stock,4590036.0,BELOW_10B_THRESHOLD
 VEL,"Velocity Financial, Inc. Common Stock",695000382.0,BELOW_10B_THRESHOLD
-VELO,"Velo3D, Inc. - Common stock",200289005.0,BELOW_10B_THRESHOLD
 VENU,Venu Holding Corporation Common Stock,69465820.0,BELOW_10B_THRESHOLD
 VEON,VEON Ltd. - American Depositary Shares,5283719492.0,BELOW_10B_THRESHOLD
 VERA,"Vera Therapeutics, Inc. - Class A Common Stock",2213065350.0,BELOW_10B_THRESHOLD
 VERI,"Veritone, Inc. - Common Stock",65375118.0,BELOW_10B_THRESHOLD
 VERU,Veru Inc. - Common Stock,37340201.0,BELOW_10B_THRESHOLD
-VERX,"Vertex, Inc. - Class A Common Stock",2807232542.0,BELOW_10B_THRESHOLD
 VET,Vermilion Energy Inc. Common (Canada),1548065000.0,BELOW_10B_THRESHOLD
 VFC,V.F. Corporation Common Stock,8213279029.0,BELOW_10B_THRESHOLD
 VFF,"Village Farms International, Inc. - Common Shares",347293083.0,BELOW_10B_THRESHOLD
@@ -4157,7 +4033,6 @@ VMI,"Valmont Industries, Inc. Common Stock",8016755911.0,BELOW_10B_THRESHOLD
 VNCE,Vince Holding Corp. - Common Stock,169576212.0,BELOW_10B_THRESHOLD
 VNDA,Vanda Pharmaceuticals Inc. - Common Stock,247321020.0,BELOW_10B_THRESHOLD
 VNET,"VNET Group, Inc. - American Depositary Shares",932813207.0,BELOW_10B_THRESHOLD
-VNME,Vendome Acquisition Corporation I - Class A Ordinary Shares,,MARKET_CAP_MISSING
 VNO,Vornado Realty Trust Common Stock,6855667418.0,BELOW_10B_THRESHOLD
 VNRX,VolitionRX Limited Common Stock,6147406.0,BELOW_10B_THRESHOLD
 VNT,Vontier Corporation Common Stock ,5826600000.0,BELOW_10B_THRESHOLD
@@ -4169,6 +4044,7 @@ VOYA,"Voya Financial, Inc. Common Stock",9341073887.0,BELOW_10B_THRESHOLD
 VOYG,"Voyager Technologies, Inc. Class A Common Stock",1732855433.0,BELOW_10B_THRESHOLD
 VPG,"Vishay Precision Group, Inc. Common Stock",647905715.0,BELOW_10B_THRESHOLD
 VRA,"Vera Bradley, Inc. - Common Stock",230943745.0,BELOW_10B_THRESHOLD
+VRAX,Virax Biolabs Group Limited - Ordinary Shares,954807.0,BELOW_10B_THRESHOLD
 VRCA,Verrica Pharmaceuticals Inc. - Common Stock,61671842.0,BELOW_10B_THRESHOLD
 VRDN,"Viridian Therapeutics, Inc.  - Common Stock",3428329575.0,BELOW_10B_THRESHOLD
 VREX,Varex Imaging Corporation - Common Stock,776745000.0,BELOW_10B_THRESHOLD
@@ -4207,7 +4083,6 @@ WAFU,Wah Fu Education & Technology Group Ltd. - Ordinary Shares,6042466.0,BELOW_
 WAL,Western Alliance Bancorporation Common Stock (DE),8307060319.999999,BELOW_10B_THRESHOLD
 WASH,"Washington Trust Bancorp, Inc. - Common Stock",752658793.0,BELOW_10B_THRESHOLD
 WATR,Air Water Ventures Limited - Ordinary Shares,52837888.0,BELOW_10B_THRESHOLD
-WATT,Energous Corporation - Common Stock,48030247.0,BELOW_10B_THRESHOLD
 WAVE,Eco Wave Power Global AB (publ) - American Depositary Shares,28515264.0,BELOW_10B_THRESHOLD
 WAY,Waystar Holding Corp. - Common Stock,5613988580.0,BELOW_10B_THRESHOLD
 WB,Weibo Corporation - American Depositary Shares,1574761187.0,BELOW_10B_THRESHOLD
@@ -4215,12 +4090,11 @@ WBI,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability
 WBTN,WEBTOON Entertainment Inc. - Common stock,1347610925.0,BELOW_10B_THRESHOLD
 WBUY,WEBUY GLOBAL LTD. - Class A Ordinary Shares,2697348.0,BELOW_10B_THRESHOLD
 WBX,Wallbox N.V. Class A Ordinary Shares,63789233.99999999,BELOW_10B_THRESHOLD
-WCCB,West Coast Community Bancorp - Common Stock,663122470.0,BELOW_10B_THRESHOLD
 WCT,Wellchange Holdings Company Limited - Class A Ordinary shares,48012565.0,BELOW_10B_THRESHOLD
 WD,"Walker & Dunlop, Inc Common Stock",1432816033.0,BELOW_10B_THRESHOLD
 WDFC,WD-40 Company - Common Stock,2994023499.0,BELOW_10B_THRESHOLD
 WEN,Wendy's Company (The) - Common Stock,1587316062.0,BELOW_10B_THRESHOLD
-WENC,West Enclave Merger Corp. Ordinary Shares,161458804.98000005,BELOW_10B_THRESHOLD
+WENC,West Enclave Merger Corp. Ordinary Shares,161442755.39699998,BELOW_10B_THRESHOLD
 WENN,Wen Acquisition Corp - Class A Ordinary Shares,,MARKET_CAP_MISSING
 WERN,"Werner Enterprises, Inc. - Common Stock",1672762880.9999998,BELOW_10B_THRESHOLD
 WEST,Westrock Coffee Company - Common Stock,879653879.0,BELOW_10B_THRESHOLD
@@ -4270,12 +4144,14 @@ WORX,SCWorx Corp. - Common Stock,1928068.0000000002,BELOW_10B_THRESHOLD
 WPAC,White Pearl Acquisition Corp. Class A Ordinary Shares,,MARKET_CAP_MISSING
 WPP,WPP plc American Depositary Shares,5995983517.0,BELOW_10B_THRESHOLD
 WQEY,WISeQey Corp - Ordinary Shares,84139796.0,BELOW_10B_THRESHOLD
+WRAP,"Wrap Technologies, Inc. - Common Stock",83189655.0,BELOW_10B_THRESHOLD
 WRBY,Warby Parker Inc. Class A Common Stock,3754300194.9999995,BELOW_10B_THRESHOLD
 WRD,WeRide Inc. - American Depositary Shares,1501949008.0,BELOW_10B_THRESHOLD
 WRLD,World Acceptance Corporation - Common Stock,678026372.0,BELOW_10B_THRESHOLD
 WRN,Western Copper and Gold Corporation Common Stock,358647731.0,BELOW_10B_THRESHOLD
 WS,"Worthington Steel, Inc. Common Shares",1994143005.9999998,BELOW_10B_THRESHOLD
 WSBC,"WesBanco, Inc. - Common Stock",3786613260.0,BELOW_10B_THRESHOLD
+WSBF,"Waterstone Financial, Inc. - Common Stock",368708844.0,BELOW_10B_THRESHOLD
 WSBK,"Winchester Bancorp, Inc. - Common Stock",127253697.0,BELOW_10B_THRESHOLD
 WSC,WillScot Holdings Corporation - Class A Common Stock,3748163159.0,BELOW_10B_THRESHOLD
 WSFS,WSFS Financial Corporation - Common Stock,4035062709.0000005,BELOW_10B_THRESHOLD
@@ -4283,8 +4159,6 @@ WSHP,WeShop Holdings Limited - Class A Ordinary Shares,54730721.00000001,BELOW_1
 WSTN,Westin Acquisition Corp - Class A Ordinary Share,82563750.0,BELOW_10B_THRESHOLD
 WT,"WisdomTree, Inc. Common Stock",3154228431.0,BELOW_10B_THRESHOLD
 WTBA,West Bancorporation - Common Stock,529549094.99999994,BELOW_10B_THRESHOLD
-WTF,Waton Financial Limited - Ordinary Shares,97198506.0,BELOW_10B_THRESHOLD
-WTG,Wintergreen Acquisition Corp. - Ordinary Shares,18261249.6,BELOW_10B_THRESHOLD
 WTI,"W&T Offshore, Inc. Common Stock",476303059.99999994,BELOW_10B_THRESHOLD
 WTM,"White Mountains Insurance Group, Ltd. Common Stock",5381784632.0,BELOW_10B_THRESHOLD
 WTTR,"Select Water Solutions, Inc. Class A common stock",2166661024.0,BELOW_10B_THRESHOLD
@@ -4304,14 +4178,12 @@ XAIR,"Beyond Air, Inc. - Common Stock",3863918.0,BELOW_10B_THRESHOLD
 XBIO,"Xenetic Biosciences, Inc. - Common Stock",4288021.0,BELOW_10B_THRESHOLD
 XBIT,XBiotech Inc. - Common Stock,58231566.0,BELOW_10B_THRESHOLD
 XBP,"XBP Global Holdings, Inc. - Common Stock",42186620.0,BELOW_10B_THRESHOLD
-XCBE,X3 Acquisition Corp. Ltd. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 XCH,XCHG Limited - ADS,22796135.0,BELOW_10B_THRESHOLD
 XCUR,"Exicure, Inc. - Common Stock",5827899.0,BELOW_10B_THRESHOLD
 XE,"X-Energy, Inc. - Class A Common Stock",4535045765.0,BELOW_10B_THRESHOLD
-XELB,"Xcel Brands, Inc - Common Stock",2789789.0,BELOW_10B_THRESHOLD
 XENE,Xenon Pharmaceuticals Inc. - Common Shares,3917195473.9999995,BELOW_10B_THRESHOLD
 XERS,"Xeris Biopharma Holdings, Inc. - Common Stock",2897622603.0,BELOW_10B_THRESHOLD
-XFLH,XFLH Capital Corporation Ordinary Shares,140966275.45000002,BELOW_10B_THRESHOLD
+XFLH,XFLH Capital Corporation Ordinary Shares,,MARKET_CAP_MISSING
 XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",340038135.0,BELOW_10B_THRESHOLD
 XGN,Exagen Inc. - Common Stock,171999907.0,BELOW_10B_THRESHOLD
 XHG,XChange TEC.INC - American Depositary Shares,175262948.0,BELOW_10B_THRESHOLD
@@ -4327,7 +4199,6 @@ XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,876
 XNET,Xunlei Limited - American Depositary Shares,224697858.0,BELOW_10B_THRESHOLD
 XOS,"Xos, Inc. - Common Stock",33838488.0,BELOW_10B_THRESHOLD
 XP,XP Inc. - Class A Common Stock,8018285695.999999,BELOW_10B_THRESHOLD
-XPEL,"XPEL, Inc. - Common Stock",1045917292.9999999,BELOW_10B_THRESHOLD
 XPER,Xperi Inc. Common Stock ,284129385.0,BELOW_10B_THRESHOLD
 XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",9772315734.0,BELOW_10B_THRESHOLD
 XPL,Solitario Resources Corp. Common Stock,45238724.0,BELOW_10B_THRESHOLD
@@ -4340,6 +4211,7 @@ XRPN,Evernorth Holdings Inc. - Class A Ordinary Shares,,MARKET_CAP_MISSING
 XRTX,XORTX Therapeutics Inc. - Common Shares,1534997.0,BELOW_10B_THRESHOLD
 XRX,Xerox Holdings Corporation - Common Stock,138537103.0,BELOW_10B_THRESHOLD
 XSLL,Xsolla SPAC 1 - Class A Ordinary Shares,,MARKET_CAP_MISSING
+XTER,Xterax Corporation II - Class A Ordinary Shares,,MARKET_CAP_MISSING
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",36092166.0,BELOW_10B_THRESHOLD
 XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,3833642.0000000005,BELOW_10B_THRESHOLD
 XTND,"Xtend AI Robotics, Inc. Common Stock",326145068.0,BELOW_10B_THRESHOLD
@@ -4376,7 +4248,6 @@ YOU,"Clear Secure, Inc. Class A Common Stock",7233200595.0,BELOW_10B_THRESHOLD
 YOUL,Youlife Group Inc. - American Depositary Shares,10856186.0,BELOW_10B_THRESHOLD
 YQ,17 Education & Technology Group Inc. - American Depositary Shares,28767573.0,BELOW_10B_THRESHOLD
 YRD,"Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",33044392.0,BELOW_10B_THRESHOLD
-YSG,"Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",183976188.0,BELOW_10B_THRESHOLD
 YSS,York Space Systems Inc. Common Stock,975238996.0,BELOW_10B_THRESHOLD
 YSWY,"Yesway, Inc. - Class A Common Stock",1601354864.0,BELOW_10B_THRESHOLD
 YSXT,"YSX Tech. Co., Ltd  - Class A Ordinary Shares",43997850.0,BELOW_10B_THRESHOLD
@@ -4405,7 +4276,7 @@ ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty-five
 ZKIN,"ZK International Group Co., Ltd - Ordinary Share",88547516.0,BELOW_10B_THRESHOLD
 ZKP,Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares,,MARKET_CAP_MISSING
 ZLAB,Zai Lab Limited - American Depositary Shares,3020268268.0,BELOW_10B_THRESHOLD
-ZNB,Zeta Network Group - Class A Ordinary Shares,5402232.0,BELOW_10B_THRESHOLD
+ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",164723308.0,BELOW_10B_THRESHOLD
 ZONE,Zone Frontier Inc. Class B Common Stock,26344467.0,BELOW_10B_THRESHOLD
 ZOOZ,ZOOZ Strategy Ltd. - Ordinary Shares,41730058.0,BELOW_10B_THRESHOLD
 ZSQR,Z Squared Inc. - Common Stock,147871108.0,BELOW_10B_THRESHOLD

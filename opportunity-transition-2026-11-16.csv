@@ -1,0 +1,31 @@
+Ticker,Old_Type,New_Type,Reason
+AAPL,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+AEG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/PARTIAL
+AFRM,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+AMD,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+CVS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+DELL,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+DHI,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+DOCN,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+ECHO,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+EME,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+FRO,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+FTS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+GOOG,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+HII,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+JAN,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Insufficient/PENDING
+KHC,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+LDOS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+MCO,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+NBIX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+RBC,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+ROST,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+SCI,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+STM,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Downtrend; location=Deep Pullback; fundamental=Stable/MINIMUM_COMPLETE
+STZ,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+SWK,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+SYK,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Insufficient/PENDING
+TMUS,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Pullback; fundamental=Stable/MINIMUM_COMPLETE
+TRU,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Stable/MINIMUM_COMPLETE
+U,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Uptrend; location=Near High; fundamental=Insufficient/PENDING
+VRTX,NOT_IN_PRIOR_UNIVERSE,UNCLASSIFIED,Technical 2026-11-16: trend=Mixed / Neutral; location=Near High; fundamental=Stable/MINIMUM_COMPLETE

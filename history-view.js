@@ -47,6 +47,10 @@ async function loadFullHistory(stock) {
 const originalRenderSelected = renderSelected;
 renderSelected = function () {
   state.historyOffset = 0;
+  // A chart index is relative to the current visible history window.  It must
+  // not carry over from the previously selected symbol, or a newly selected
+  // ticker opens on an older candle instead of its target-session close.
+  state.chartIndex = null;
   originalRenderSelected();
   const stock = currentStock();
   if (!stock) return;
